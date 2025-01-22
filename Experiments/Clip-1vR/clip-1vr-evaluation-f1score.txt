@@ -1,0 +1,688 @@
+                                  Experiment    Metric  File     Value                         Model       CNN          RNN                     Phase
+0              Evaluation-ResNet50_BiGRU-Inc  F1-Score     1  0.953668            ResNet50-BiGRU-Inc  ResNet50        BiGRU                  Incision
+1              Evaluation-ResNet50_BiGRU-Inc  F1-Score     2  0.899326            ResNet50-BiGRU-Inc  ResNet50        BiGRU                  Incision
+2              Evaluation-ResNet50_BiGRU-Inc  F1-Score     3  0.910714            ResNet50-BiGRU-Inc  ResNet50        BiGRU                  Incision
+3              Evaluation-ResNet50_BiGRU-Inc  F1-Score     4  0.960769            ResNet50-BiGRU-Inc  ResNet50        BiGRU                  Incision
+4              Evaluation-ResNet50_BiGRU-Inc  F1-Score     5  0.955325            ResNet50-BiGRU-Inc  ResNet50        BiGRU                  Incision
+5             Evaluation-ResNet50_BiLSTM-Inc  F1-Score     1  0.944368           ResNet50-BiLSTM-Inc  ResNet50       BiLSTM                  Incision
+6             Evaluation-ResNet50_BiLSTM-Inc  F1-Score     2  0.890584           ResNet50-BiLSTM-Inc  ResNet50       BiLSTM                  Incision
+7             Evaluation-ResNet50_BiLSTM-Inc  F1-Score     3  0.928549           ResNet50-BiLSTM-Inc  ResNet50       BiLSTM                  Incision
+8             Evaluation-ResNet50_BiLSTM-Inc  F1-Score     4  0.901923           ResNet50-BiLSTM-Inc  ResNet50       BiLSTM                  Incision
+9             Evaluation-ResNet50_BiLSTM-Inc  F1-Score     5  0.937455           ResNet50-BiLSTM-Inc  ResNet50       BiLSTM                  Incision
+10               Evaluation-ResNet50_GRU-Inc  F1-Score     1  0.972201              ResNet50-GRU-Inc  ResNet50          GRU                  Incision
+11               Evaluation-ResNet50_GRU-Inc  F1-Score     2  0.898990              ResNet50-GRU-Inc  ResNet50          GRU                  Incision
+12               Evaluation-ResNet50_GRU-Inc  F1-Score     3  0.910686              ResNet50-GRU-Inc  ResNet50          GRU                  Incision
+13               Evaluation-ResNet50_GRU-Inc  F1-Score     4  0.921569              ResNet50-GRU-Inc  ResNet50          GRU                  Incision
+14               Evaluation-ResNet50_GRU-Inc  F1-Score     5  0.964274              ResNet50-GRU-Inc  ResNet50          GRU                  Incision
+15              Evaluation-ResNet50_LSTM-Inc  F1-Score     1  0.953668             ResNet50-LSTM-Inc  ResNet50         LSTM                  Incision
+16              Evaluation-ResNet50_LSTM-Inc  F1-Score     2  0.917630             ResNet50-LSTM-Inc  ResNet50         LSTM                  Incision
+17              Evaluation-ResNet50_LSTM-Inc  F1-Score     3  0.901778             ResNet50-LSTM-Inc  ResNet50         LSTM                  Incision
+18              Evaluation-ResNet50_LSTM-Inc  F1-Score     4  0.931313             ResNet50-LSTM-Inc  ResNet50         LSTM                  Incision
+19              Evaluation-ResNet50_LSTM-Inc  F1-Score     5  0.964274             ResNet50-LSTM-Inc  ResNet50         LSTM                  Incision
+20        Evaluation-ResNet50_Mamba-best-Inc  F1-Score     1  0.944272       ResNet50-Mamba-best-Inc  ResNet50        Mamba                  Incision
+21        Evaluation-ResNet50_Mamba-best-Inc  F1-Score     2  0.908608       ResNet50-Mamba-best-Inc  ResNet50        Mamba                  Incision
+22        Evaluation-ResNet50_Mamba-best-Inc  F1-Score     3  0.901778       ResNet50-Mamba-best-Inc  ResNet50        Mamba                  Incision
+23        Evaluation-ResNet50_Mamba-best-Inc  F1-Score     4  0.960784       ResNet50-Mamba-best-Inc  ResNet50        Mamba                  Incision
+24        Evaluation-ResNet50_Mamba-best-Inc  F1-Score     5  0.955354       ResNet50-Mamba-best-Inc  ResNet50        Mamba                  Incision
+25       Evaluation-ResNet50_Transformer-Inc  F1-Score     1  0.953668      ResNet50-Transformer-Inc  ResNet50  Transformer                  Incision
+26       Evaluation-ResNet50_Transformer-Inc  F1-Score     2  0.881338      ResNet50-Transformer-Inc  ResNet50  Transformer                  Incision
+27       Evaluation-ResNet50_Transformer-Inc  F1-Score     3  0.919636      ResNet50-Transformer-Inc  ResNet50  Transformer                  Incision
+28       Evaluation-ResNet50_Transformer-Inc  F1-Score     4  0.901923      ResNet50-Transformer-Inc  ResNet50  Transformer                  Incision
+29       Evaluation-ResNet50_Transformer-Inc  F1-Score     5  0.955325      ResNet50-Transformer-Inc  ResNet50  Transformer                  Incision
+30                Evaluation-VGG16_BiGRU-Inc  F1-Score     1  0.934912               VGG16-BiGRU-Inc     VGG16        BiGRU                  Incision
+31                Evaluation-VGG16_BiGRU-Inc  F1-Score     2  0.927273               VGG16-BiGRU-Inc     VGG16        BiGRU                  Incision
+32                Evaluation-VGG16_BiGRU-Inc  F1-Score     3  0.892549               VGG16-BiGRU-Inc     VGG16        BiGRU                  Incision
+33                Evaluation-VGG16_BiGRU-Inc  F1-Score     4  0.950976               VGG16-BiGRU-Inc     VGG16        BiGRU                  Incision
+34                Evaluation-VGG16_BiGRU-Inc  F1-Score     5  0.946411               VGG16-BiGRU-Inc     VGG16        BiGRU                  Incision
+35               Evaluation-VGG16_BiLSTM-Inc  F1-Score     1  0.953604              VGG16-BiLSTM-Inc     VGG16       BiLSTM                  Incision
+36               Evaluation-VGG16_BiLSTM-Inc  F1-Score     2  0.899593              VGG16-BiLSTM-Inc     VGG16       BiLSTM                  Incision
+37               Evaluation-VGG16_BiLSTM-Inc  F1-Score     3  0.928549              VGG16-BiLSTM-Inc     VGG16       BiLSTM                  Incision
+38               Evaluation-VGG16_BiLSTM-Inc  F1-Score     4  0.941176              VGG16-BiLSTM-Inc     VGG16       BiLSTM                  Incision
+39               Evaluation-VGG16_BiLSTM-Inc  F1-Score     5  0.946411              VGG16-BiLSTM-Inc     VGG16       BiLSTM                  Incision
+40                  Evaluation-VGG16_GRU-Inc  F1-Score     1  0.962912                 VGG16-GRU-Inc     VGG16          GRU                  Incision
+41                  Evaluation-VGG16_GRU-Inc  F1-Score     2  0.918121                 VGG16-GRU-Inc     VGG16          GRU                  Incision
+42                  Evaluation-VGG16_GRU-Inc  F1-Score     3  0.901778                 VGG16-GRU-Inc     VGG16          GRU                  Incision
+43                  Evaluation-VGG16_GRU-Inc  F1-Score     4  0.950976                 VGG16-GRU-Inc     VGG16          GRU                  Incision
+44                  Evaluation-VGG16_GRU-Inc  F1-Score     5  0.964274                 VGG16-GRU-Inc     VGG16          GRU                  Incision
+45                 Evaluation-VGG16_LSTM-Inc  F1-Score     1  0.888545                VGG16-LSTM-Inc     VGG16         LSTM                  Incision
+46                 Evaluation-VGG16_LSTM-Inc  F1-Score     2  0.899593                VGG16-LSTM-Inc     VGG16         LSTM                  Incision
+47                 Evaluation-VGG16_LSTM-Inc  F1-Score     3  0.928480                VGG16-LSTM-Inc     VGG16         LSTM                  Incision
+48                 Evaluation-VGG16_LSTM-Inc  F1-Score     4  0.950938                VGG16-LSTM-Inc     VGG16         LSTM                  Incision
+49                 Evaluation-VGG16_LSTM-Inc  F1-Score     5  0.937375                VGG16-LSTM-Inc     VGG16         LSTM                  Incision
+50           Evaluation-VGG16_Mamba-best-Inc  F1-Score     1  0.934912          VGG16-Mamba-best-Inc     VGG16        Mamba                  Incision
+51           Evaluation-VGG16_Mamba-best-Inc  F1-Score     2  0.899992          VGG16-Mamba-best-Inc     VGG16        Mamba                  Incision
+52           Evaluation-VGG16_Mamba-best-Inc  F1-Score     3  0.928480          VGG16-Mamba-best-Inc     VGG16        Mamba                  Incision
+53           Evaluation-VGG16_Mamba-best-Inc  F1-Score     4  0.921569          VGG16-Mamba-best-Inc     VGG16        Mamba                  Incision
+54           Evaluation-VGG16_Mamba-best-Inc  F1-Score     5  0.946411          VGG16-Mamba-best-Inc     VGG16        Mamba                  Incision
+55          Evaluation-VGG16_Transformer-Inc  F1-Score     1  0.935046         VGG16-Transformer-Inc     VGG16  Transformer                  Incision
+56          Evaluation-VGG16_Transformer-Inc  F1-Score     2  0.854353         VGG16-Transformer-Inc     VGG16  Transformer                  Incision
+57          Evaluation-VGG16_Transformer-Inc  F1-Score     3  0.937495         VGG16-Transformer-Inc     VGG16  Transformer                  Incision
+58          Evaluation-VGG16_Transformer-Inc  F1-Score     4  0.950938         VGG16-Transformer-Inc     VGG16  Transformer                  Incision
+59          Evaluation-VGG16_Transformer-Inc  F1-Score     5  0.946411         VGG16-Transformer-Inc     VGG16  Transformer                  Incision
+60         Evaluation-ResNet50_BiGRU-Vis-ACF  F1-Score     1  0.822951        ResNet50-BiGRU-Vis-ACF  ResNet50        BiGRU  Viscoelastic/AC Flushing
+61         Evaluation-ResNet50_BiGRU-Vis-ACF  F1-Score     2  0.750440        ResNet50-BiGRU-Vis-ACF  ResNet50        BiGRU  Viscoelastic/AC Flushing
+62         Evaluation-ResNet50_BiGRU-Vis-ACF  F1-Score     3  0.757790        ResNet50-BiGRU-Vis-ACF  ResNet50        BiGRU  Viscoelastic/AC Flushing
+63         Evaluation-ResNet50_BiGRU-Vis-ACF  F1-Score     4  0.834945        ResNet50-BiGRU-Vis-ACF  ResNet50        BiGRU  Viscoelastic/AC Flushing
+64         Evaluation-ResNet50_BiGRU-Vis-ACF  F1-Score     5  0.787952        ResNet50-BiGRU-Vis-ACF  ResNet50        BiGRU  Viscoelastic/AC Flushing
+65        Evaluation-ResNet50_BiLSTM-Vis-ACF  F1-Score     1  0.781735       ResNet50-BiLSTM-Vis-ACF  ResNet50       BiLSTM  Viscoelastic/AC Flushing
+66        Evaluation-ResNet50_BiLSTM-Vis-ACF  F1-Score     2  0.784237       ResNet50-BiLSTM-Vis-ACF  ResNet50       BiLSTM  Viscoelastic/AC Flushing
+67        Evaluation-ResNet50_BiLSTM-Vis-ACF  F1-Score     3  0.725831       ResNet50-BiLSTM-Vis-ACF  ResNet50       BiLSTM  Viscoelastic/AC Flushing
+68        Evaluation-ResNet50_BiLSTM-Vis-ACF  F1-Score     4  0.787997       ResNet50-BiLSTM-Vis-ACF  ResNet50       BiLSTM  Viscoelastic/AC Flushing
+69        Evaluation-ResNet50_BiLSTM-Vis-ACF  F1-Score     5  0.735618       ResNet50-BiLSTM-Vis-ACF  ResNet50       BiLSTM  Viscoelastic/AC Flushing
+70           Evaluation-ResNet50_GRU-Vis-ACF  F1-Score     1  0.801519          ResNet50-GRU-Vis-ACF  ResNet50          GRU  Viscoelastic/AC Flushing
+71           Evaluation-ResNet50_GRU-Vis-ACF  F1-Score     2  0.730837          ResNet50-GRU-Vis-ACF  ResNet50          GRU  Viscoelastic/AC Flushing
+72           Evaluation-ResNet50_GRU-Vis-ACF  F1-Score     3  0.759140          ResNet50-GRU-Vis-ACF  ResNet50          GRU  Viscoelastic/AC Flushing
+73           Evaluation-ResNet50_GRU-Vis-ACF  F1-Score     4  0.778719          ResNet50-GRU-Vis-ACF  ResNet50          GRU  Viscoelastic/AC Flushing
+74           Evaluation-ResNet50_GRU-Vis-ACF  F1-Score     5  0.723243          ResNet50-GRU-Vis-ACF  ResNet50          GRU  Viscoelastic/AC Flushing
+75          Evaluation-ResNet50_LSTM-Vis-ACF  F1-Score     1  0.781859         ResNet50-LSTM-Vis-ACF  ResNet50         LSTM  Viscoelastic/AC Flushing
+76          Evaluation-ResNet50_LSTM-Vis-ACF  F1-Score     2  0.754347         ResNet50-LSTM-Vis-ACF  ResNet50         LSTM  Viscoelastic/AC Flushing
+77          Evaluation-ResNet50_LSTM-Vis-ACF  F1-Score     3  0.775507         ResNet50-LSTM-Vis-ACF  ResNet50         LSTM  Viscoelastic/AC Flushing
+78          Evaluation-ResNet50_LSTM-Vis-ACF  F1-Score     4  0.784935         ResNet50-LSTM-Vis-ACF  ResNet50         LSTM  Viscoelastic/AC Flushing
+79          Evaluation-ResNet50_LSTM-Vis-ACF  F1-Score     5  0.743460         ResNet50-LSTM-Vis-ACF  ResNet50         LSTM  Viscoelastic/AC Flushing
+80    Evaluation-ResNet50_Mamba-best-Vis-ACF  F1-Score     1  0.778373   ResNet50-Mamba-best-Vis-ACF  ResNet50        Mamba  Viscoelastic/AC Flushing
+81    Evaluation-ResNet50_Mamba-best-Vis-ACF  F1-Score     2  0.709283   ResNet50-Mamba-best-Vis-ACF  ResNet50        Mamba  Viscoelastic/AC Flushing
+82    Evaluation-ResNet50_Mamba-best-Vis-ACF  F1-Score     3  0.766424   ResNet50-Mamba-best-Vis-ACF  ResNet50        Mamba  Viscoelastic/AC Flushing
+83    Evaluation-ResNet50_Mamba-best-Vis-ACF  F1-Score     4  0.790128   ResNet50-Mamba-best-Vis-ACF  ResNet50        Mamba  Viscoelastic/AC Flushing
+84    Evaluation-ResNet50_Mamba-best-Vis-ACF  F1-Score     5  0.738868   ResNet50-Mamba-best-Vis-ACF  ResNet50        Mamba  Viscoelastic/AC Flushing
+85   Evaluation-ResNet50_Transformer-Vis-ACF  F1-Score     1  0.810115  ResNet50-Transformer-Vis-ACF  ResNet50  Transformer  Viscoelastic/AC Flushing
+86   Evaluation-ResNet50_Transformer-Vis-ACF  F1-Score     2  0.804654  ResNet50-Transformer-Vis-ACF  ResNet50  Transformer  Viscoelastic/AC Flushing
+87   Evaluation-ResNet50_Transformer-Vis-ACF  F1-Score     3  0.745253  ResNet50-Transformer-Vis-ACF  ResNet50  Transformer  Viscoelastic/AC Flushing
+88   Evaluation-ResNet50_Transformer-Vis-ACF  F1-Score     4  0.834436  ResNet50-Transformer-Vis-ACF  ResNet50  Transformer  Viscoelastic/AC Flushing
+89   Evaluation-ResNet50_Transformer-Vis-ACF  F1-Score     5  0.777294  ResNet50-Transformer-Vis-ACF  ResNet50  Transformer  Viscoelastic/AC Flushing
+90            Evaluation-VGG16_BiGRU-Vis-ACF  F1-Score     1  0.781337           VGG16-BiGRU-Vis-ACF     VGG16        BiGRU  Viscoelastic/AC Flushing
+91            Evaluation-VGG16_BiGRU-Vis-ACF  F1-Score     2  0.764564           VGG16-BiGRU-Vis-ACF     VGG16        BiGRU  Viscoelastic/AC Flushing
+92            Evaluation-VGG16_BiGRU-Vis-ACF  F1-Score     3  0.709119           VGG16-BiGRU-Vis-ACF     VGG16        BiGRU  Viscoelastic/AC Flushing
+93            Evaluation-VGG16_BiGRU-Vis-ACF  F1-Score     4  0.756072           VGG16-BiGRU-Vis-ACF     VGG16        BiGRU  Viscoelastic/AC Flushing
+94            Evaluation-VGG16_BiGRU-Vis-ACF  F1-Score     5  0.703714           VGG16-BiGRU-Vis-ACF     VGG16        BiGRU  Viscoelastic/AC Flushing
+95           Evaluation-VGG16_BiLSTM-Vis-ACF  F1-Score     1  0.711424          VGG16-BiLSTM-Vis-ACF     VGG16       BiLSTM  Viscoelastic/AC Flushing
+96           Evaluation-VGG16_BiLSTM-Vis-ACF  F1-Score     2  0.747272          VGG16-BiLSTM-Vis-ACF     VGG16       BiLSTM  Viscoelastic/AC Flushing
+97           Evaluation-VGG16_BiLSTM-Vis-ACF  F1-Score     3  0.725831          VGG16-BiLSTM-Vis-ACF     VGG16       BiLSTM  Viscoelastic/AC Flushing
+98           Evaluation-VGG16_BiLSTM-Vis-ACF  F1-Score     4  0.732782          VGG16-BiLSTM-Vis-ACF     VGG16       BiLSTM  Viscoelastic/AC Flushing
+99           Evaluation-VGG16_BiLSTM-Vis-ACF  F1-Score     5  0.677870          VGG16-BiLSTM-Vis-ACF     VGG16       BiLSTM  Viscoelastic/AC Flushing
+100             Evaluation-VGG16_GRU-Vis-ACF  F1-Score     1  0.725825             VGG16-GRU-Vis-ACF     VGG16          GRU  Viscoelastic/AC Flushing
+101             Evaluation-VGG16_GRU-Vis-ACF  F1-Score     2  0.698367             VGG16-GRU-Vis-ACF     VGG16          GRU  Viscoelastic/AC Flushing
+102             Evaluation-VGG16_GRU-Vis-ACF  F1-Score     3  0.704891             VGG16-GRU-Vis-ACF     VGG16          GRU  Viscoelastic/AC Flushing
+103             Evaluation-VGG16_GRU-Vis-ACF  F1-Score     4  0.762501             VGG16-GRU-Vis-ACF     VGG16          GRU  Viscoelastic/AC Flushing
+104             Evaluation-VGG16_GRU-Vis-ACF  F1-Score     5  0.676917             VGG16-GRU-Vis-ACF     VGG16          GRU  Viscoelastic/AC Flushing
+105            Evaluation-VGG16_LSTM-Vis-ACF  F1-Score     1  0.754736            VGG16-LSTM-Vis-ACF     VGG16         LSTM  Viscoelastic/AC Flushing
+106            Evaluation-VGG16_LSTM-Vis-ACF  F1-Score     2  0.754195            VGG16-LSTM-Vis-ACF     VGG16         LSTM  Viscoelastic/AC Flushing
+107            Evaluation-VGG16_LSTM-Vis-ACF  F1-Score     3  0.727369            VGG16-LSTM-Vis-ACF     VGG16         LSTM  Viscoelastic/AC Flushing
+108            Evaluation-VGG16_LSTM-Vis-ACF  F1-Score     4  0.791729            VGG16-LSTM-Vis-ACF     VGG16         LSTM  Viscoelastic/AC Flushing
+109            Evaluation-VGG16_LSTM-Vis-ACF  F1-Score     5  0.681395            VGG16-LSTM-Vis-ACF     VGG16         LSTM  Viscoelastic/AC Flushing
+110      Evaluation-VGG16_Mamba-best-Vis-ACF  F1-Score     1  0.758064      VGG16-Mamba-best-Vis-ACF     VGG16        Mamba  Viscoelastic/AC Flushing
+111      Evaluation-VGG16_Mamba-best-Vis-ACF  F1-Score     2  0.727585      VGG16-Mamba-best-Vis-ACF     VGG16        Mamba  Viscoelastic/AC Flushing
+112      Evaluation-VGG16_Mamba-best-Vis-ACF  F1-Score     3  0.648643      VGG16-Mamba-best-Vis-ACF     VGG16        Mamba  Viscoelastic/AC Flushing
+113      Evaluation-VGG16_Mamba-best-Vis-ACF  F1-Score     4  0.767796      VGG16-Mamba-best-Vis-ACF     VGG16        Mamba  Viscoelastic/AC Flushing
+114      Evaluation-VGG16_Mamba-best-Vis-ACF  F1-Score     5  0.716668      VGG16-Mamba-best-Vis-ACF     VGG16        Mamba  Viscoelastic/AC Flushing
+115     Evaluation-VGG16_Transformer-Vis-ACF  F1-Score     1  0.786238     VGG16-Transformer-Vis-ACF     VGG16  Transformer  Viscoelastic/AC Flushing
+116     Evaluation-VGG16_Transformer-Vis-ACF  F1-Score     2  0.746530     VGG16-Transformer-Vis-ACF     VGG16  Transformer  Viscoelastic/AC Flushing
+117     Evaluation-VGG16_Transformer-Vis-ACF  F1-Score     3  0.729227     VGG16-Transformer-Vis-ACF     VGG16  Transformer  Viscoelastic/AC Flushing
+118     Evaluation-VGG16_Transformer-Vis-ACF  F1-Score     4  0.815725     VGG16-Transformer-Vis-ACF     VGG16  Transformer  Viscoelastic/AC Flushing
+119     Evaluation-VGG16_Transformer-Vis-ACF  F1-Score     5  0.753014     VGG16-Transformer-Vis-ACF     VGG16  Transformer  Viscoelastic/AC Flushing
+120            Evaluation-ResNet50_BiGRU-Cap  F1-Score     1  0.787159            ResNet50-BiGRU-Cap  ResNet50        BiGRU             Capsulorhexis
+121            Evaluation-ResNet50_BiGRU-Cap  F1-Score     2  0.888467            ResNet50-BiGRU-Cap  ResNet50        BiGRU             Capsulorhexis
+122            Evaluation-ResNet50_BiGRU-Cap  F1-Score     3  0.868217            ResNet50-BiGRU-Cap  ResNet50        BiGRU             Capsulorhexis
+123            Evaluation-ResNet50_BiGRU-Cap  F1-Score     4  0.876776            ResNet50-BiGRU-Cap  ResNet50        BiGRU             Capsulorhexis
+124            Evaluation-ResNet50_BiGRU-Cap  F1-Score     5  0.876070            ResNet50-BiGRU-Cap  ResNet50        BiGRU             Capsulorhexis
+125           Evaluation-ResNet50_BiLSTM-Cap  F1-Score     1  0.866229           ResNet50-BiLSTM-Cap  ResNet50       BiLSTM             Capsulorhexis
+126           Evaluation-ResNet50_BiLSTM-Cap  F1-Score     2  0.864933           ResNet50-BiLSTM-Cap  ResNet50       BiLSTM             Capsulorhexis
+127           Evaluation-ResNet50_BiLSTM-Cap  F1-Score     3  0.815243           ResNet50-BiLSTM-Cap  ResNet50       BiLSTM             Capsulorhexis
+128           Evaluation-ResNet50_BiLSTM-Cap  F1-Score     4  0.858516           ResNet50-BiLSTM-Cap  ResNet50       BiLSTM             Capsulorhexis
+129           Evaluation-ResNet50_BiLSTM-Cap  F1-Score     5  0.842851           ResNet50-BiLSTM-Cap  ResNet50       BiLSTM             Capsulorhexis
+130              Evaluation-ResNet50_GRU-Cap  F1-Score     1  0.884579              ResNet50-GRU-Cap  ResNet50          GRU             Capsulorhexis
+131              Evaluation-ResNet50_GRU-Cap  F1-Score     2  0.867107              ResNet50-GRU-Cap  ResNet50          GRU             Capsulorhexis
+132              Evaluation-ResNet50_GRU-Cap  F1-Score     3  0.846031              ResNet50-GRU-Cap  ResNet50          GRU             Capsulorhexis
+133              Evaluation-ResNet50_GRU-Cap  F1-Score     4  0.853488              ResNet50-GRU-Cap  ResNet50          GRU             Capsulorhexis
+134              Evaluation-ResNet50_GRU-Cap  F1-Score     5  0.875174              ResNet50-GRU-Cap  ResNet50          GRU             Capsulorhexis
+135             Evaluation-ResNet50_LSTM-Cap  F1-Score     1  0.844357             ResNet50-LSTM-Cap  ResNet50         LSTM             Capsulorhexis
+136             Evaluation-ResNet50_LSTM-Cap  F1-Score     2  0.868729             ResNet50-LSTM-Cap  ResNet50         LSTM             Capsulorhexis
+137             Evaluation-ResNet50_LSTM-Cap  F1-Score     3  0.782824             ResNet50-LSTM-Cap  ResNet50         LSTM             Capsulorhexis
+138             Evaluation-ResNet50_LSTM-Cap  F1-Score     4  0.842559             ResNet50-LSTM-Cap  ResNet50         LSTM             Capsulorhexis
+139             Evaluation-ResNet50_LSTM-Cap  F1-Score     5  0.839047             ResNet50-LSTM-Cap  ResNet50         LSTM             Capsulorhexis
+140       Evaluation-ResNet50_Mamba-best-Cap  F1-Score     1  0.758152       ResNet50-Mamba-best-Cap  ResNet50        Mamba             Capsulorhexis
+141       Evaluation-ResNet50_Mamba-best-Cap  F1-Score     2  0.873774       ResNet50-Mamba-best-Cap  ResNet50        Mamba             Capsulorhexis
+142       Evaluation-ResNet50_Mamba-best-Cap  F1-Score     3  0.842024       ResNet50-Mamba-best-Cap  ResNet50        Mamba             Capsulorhexis
+143       Evaluation-ResNet50_Mamba-best-Cap  F1-Score     4  0.819508       ResNet50-Mamba-best-Cap  ResNet50        Mamba             Capsulorhexis
+144       Evaluation-ResNet50_Mamba-best-Cap  F1-Score     5  0.817742       ResNet50-Mamba-best-Cap  ResNet50        Mamba             Capsulorhexis
+145      Evaluation-ResNet50_Transformer-Cap  F1-Score     1  0.895595      ResNet50-Transformer-Cap  ResNet50  Transformer             Capsulorhexis
+146      Evaluation-ResNet50_Transformer-Cap  F1-Score     2  0.880977      ResNet50-Transformer-Cap  ResNet50  Transformer             Capsulorhexis
+147      Evaluation-ResNet50_Transformer-Cap  F1-Score     3  0.832145      ResNet50-Transformer-Cap  ResNet50  Transformer             Capsulorhexis
+148      Evaluation-ResNet50_Transformer-Cap  F1-Score     4  0.846341      ResNet50-Transformer-Cap  ResNet50  Transformer             Capsulorhexis
+149      Evaluation-ResNet50_Transformer-Cap  F1-Score     5  0.857871      ResNet50-Transformer-Cap  ResNet50  Transformer             Capsulorhexis
+150               Evaluation-VGG16_BiGRU-Cap  F1-Score     1  0.861459               VGG16-BiGRU-Cap     VGG16        BiGRU             Capsulorhexis
+151               Evaluation-VGG16_BiGRU-Cap  F1-Score     2  0.868868               VGG16-BiGRU-Cap     VGG16        BiGRU             Capsulorhexis
+152               Evaluation-VGG16_BiGRU-Cap  F1-Score     3  0.872479               VGG16-BiGRU-Cap     VGG16        BiGRU             Capsulorhexis
+153               Evaluation-VGG16_BiGRU-Cap  F1-Score     4  0.854873               VGG16-BiGRU-Cap     VGG16        BiGRU             Capsulorhexis
+154               Evaluation-VGG16_BiGRU-Cap  F1-Score     5  0.894349               VGG16-BiGRU-Cap     VGG16        BiGRU             Capsulorhexis
+155              Evaluation-VGG16_BiLSTM-Cap  F1-Score     1  0.903080              VGG16-BiLSTM-Cap     VGG16       BiLSTM             Capsulorhexis
+156              Evaluation-VGG16_BiLSTM-Cap  F1-Score     2  0.890599              VGG16-BiLSTM-Cap     VGG16       BiLSTM             Capsulorhexis
+157              Evaluation-VGG16_BiLSTM-Cap  F1-Score     3  0.812205              VGG16-BiLSTM-Cap     VGG16       BiLSTM             Capsulorhexis
+158              Evaluation-VGG16_BiLSTM-Cap  F1-Score     4  0.845083              VGG16-BiLSTM-Cap     VGG16       BiLSTM             Capsulorhexis
+159              Evaluation-VGG16_BiLSTM-Cap  F1-Score     5  0.874008              VGG16-BiLSTM-Cap     VGG16       BiLSTM             Capsulorhexis
+160                 Evaluation-VGG16_GRU-Cap  F1-Score     1  0.885843                 VGG16-GRU-Cap     VGG16          GRU             Capsulorhexis
+161                 Evaluation-VGG16_GRU-Cap  F1-Score     2  0.882282                 VGG16-GRU-Cap     VGG16          GRU             Capsulorhexis
+162                 Evaluation-VGG16_GRU-Cap  F1-Score     3  0.786848                 VGG16-GRU-Cap     VGG16          GRU             Capsulorhexis
+163                 Evaluation-VGG16_GRU-Cap  F1-Score     4  0.810852                 VGG16-GRU-Cap     VGG16          GRU             Capsulorhexis
+164                 Evaluation-VGG16_GRU-Cap  F1-Score     5  0.880502                 VGG16-GRU-Cap     VGG16          GRU             Capsulorhexis
+165                Evaluation-VGG16_LSTM-Cap  F1-Score     1  0.846786                VGG16-LSTM-Cap     VGG16         LSTM             Capsulorhexis
+166                Evaluation-VGG16_LSTM-Cap  F1-Score     2  0.915440                VGG16-LSTM-Cap     VGG16         LSTM             Capsulorhexis
+167                Evaluation-VGG16_LSTM-Cap  F1-Score     3  0.823885                VGG16-LSTM-Cap     VGG16         LSTM             Capsulorhexis
+168                Evaluation-VGG16_LSTM-Cap  F1-Score     4  0.839413                VGG16-LSTM-Cap     VGG16         LSTM             Capsulorhexis
+169                Evaluation-VGG16_LSTM-Cap  F1-Score     5  0.890650                VGG16-LSTM-Cap     VGG16         LSTM             Capsulorhexis
+170          Evaluation-VGG16_Mamba-best-Cap  F1-Score     1  0.786043          VGG16-Mamba-best-Cap     VGG16        Mamba             Capsulorhexis
+171          Evaluation-VGG16_Mamba-best-Cap  F1-Score     2  0.901958          VGG16-Mamba-best-Cap     VGG16        Mamba             Capsulorhexis
+172          Evaluation-VGG16_Mamba-best-Cap  F1-Score     3  0.783218          VGG16-Mamba-best-Cap     VGG16        Mamba             Capsulorhexis
+173          Evaluation-VGG16_Mamba-best-Cap  F1-Score     4  0.817837          VGG16-Mamba-best-Cap     VGG16        Mamba             Capsulorhexis
+174          Evaluation-VGG16_Mamba-best-Cap  F1-Score     5  0.852065          VGG16-Mamba-best-Cap     VGG16        Mamba             Capsulorhexis
+175         Evaluation-VGG16_Transformer-Cap  F1-Score     1  0.851087         VGG16-Transformer-Cap     VGG16  Transformer             Capsulorhexis
+176         Evaluation-VGG16_Transformer-Cap  F1-Score     2  0.876379         VGG16-Transformer-Cap     VGG16  Transformer             Capsulorhexis
+177         Evaluation-VGG16_Transformer-Cap  F1-Score     3  0.807741         VGG16-Transformer-Cap     VGG16  Transformer             Capsulorhexis
+178         Evaluation-VGG16_Transformer-Cap  F1-Score     4  0.892680         VGG16-Transformer-Cap     VGG16  Transformer             Capsulorhexis
+179         Evaluation-VGG16_Transformer-Cap  F1-Score     5  0.845967         VGG16-Transformer-Cap     VGG16  Transformer             Capsulorhexis
+180            Evaluation-ResNet50_BiGRU-Hyd  F1-Score     1  0.856872            ResNet50-BiGRU-Hyd  ResNet50        BiGRU           Hydrodissection
+181            Evaluation-ResNet50_BiGRU-Hyd  F1-Score     2  0.817107            ResNet50-BiGRU-Hyd  ResNet50        BiGRU           Hydrodissection
+182            Evaluation-ResNet50_BiGRU-Hyd  F1-Score     3  0.825320            ResNet50-BiGRU-Hyd  ResNet50        BiGRU           Hydrodissection
+183            Evaluation-ResNet50_BiGRU-Hyd  F1-Score     4  0.798844            ResNet50-BiGRU-Hyd  ResNet50        BiGRU           Hydrodissection
+184            Evaluation-ResNet50_BiGRU-Hyd  F1-Score     5  0.863016            ResNet50-BiGRU-Hyd  ResNet50        BiGRU           Hydrodissection
+185           Evaluation-ResNet50_BiLSTM-Hyd  F1-Score     1  0.849031           ResNet50-BiLSTM-Hyd  ResNet50       BiLSTM           Hydrodissection
+186           Evaluation-ResNet50_BiLSTM-Hyd  F1-Score     2  0.872154           ResNet50-BiLSTM-Hyd  ResNet50       BiLSTM           Hydrodissection
+187           Evaluation-ResNet50_BiLSTM-Hyd  F1-Score     3  0.795590           ResNet50-BiLSTM-Hyd  ResNet50       BiLSTM           Hydrodissection
+188           Evaluation-ResNet50_BiLSTM-Hyd  F1-Score     4  0.831125           ResNet50-BiLSTM-Hyd  ResNet50       BiLSTM           Hydrodissection
+189           Evaluation-ResNet50_BiLSTM-Hyd  F1-Score     5  0.905172           ResNet50-BiLSTM-Hyd  ResNet50       BiLSTM           Hydrodissection
+190              Evaluation-ResNet50_GRU-Hyd  F1-Score     1  0.860470              ResNet50-GRU-Hyd  ResNet50          GRU           Hydrodissection
+191              Evaluation-ResNet50_GRU-Hyd  F1-Score     2  0.864964              ResNet50-GRU-Hyd  ResNet50          GRU           Hydrodissection
+192              Evaluation-ResNet50_GRU-Hyd  F1-Score     3  0.844662              ResNet50-GRU-Hyd  ResNet50          GRU           Hydrodissection
+193              Evaluation-ResNet50_GRU-Hyd  F1-Score     4  0.831612              ResNet50-GRU-Hyd  ResNet50          GRU           Hydrodissection
+194              Evaluation-ResNet50_GRU-Hyd  F1-Score     5  0.867146              ResNet50-GRU-Hyd  ResNet50          GRU           Hydrodissection
+195             Evaluation-ResNet50_LSTM-Hyd  F1-Score     1  0.873162             ResNet50-LSTM-Hyd  ResNet50         LSTM           Hydrodissection
+196             Evaluation-ResNet50_LSTM-Hyd  F1-Score     2  0.855801             ResNet50-LSTM-Hyd  ResNet50         LSTM           Hydrodissection
+197             Evaluation-ResNet50_LSTM-Hyd  F1-Score     3  0.813379             ResNet50-LSTM-Hyd  ResNet50         LSTM           Hydrodissection
+198             Evaluation-ResNet50_LSTM-Hyd  F1-Score     4  0.789557             ResNet50-LSTM-Hyd  ResNet50         LSTM           Hydrodissection
+199             Evaluation-ResNet50_LSTM-Hyd  F1-Score     5  0.861008             ResNet50-LSTM-Hyd  ResNet50         LSTM           Hydrodissection
+200       Evaluation-ResNet50_Mamba-best-Hyd  F1-Score     1  0.849578       ResNet50-Mamba-best-Hyd  ResNet50        Mamba           Hydrodissection
+201       Evaluation-ResNet50_Mamba-best-Hyd  F1-Score     2  0.861047       ResNet50-Mamba-best-Hyd  ResNet50        Mamba           Hydrodissection
+202       Evaluation-ResNet50_Mamba-best-Hyd  F1-Score     3  0.786198       ResNet50-Mamba-best-Hyd  ResNet50        Mamba           Hydrodissection
+203       Evaluation-ResNet50_Mamba-best-Hyd  F1-Score     4  0.806505       ResNet50-Mamba-best-Hyd  ResNet50        Mamba           Hydrodissection
+204       Evaluation-ResNet50_Mamba-best-Hyd  F1-Score     5  0.867910       ResNet50-Mamba-best-Hyd  ResNet50        Mamba           Hydrodissection
+205      Evaluation-ResNet50_Transformer-Hyd  F1-Score     1  0.856677      ResNet50-Transformer-Hyd  ResNet50  Transformer           Hydrodissection
+206      Evaluation-ResNet50_Transformer-Hyd  F1-Score     2  0.860951      ResNet50-Transformer-Hyd  ResNet50  Transformer           Hydrodissection
+207      Evaluation-ResNet50_Transformer-Hyd  F1-Score     3  0.817985      ResNet50-Transformer-Hyd  ResNet50  Transformer           Hydrodissection
+208      Evaluation-ResNet50_Transformer-Hyd  F1-Score     4  0.766420      ResNet50-Transformer-Hyd  ResNet50  Transformer           Hydrodissection
+209      Evaluation-ResNet50_Transformer-Hyd  F1-Score     5  0.930835      ResNet50-Transformer-Hyd  ResNet50  Transformer           Hydrodissection
+210               Evaluation-VGG16_BiGRU-Hyd  F1-Score     1  0.820604               VGG16-BiGRU-Hyd     VGG16        BiGRU           Hydrodissection
+211               Evaluation-VGG16_BiGRU-Hyd  F1-Score     2  0.859196               VGG16-BiGRU-Hyd     VGG16        BiGRU           Hydrodissection
+212               Evaluation-VGG16_BiGRU-Hyd  F1-Score     3  0.840073               VGG16-BiGRU-Hyd     VGG16        BiGRU           Hydrodissection
+213               Evaluation-VGG16_BiGRU-Hyd  F1-Score     4  0.759468               VGG16-BiGRU-Hyd     VGG16        BiGRU           Hydrodissection
+214               Evaluation-VGG16_BiGRU-Hyd  F1-Score     5  0.852727               VGG16-BiGRU-Hyd     VGG16        BiGRU           Hydrodissection
+215              Evaluation-VGG16_BiLSTM-Hyd  F1-Score     1  0.801331              VGG16-BiLSTM-Hyd     VGG16       BiLSTM           Hydrodissection
+216              Evaluation-VGG16_BiLSTM-Hyd  F1-Score     2  0.868611              VGG16-BiLSTM-Hyd     VGG16       BiLSTM           Hydrodissection
+217              Evaluation-VGG16_BiLSTM-Hyd  F1-Score     3  0.825107              VGG16-BiLSTM-Hyd     VGG16       BiLSTM           Hydrodissection
+218              Evaluation-VGG16_BiLSTM-Hyd  F1-Score     4  0.832711              VGG16-BiLSTM-Hyd     VGG16       BiLSTM           Hydrodissection
+219              Evaluation-VGG16_BiLSTM-Hyd  F1-Score     5  0.779010              VGG16-BiLSTM-Hyd     VGG16       BiLSTM           Hydrodissection
+220                 Evaluation-VGG16_GRU-Hyd  F1-Score     1  0.775359                 VGG16-GRU-Hyd     VGG16          GRU           Hydrodissection
+221                 Evaluation-VGG16_GRU-Hyd  F1-Score     2  0.833475                 VGG16-GRU-Hyd     VGG16          GRU           Hydrodissection
+222                 Evaluation-VGG16_GRU-Hyd  F1-Score     3  0.815456                 VGG16-GRU-Hyd     VGG16          GRU           Hydrodissection
+223                 Evaluation-VGG16_GRU-Hyd  F1-Score     4  0.852166                 VGG16-GRU-Hyd     VGG16          GRU           Hydrodissection
+224                 Evaluation-VGG16_GRU-Hyd  F1-Score     5  0.866122                 VGG16-GRU-Hyd     VGG16          GRU           Hydrodissection
+225                Evaluation-VGG16_LSTM-Hyd  F1-Score     1  0.798356                VGG16-LSTM-Hyd     VGG16         LSTM           Hydrodissection
+226                Evaluation-VGG16_LSTM-Hyd  F1-Score     2  0.864919                VGG16-LSTM-Hyd     VGG16         LSTM           Hydrodissection
+227                Evaluation-VGG16_LSTM-Hyd  F1-Score     3  0.795756                VGG16-LSTM-Hyd     VGG16         LSTM           Hydrodissection
+228                Evaluation-VGG16_LSTM-Hyd  F1-Score     4  0.839107                VGG16-LSTM-Hyd     VGG16         LSTM           Hydrodissection
+229                Evaluation-VGG16_LSTM-Hyd  F1-Score     5  0.872619                VGG16-LSTM-Hyd     VGG16         LSTM           Hydrodissection
+230          Evaluation-VGG16_Mamba-best-Hyd  F1-Score     1  0.804284          VGG16-Mamba-best-Hyd     VGG16        Mamba           Hydrodissection
+231          Evaluation-VGG16_Mamba-best-Hyd  F1-Score     2  0.830246          VGG16-Mamba-best-Hyd     VGG16        Mamba           Hydrodissection
+232          Evaluation-VGG16_Mamba-best-Hyd  F1-Score     3  0.780858          VGG16-Mamba-best-Hyd     VGG16        Mamba           Hydrodissection
+233          Evaluation-VGG16_Mamba-best-Hyd  F1-Score     4  0.817479          VGG16-Mamba-best-Hyd     VGG16        Mamba           Hydrodissection
+234          Evaluation-VGG16_Mamba-best-Hyd  F1-Score     5  0.812504          VGG16-Mamba-best-Hyd     VGG16        Mamba           Hydrodissection
+235         Evaluation-VGG16_Transformer-Hyd  F1-Score     1  0.801739         VGG16-Transformer-Hyd     VGG16  Transformer           Hydrodissection
+236         Evaluation-VGG16_Transformer-Hyd  F1-Score     2  0.870365         VGG16-Transformer-Hyd     VGG16  Transformer           Hydrodissection
+237         Evaluation-VGG16_Transformer-Hyd  F1-Score     3  0.819421         VGG16-Transformer-Hyd     VGG16  Transformer           Hydrodissection
+238         Evaluation-VGG16_Transformer-Hyd  F1-Score     4  0.795610         VGG16-Transformer-Hyd     VGG16  Transformer           Hydrodissection
+239         Evaluation-VGG16_Transformer-Hyd  F1-Score     5  0.814425         VGG16-Transformer-Hyd     VGG16  Transformer           Hydrodissection
+240            Evaluation-ResNet50_BiGRU-Pha  F1-Score     1  0.876658            ResNet50-BiGRU-Pha  ResNet50        BiGRU       Phacoemulsification
+241            Evaluation-ResNet50_BiGRU-Pha  F1-Score     2  0.814766            ResNet50-BiGRU-Pha  ResNet50        BiGRU       Phacoemulsification
+242            Evaluation-ResNet50_BiGRU-Pha  F1-Score     3  0.869791            ResNet50-BiGRU-Pha  ResNet50        BiGRU       Phacoemulsification
+243            Evaluation-ResNet50_BiGRU-Pha  F1-Score     4  0.900457            ResNet50-BiGRU-Pha  ResNet50        BiGRU       Phacoemulsification
+244            Evaluation-ResNet50_BiGRU-Pha  F1-Score     5  0.846892            ResNet50-BiGRU-Pha  ResNet50        BiGRU       Phacoemulsification
+245           Evaluation-ResNet50_BiLSTM-Pha  F1-Score     1  0.844781           ResNet50-BiLSTM-Pha  ResNet50       BiLSTM       Phacoemulsification
+246           Evaluation-ResNet50_BiLSTM-Pha  F1-Score     2  0.843161           ResNet50-BiLSTM-Pha  ResNet50       BiLSTM       Phacoemulsification
+247           Evaluation-ResNet50_BiLSTM-Pha  F1-Score     3  0.860800           ResNet50-BiLSTM-Pha  ResNet50       BiLSTM       Phacoemulsification
+248           Evaluation-ResNet50_BiLSTM-Pha  F1-Score     4  0.872744           ResNet50-BiLSTM-Pha  ResNet50       BiLSTM       Phacoemulsification
+249           Evaluation-ResNet50_BiLSTM-Pha  F1-Score     5  0.847514           ResNet50-BiLSTM-Pha  ResNet50       BiLSTM       Phacoemulsification
+250              Evaluation-ResNet50_GRU-Pha  F1-Score     1  0.865014              ResNet50-GRU-Pha  ResNet50          GRU       Phacoemulsification
+251              Evaluation-ResNet50_GRU-Pha  F1-Score     2  0.853985              ResNet50-GRU-Pha  ResNet50          GRU       Phacoemulsification
+252              Evaluation-ResNet50_GRU-Pha  F1-Score     3  0.887157              ResNet50-GRU-Pha  ResNet50          GRU       Phacoemulsification
+253              Evaluation-ResNet50_GRU-Pha  F1-Score     4  0.911104              ResNet50-GRU-Pha  ResNet50          GRU       Phacoemulsification
+254              Evaluation-ResNet50_GRU-Pha  F1-Score     5  0.859773              ResNet50-GRU-Pha  ResNet50          GRU       Phacoemulsification
+255             Evaluation-ResNet50_LSTM-Pha  F1-Score     1  0.856668             ResNet50-LSTM-Pha  ResNet50         LSTM       Phacoemulsification
+256             Evaluation-ResNet50_LSTM-Pha  F1-Score     2  0.881452             ResNet50-LSTM-Pha  ResNet50         LSTM       Phacoemulsification
+257             Evaluation-ResNet50_LSTM-Pha  F1-Score     3  0.874678             ResNet50-LSTM-Pha  ResNet50         LSTM       Phacoemulsification
+258             Evaluation-ResNet50_LSTM-Pha  F1-Score     4  0.882683             ResNet50-LSTM-Pha  ResNet50         LSTM       Phacoemulsification
+259             Evaluation-ResNet50_LSTM-Pha  F1-Score     5  0.844103             ResNet50-LSTM-Pha  ResNet50         LSTM       Phacoemulsification
+260       Evaluation-ResNet50_Mamba-best-Pha  F1-Score     1  0.867343       ResNet50-Mamba-best-Pha  ResNet50        Mamba       Phacoemulsification
+261       Evaluation-ResNet50_Mamba-best-Pha  F1-Score     2  0.870271       ResNet50-Mamba-best-Pha  ResNet50        Mamba       Phacoemulsification
+262       Evaluation-ResNet50_Mamba-best-Pha  F1-Score     3  0.876623       ResNet50-Mamba-best-Pha  ResNet50        Mamba       Phacoemulsification
+263       Evaluation-ResNet50_Mamba-best-Pha  F1-Score     4  0.855810       ResNet50-Mamba-best-Pha  ResNet50        Mamba       Phacoemulsification
+264       Evaluation-ResNet50_Mamba-best-Pha  F1-Score     5  0.868104       ResNet50-Mamba-best-Pha  ResNet50        Mamba       Phacoemulsification
+265      Evaluation-ResNet50_Transformer-Pha  F1-Score     1  0.864075      ResNet50-Transformer-Pha  ResNet50  Transformer       Phacoemulsification
+266      Evaluation-ResNet50_Transformer-Pha  F1-Score     2  0.865561      ResNet50-Transformer-Pha  ResNet50  Transformer       Phacoemulsification
+267      Evaluation-ResNet50_Transformer-Pha  F1-Score     3  0.880204      ResNet50-Transformer-Pha  ResNet50  Transformer       Phacoemulsification
+268      Evaluation-ResNet50_Transformer-Pha  F1-Score     4  0.853849      ResNet50-Transformer-Pha  ResNet50  Transformer       Phacoemulsification
+269      Evaluation-ResNet50_Transformer-Pha  F1-Score     5  0.815165      ResNet50-Transformer-Pha  ResNet50  Transformer       Phacoemulsification
+270               Evaluation-VGG16_BiGRU-Pha  F1-Score     1  0.866301               VGG16-BiGRU-Pha     VGG16        BiGRU       Phacoemulsification
+271               Evaluation-VGG16_BiGRU-Pha  F1-Score     2  0.814629               VGG16-BiGRU-Pha     VGG16        BiGRU       Phacoemulsification
+272               Evaluation-VGG16_BiGRU-Pha  F1-Score     3  0.842485               VGG16-BiGRU-Pha     VGG16        BiGRU       Phacoemulsification
+273               Evaluation-VGG16_BiGRU-Pha  F1-Score     4  0.896195               VGG16-BiGRU-Pha     VGG16        BiGRU       Phacoemulsification
+274               Evaluation-VGG16_BiGRU-Pha  F1-Score     5  0.839547               VGG16-BiGRU-Pha     VGG16        BiGRU       Phacoemulsification
+275              Evaluation-VGG16_BiLSTM-Pha  F1-Score     1  0.872968              VGG16-BiLSTM-Pha     VGG16       BiLSTM       Phacoemulsification
+276              Evaluation-VGG16_BiLSTM-Pha  F1-Score     2  0.821209              VGG16-BiLSTM-Pha     VGG16       BiLSTM       Phacoemulsification
+277              Evaluation-VGG16_BiLSTM-Pha  F1-Score     3  0.877895              VGG16-BiLSTM-Pha     VGG16       BiLSTM       Phacoemulsification
+278              Evaluation-VGG16_BiLSTM-Pha  F1-Score     4  0.859880              VGG16-BiLSTM-Pha     VGG16       BiLSTM       Phacoemulsification
+279              Evaluation-VGG16_BiLSTM-Pha  F1-Score     5  0.853373              VGG16-BiLSTM-Pha     VGG16       BiLSTM       Phacoemulsification
+280                 Evaluation-VGG16_GRU-Pha  F1-Score     1  0.842891                 VGG16-GRU-Pha     VGG16          GRU       Phacoemulsification
+281                 Evaluation-VGG16_GRU-Pha  F1-Score     2  0.847894                 VGG16-GRU-Pha     VGG16          GRU       Phacoemulsification
+282                 Evaluation-VGG16_GRU-Pha  F1-Score     3  0.877516                 VGG16-GRU-Pha     VGG16          GRU       Phacoemulsification
+283                 Evaluation-VGG16_GRU-Pha  F1-Score     4  0.867225                 VGG16-GRU-Pha     VGG16          GRU       Phacoemulsification
+284                 Evaluation-VGG16_GRU-Pha  F1-Score     5  0.835647                 VGG16-GRU-Pha     VGG16          GRU       Phacoemulsification
+285                Evaluation-VGG16_LSTM-Pha  F1-Score     1  0.876301                VGG16-LSTM-Pha     VGG16         LSTM       Phacoemulsification
+286                Evaluation-VGG16_LSTM-Pha  F1-Score     2  0.875238                VGG16-LSTM-Pha     VGG16         LSTM       Phacoemulsification
+287                Evaluation-VGG16_LSTM-Pha  F1-Score     3  0.860077                VGG16-LSTM-Pha     VGG16         LSTM       Phacoemulsification
+288                Evaluation-VGG16_LSTM-Pha  F1-Score     4  0.871982                VGG16-LSTM-Pha     VGG16         LSTM       Phacoemulsification
+289                Evaluation-VGG16_LSTM-Pha  F1-Score     5  0.826137                VGG16-LSTM-Pha     VGG16         LSTM       Phacoemulsification
+290          Evaluation-VGG16_Mamba-best-Pha  F1-Score     1  0.826132          VGG16-Mamba-best-Pha     VGG16        Mamba       Phacoemulsification
+291          Evaluation-VGG16_Mamba-best-Pha  F1-Score     2  0.800225          VGG16-Mamba-best-Pha     VGG16        Mamba       Phacoemulsification
+292          Evaluation-VGG16_Mamba-best-Pha  F1-Score     3  0.882855          VGG16-Mamba-best-Pha     VGG16        Mamba       Phacoemulsification
+293          Evaluation-VGG16_Mamba-best-Pha  F1-Score     4  0.889002          VGG16-Mamba-best-Pha     VGG16        Mamba       Phacoemulsification
+294          Evaluation-VGG16_Mamba-best-Pha  F1-Score     5  0.829284          VGG16-Mamba-best-Pha     VGG16        Mamba       Phacoemulsification
+295         Evaluation-VGG16_Transformer-Pha  F1-Score     1  0.850480         VGG16-Transformer-Pha     VGG16  Transformer       Phacoemulsification
+296         Evaluation-VGG16_Transformer-Pha  F1-Score     2  0.823845         VGG16-Transformer-Pha     VGG16  Transformer       Phacoemulsification
+297         Evaluation-VGG16_Transformer-Pha  F1-Score     3  0.854287         VGG16-Transformer-Pha     VGG16  Transformer       Phacoemulsification
+298         Evaluation-VGG16_Transformer-Pha  F1-Score     4  0.886956         VGG16-Transformer-Pha     VGG16  Transformer       Phacoemulsification
+299         Evaluation-VGG16_Transformer-Pha  F1-Score     5  0.807592         VGG16-Transformer-Pha     VGG16  Transformer       Phacoemulsification
+300             Evaluation-ResNet50_BiGRU-IA  F1-Score     1  0.763151             ResNet50-BiGRU-IA  ResNet50        BiGRU     Irrigation-Aspiration
+301             Evaluation-ResNet50_BiGRU-IA  F1-Score     2  0.829455             ResNet50-BiGRU-IA  ResNet50        BiGRU     Irrigation-Aspiration
+302             Evaluation-ResNet50_BiGRU-IA  F1-Score     3  0.729720             ResNet50-BiGRU-IA  ResNet50        BiGRU     Irrigation-Aspiration
+303             Evaluation-ResNet50_BiGRU-IA  F1-Score     4  0.801858             ResNet50-BiGRU-IA  ResNet50        BiGRU     Irrigation-Aspiration
+304             Evaluation-ResNet50_BiGRU-IA  F1-Score     5  0.731769             ResNet50-BiGRU-IA  ResNet50        BiGRU     Irrigation-Aspiration
+305            Evaluation-ResNet50_BiLSTM-IA  F1-Score     1  0.819570            ResNet50-BiLSTM-IA  ResNet50       BiLSTM     Irrigation-Aspiration
+306            Evaluation-ResNet50_BiLSTM-IA  F1-Score     2  0.769826            ResNet50-BiLSTM-IA  ResNet50       BiLSTM     Irrigation-Aspiration
+307            Evaluation-ResNet50_BiLSTM-IA  F1-Score     3  0.760067            ResNet50-BiLSTM-IA  ResNet50       BiLSTM     Irrigation-Aspiration
+308            Evaluation-ResNet50_BiLSTM-IA  F1-Score     4  0.826889            ResNet50-BiLSTM-IA  ResNet50       BiLSTM     Irrigation-Aspiration
+309            Evaluation-ResNet50_BiLSTM-IA  F1-Score     5  0.781849            ResNet50-BiLSTM-IA  ResNet50       BiLSTM     Irrigation-Aspiration
+310               Evaluation-ResNet50_GRU-IA  F1-Score     1  0.765251               ResNet50-GRU-IA  ResNet50          GRU     Irrigation-Aspiration
+311               Evaluation-ResNet50_GRU-IA  F1-Score     2  0.800592               ResNet50-GRU-IA  ResNet50          GRU     Irrigation-Aspiration
+312               Evaluation-ResNet50_GRU-IA  F1-Score     3  0.754186               ResNet50-GRU-IA  ResNet50          GRU     Irrigation-Aspiration
+313               Evaluation-ResNet50_GRU-IA  F1-Score     4  0.794912               ResNet50-GRU-IA  ResNet50          GRU     Irrigation-Aspiration
+314               Evaluation-ResNet50_GRU-IA  F1-Score     5  0.772394               ResNet50-GRU-IA  ResNet50          GRU     Irrigation-Aspiration
+315              Evaluation-ResNet50_LSTM-IA  F1-Score     1  0.746162              ResNet50-LSTM-IA  ResNet50         LSTM     Irrigation-Aspiration
+316              Evaluation-ResNet50_LSTM-IA  F1-Score     2  0.819084              ResNet50-LSTM-IA  ResNet50         LSTM     Irrigation-Aspiration
+317              Evaluation-ResNet50_LSTM-IA  F1-Score     3  0.751916              ResNet50-LSTM-IA  ResNet50         LSTM     Irrigation-Aspiration
+318              Evaluation-ResNet50_LSTM-IA  F1-Score     4  0.772578              ResNet50-LSTM-IA  ResNet50         LSTM     Irrigation-Aspiration
+319              Evaluation-ResNet50_LSTM-IA  F1-Score     5  0.735350              ResNet50-LSTM-IA  ResNet50         LSTM     Irrigation-Aspiration
+320        Evaluation-ResNet50_Mamba-best-IA  F1-Score     1  0.714564        ResNet50-Mamba-best-IA  ResNet50        Mamba     Irrigation-Aspiration
+321        Evaluation-ResNet50_Mamba-best-IA  F1-Score     2  0.776256        ResNet50-Mamba-best-IA  ResNet50        Mamba     Irrigation-Aspiration
+322        Evaluation-ResNet50_Mamba-best-IA  F1-Score     3  0.764000        ResNet50-Mamba-best-IA  ResNet50        Mamba     Irrigation-Aspiration
+323        Evaluation-ResNet50_Mamba-best-IA  F1-Score     4  0.729122        ResNet50-Mamba-best-IA  ResNet50        Mamba     Irrigation-Aspiration
+324        Evaluation-ResNet50_Mamba-best-IA  F1-Score     5  0.670278        ResNet50-Mamba-best-IA  ResNet50        Mamba     Irrigation-Aspiration
+325       Evaluation-ResNet50_Transformer-IA  F1-Score     1  0.750000       ResNet50-Transformer-IA  ResNet50  Transformer     Irrigation-Aspiration
+326       Evaluation-ResNet50_Transformer-IA  F1-Score     2  0.766543       ResNet50-Transformer-IA  ResNet50  Transformer     Irrigation-Aspiration
+327       Evaluation-ResNet50_Transformer-IA  F1-Score     3  0.745917       ResNet50-Transformer-IA  ResNet50  Transformer     Irrigation-Aspiration
+328       Evaluation-ResNet50_Transformer-IA  F1-Score     4  0.791352       ResNet50-Transformer-IA  ResNet50  Transformer     Irrigation-Aspiration
+329       Evaluation-ResNet50_Transformer-IA  F1-Score     5  0.722733       ResNet50-Transformer-IA  ResNet50  Transformer     Irrigation-Aspiration
+330                Evaluation-VGG16_BiGRU-IA  F1-Score     1  0.808265                VGG16-BiGRU-IA     VGG16        BiGRU     Irrigation-Aspiration
+331                Evaluation-VGG16_BiGRU-IA  F1-Score     2  0.732931                VGG16-BiGRU-IA     VGG16        BiGRU     Irrigation-Aspiration
+332                Evaluation-VGG16_BiGRU-IA  F1-Score     3  0.743978                VGG16-BiGRU-IA     VGG16        BiGRU     Irrigation-Aspiration
+333                Evaluation-VGG16_BiGRU-IA  F1-Score     4  0.773611                VGG16-BiGRU-IA     VGG16        BiGRU     Irrigation-Aspiration
+334                Evaluation-VGG16_BiGRU-IA  F1-Score     5  0.764674                VGG16-BiGRU-IA     VGG16        BiGRU     Irrigation-Aspiration
+335               Evaluation-VGG16_BiLSTM-IA  F1-Score     1  0.776861               VGG16-BiLSTM-IA     VGG16       BiLSTM     Irrigation-Aspiration
+336               Evaluation-VGG16_BiLSTM-IA  F1-Score     2  0.785286               VGG16-BiLSTM-IA     VGG16       BiLSTM     Irrigation-Aspiration
+337               Evaluation-VGG16_BiLSTM-IA  F1-Score     3  0.723695               VGG16-BiLSTM-IA     VGG16       BiLSTM     Irrigation-Aspiration
+338               Evaluation-VGG16_BiLSTM-IA  F1-Score     4  0.780464               VGG16-BiLSTM-IA     VGG16       BiLSTM     Irrigation-Aspiration
+339               Evaluation-VGG16_BiLSTM-IA  F1-Score     5  0.762524               VGG16-BiLSTM-IA     VGG16       BiLSTM     Irrigation-Aspiration
+340                  Evaluation-VGG16_GRU-IA  F1-Score     1  0.728606                  VGG16-GRU-IA     VGG16          GRU     Irrigation-Aspiration
+341                  Evaluation-VGG16_GRU-IA  F1-Score     2  0.804334                  VGG16-GRU-IA     VGG16          GRU     Irrigation-Aspiration
+342                  Evaluation-VGG16_GRU-IA  F1-Score     3  0.668374                  VGG16-GRU-IA     VGG16          GRU     Irrigation-Aspiration
+343                  Evaluation-VGG16_GRU-IA  F1-Score     4  0.778559                  VGG16-GRU-IA     VGG16          GRU     Irrigation-Aspiration
+344                  Evaluation-VGG16_GRU-IA  F1-Score     5  0.799669                  VGG16-GRU-IA     VGG16          GRU     Irrigation-Aspiration
+345                 Evaluation-VGG16_LSTM-IA  F1-Score     1  0.754410                 VGG16-LSTM-IA     VGG16         LSTM     Irrigation-Aspiration
+346                 Evaluation-VGG16_LSTM-IA  F1-Score     2  0.779715                 VGG16-LSTM-IA     VGG16         LSTM     Irrigation-Aspiration
+347                 Evaluation-VGG16_LSTM-IA  F1-Score     3  0.800395                 VGG16-LSTM-IA     VGG16         LSTM     Irrigation-Aspiration
+348                 Evaluation-VGG16_LSTM-IA  F1-Score     4  0.752080                 VGG16-LSTM-IA     VGG16         LSTM     Irrigation-Aspiration
+349                 Evaluation-VGG16_LSTM-IA  F1-Score     5  0.747309                 VGG16-LSTM-IA     VGG16         LSTM     Irrigation-Aspiration
+350           Evaluation-VGG16_Mamba-best-IA  F1-Score     1  0.688849           VGG16-Mamba-best-IA     VGG16        Mamba     Irrigation-Aspiration
+351           Evaluation-VGG16_Mamba-best-IA  F1-Score     2  0.781282           VGG16-Mamba-best-IA     VGG16        Mamba     Irrigation-Aspiration
+352           Evaluation-VGG16_Mamba-best-IA  F1-Score     3  0.672395           VGG16-Mamba-best-IA     VGG16        Mamba     Irrigation-Aspiration
+353           Evaluation-VGG16_Mamba-best-IA  F1-Score     4  0.677291           VGG16-Mamba-best-IA     VGG16        Mamba     Irrigation-Aspiration
+354           Evaluation-VGG16_Mamba-best-IA  F1-Score     5  0.663156           VGG16-Mamba-best-IA     VGG16        Mamba     Irrigation-Aspiration
+355          Evaluation-VGG16_Transformer-IA  F1-Score     1  0.771995          VGG16-Transformer-IA     VGG16  Transformer     Irrigation-Aspiration
+356          Evaluation-VGG16_Transformer-IA  F1-Score     2  0.772888          VGG16-Transformer-IA     VGG16  Transformer     Irrigation-Aspiration
+357          Evaluation-VGG16_Transformer-IA  F1-Score     3  0.750758          VGG16-Transformer-IA     VGG16  Transformer     Irrigation-Aspiration
+358          Evaluation-VGG16_Transformer-IA  F1-Score     4  0.813011          VGG16-Transformer-IA     VGG16  Transformer     Irrigation-Aspiration
+359          Evaluation-VGG16_Transformer-IA  F1-Score     5  0.769944          VGG16-Transformer-IA     VGG16  Transformer     Irrigation-Aspiration
+360             Evaluation-ResNet50_BiGRU-CP  F1-Score     1  0.871452             ResNet50-BiGRU-CP  ResNet50        BiGRU         Capsule Polishing
+361             Evaluation-ResNet50_BiGRU-CP  F1-Score     2  0.915287             ResNet50-BiGRU-CP  ResNet50        BiGRU         Capsule Polishing
+362             Evaluation-ResNet50_BiGRU-CP  F1-Score     3  0.906650             ResNet50-BiGRU-CP  ResNet50        BiGRU         Capsule Polishing
+363             Evaluation-ResNet50_BiGRU-CP  F1-Score     4  0.796638             ResNet50-BiGRU-CP  ResNet50        BiGRU         Capsule Polishing
+364             Evaluation-ResNet50_BiGRU-CP  F1-Score     5  0.954540             ResNet50-BiGRU-CP  ResNet50        BiGRU         Capsule Polishing
+365            Evaluation-ResNet50_BiLSTM-CP  F1-Score     1  0.864215            ResNet50-BiLSTM-CP  ResNet50       BiLSTM         Capsule Polishing
+366            Evaluation-ResNet50_BiLSTM-CP  F1-Score     2  0.911655            ResNet50-BiLSTM-CP  ResNet50       BiLSTM         Capsule Polishing
+367            Evaluation-ResNet50_BiLSTM-CP  F1-Score     3  0.919872            ResNet50-BiLSTM-CP  ResNet50       BiLSTM         Capsule Polishing
+368            Evaluation-ResNet50_BiLSTM-CP  F1-Score     4  0.903215            ResNet50-BiLSTM-CP  ResNet50       BiLSTM         Capsule Polishing
+369            Evaluation-ResNet50_BiLSTM-CP  F1-Score     5  0.954518            ResNet50-BiLSTM-CP  ResNet50       BiLSTM         Capsule Polishing
+370               Evaluation-ResNet50_GRU-CP  F1-Score     1  0.880818               ResNet50-GRU-CP  ResNet50          GRU         Capsule Polishing
+371               Evaluation-ResNet50_GRU-CP  F1-Score     2  0.861229               ResNet50-GRU-CP  ResNet50          GRU         Capsule Polishing
+372               Evaluation-ResNet50_GRU-CP  F1-Score     3  0.913020               ResNet50-GRU-CP  ResNet50          GRU         Capsule Polishing
+373               Evaluation-ResNet50_GRU-CP  F1-Score     4  0.884560               ResNet50-GRU-CP  ResNet50          GRU         Capsule Polishing
+374               Evaluation-ResNet50_GRU-CP  F1-Score     5  0.926371               ResNet50-GRU-CP  ResNet50          GRU         Capsule Polishing
+375              Evaluation-ResNet50_LSTM-CP  F1-Score     1  0.892204              ResNet50-LSTM-CP  ResNet50         LSTM         Capsule Polishing
+376              Evaluation-ResNet50_LSTM-CP  F1-Score     2  0.875637              ResNet50-LSTM-CP  ResNet50         LSTM         Capsule Polishing
+377              Evaluation-ResNet50_LSTM-CP  F1-Score     3  0.889724              ResNet50-LSTM-CP  ResNet50         LSTM         Capsule Polishing
+378              Evaluation-ResNet50_LSTM-CP  F1-Score     4  0.835504              ResNet50-LSTM-CP  ResNet50         LSTM         Capsule Polishing
+379              Evaluation-ResNet50_LSTM-CP  F1-Score     5  0.915750              ResNet50-LSTM-CP  ResNet50         LSTM         Capsule Polishing
+380        Evaluation-ResNet50_Mamba-best-CP  F1-Score     1  0.864215        ResNet50-Mamba-best-CP  ResNet50        Mamba         Capsule Polishing
+381        Evaluation-ResNet50_Mamba-best-CP  F1-Score     2  0.901330        ResNet50-Mamba-best-CP  ResNet50        Mamba         Capsule Polishing
+382        Evaluation-ResNet50_Mamba-best-CP  F1-Score     3  0.879867        ResNet50-Mamba-best-CP  ResNet50        Mamba         Capsule Polishing
+383        Evaluation-ResNet50_Mamba-best-CP  F1-Score     4  0.818427        ResNet50-Mamba-best-CP  ResNet50        Mamba         Capsule Polishing
+384        Evaluation-ResNet50_Mamba-best-CP  F1-Score     5  0.908644        ResNet50-Mamba-best-CP  ResNet50        Mamba         Capsule Polishing
+385       Evaluation-ResNet50_Transformer-CP  F1-Score     1  0.871079       ResNet50-Transformer-CP  ResNet50  Transformer         Capsule Polishing
+386       Evaluation-ResNet50_Transformer-CP  F1-Score     2  0.818530       ResNet50-Transformer-CP  ResNet50  Transformer         Capsule Polishing
+387       Evaluation-ResNet50_Transformer-CP  F1-Score     3  0.896574       ResNet50-Transformer-CP  ResNet50  Transformer         Capsule Polishing
+388       Evaluation-ResNet50_Transformer-CP  F1-Score     4  0.885240       ResNet50-Transformer-CP  ResNet50  Transformer         Capsule Polishing
+389       Evaluation-ResNet50_Transformer-CP  F1-Score     5  0.908873       ResNet50-Transformer-CP  ResNet50  Transformer         Capsule Polishing
+390                Evaluation-VGG16_BiGRU-CP  F1-Score     1  0.790210                VGG16-BiGRU-CP     VGG16        BiGRU         Capsule Polishing
+391                Evaluation-VGG16_BiGRU-CP  F1-Score     2  0.894319                VGG16-BiGRU-CP     VGG16        BiGRU         Capsule Polishing
+392                Evaluation-VGG16_BiGRU-CP  F1-Score     3  0.869674                VGG16-BiGRU-CP     VGG16        BiGRU         Capsule Polishing
+393                Evaluation-VGG16_BiGRU-CP  F1-Score     4  0.842463                VGG16-BiGRU-CP     VGG16        BiGRU         Capsule Polishing
+394                Evaluation-VGG16_BiGRU-CP  F1-Score     5  0.915981                VGG16-BiGRU-CP     VGG16        BiGRU         Capsule Polishing
+395               Evaluation-VGG16_BiLSTM-CP  F1-Score     1  0.877823               VGG16-BiLSTM-CP     VGG16       BiLSTM         Capsule Polishing
+396               Evaluation-VGG16_BiLSTM-CP  F1-Score     2  0.911918               VGG16-BiLSTM-CP     VGG16       BiLSTM         Capsule Polishing
+397               Evaluation-VGG16_BiLSTM-CP  F1-Score     3  0.896408               VGG16-BiLSTM-CP     VGG16       BiLSTM         Capsule Polishing
+398               Evaluation-VGG16_BiLSTM-CP  F1-Score     4  0.841490               VGG16-BiLSTM-CP     VGG16       BiLSTM         Capsule Polishing
+399               Evaluation-VGG16_BiLSTM-CP  F1-Score     5  0.908980               VGG16-BiLSTM-CP     VGG16       BiLSTM         Capsule Polishing
+400                  Evaluation-VGG16_GRU-CP  F1-Score     1  0.859970                  VGG16-GRU-CP     VGG16          GRU         Capsule Polishing
+401                  Evaluation-VGG16_GRU-CP  F1-Score     2  0.865958                  VGG16-GRU-CP     VGG16          GRU         Capsule Polishing
+402                  Evaluation-VGG16_GRU-CP  F1-Score     3  0.929906                  VGG16-GRU-CP     VGG16          GRU         Capsule Polishing
+403                  Evaluation-VGG16_GRU-CP  F1-Score     4  0.863443                  VGG16-GRU-CP     VGG16          GRU         Capsule Polishing
+404                  Evaluation-VGG16_GRU-CP  F1-Score     5  0.936952                  VGG16-GRU-CP     VGG16          GRU         Capsule Polishing
+405                 Evaluation-VGG16_LSTM-CP  F1-Score     1  0.885404                 VGG16-LSTM-CP     VGG16         LSTM         Capsule Polishing
+406                 Evaluation-VGG16_LSTM-CP  F1-Score     2  0.868858                 VGG16-LSTM-CP     VGG16         LSTM         Capsule Polishing
+407                 Evaluation-VGG16_LSTM-CP  F1-Score     3  0.889557                 VGG16-LSTM-CP     VGG16         LSTM         Capsule Polishing
+408                 Evaluation-VGG16_LSTM-CP  F1-Score     4  0.889250                 VGG16-LSTM-CP     VGG16         LSTM         Capsule Polishing
+409                 Evaluation-VGG16_LSTM-CP  F1-Score     5  0.905593                 VGG16-LSTM-CP     VGG16         LSTM         Capsule Polishing
+410           Evaluation-VGG16_Mamba-best-CP  F1-Score     1  0.888803           VGG16-Mamba-best-CP     VGG16        Mamba         Capsule Polishing
+411           Evaluation-VGG16_Mamba-best-CP  F1-Score     2  0.904787           VGG16-Mamba-best-CP     VGG16        Mamba         Capsule Polishing
+412           Evaluation-VGG16_Mamba-best-CP  F1-Score     3  0.876665           VGG16-Mamba-best-CP     VGG16        Mamba         Capsule Polishing
+413           Evaluation-VGG16_Mamba-best-CP  F1-Score     4  0.842051           VGG16-Mamba-best-CP     VGG16        Mamba         Capsule Polishing
+414           Evaluation-VGG16_Mamba-best-CP  F1-Score     5  0.901925           VGG16-Mamba-best-CP     VGG16        Mamba         Capsule Polishing
+415          Evaluation-VGG16_Transformer-CP  F1-Score     1  0.885415          VGG16-Transformer-CP     VGG16  Transformer         Capsule Polishing
+416          Evaluation-VGG16_Transformer-CP  F1-Score     2  0.890735          VGG16-Transformer-CP     VGG16  Transformer         Capsule Polishing
+417          Evaluation-VGG16_Transformer-CP  F1-Score     3  0.909879          VGG16-Transformer-CP     VGG16  Transformer         Capsule Polishing
+418          Evaluation-VGG16_Transformer-CP  F1-Score     4  0.839284          VGG16-Transformer-CP     VGG16  Transformer         Capsule Polishing
+419          Evaluation-VGG16_Transformer-CP  F1-Score     5  0.940471          VGG16-Transformer-CP     VGG16  Transformer         Capsule Polishing
+420             Evaluation-ResNet50_BiGRU-LI  F1-Score     1  0.893547             ResNet50-BiGRU-LI  ResNet50        BiGRU         Lens Implantation
+421             Evaluation-ResNet50_BiGRU-LI  F1-Score     2  0.901851             ResNet50-BiGRU-LI  ResNet50        BiGRU         Lens Implantation
+422             Evaluation-ResNet50_BiGRU-LI  F1-Score     3  0.931247             ResNet50-BiGRU-LI  ResNet50        BiGRU         Lens Implantation
+423             Evaluation-ResNet50_BiGRU-LI  F1-Score     4  0.888207             ResNet50-BiGRU-LI  ResNet50        BiGRU         Lens Implantation
+424             Evaluation-ResNet50_BiGRU-LI  F1-Score     5  0.914453             ResNet50-BiGRU-LI  ResNet50        BiGRU         Lens Implantation
+425            Evaluation-ResNet50_BiLSTM-LI  F1-Score     1  0.877292            ResNet50-BiLSTM-LI  ResNet50       BiLSTM         Lens Implantation
+426            Evaluation-ResNet50_BiLSTM-LI  F1-Score     2  0.901819            ResNet50-BiLSTM-LI  ResNet50       BiLSTM         Lens Implantation
+427            Evaluation-ResNet50_BiLSTM-LI  F1-Score     3  0.896648            ResNet50-BiLSTM-LI  ResNet50       BiLSTM         Lens Implantation
+428            Evaluation-ResNet50_BiLSTM-LI  F1-Score     4  0.936295            ResNet50-BiLSTM-LI  ResNet50       BiLSTM         Lens Implantation
+429            Evaluation-ResNet50_BiLSTM-LI  F1-Score     5  0.898327            ResNet50-BiLSTM-LI  ResNet50       BiLSTM         Lens Implantation
+430               Evaluation-ResNet50_GRU-LI  F1-Score     1  0.887067               ResNet50-GRU-LI  ResNet50          GRU         Lens Implantation
+431               Evaluation-ResNet50_GRU-LI  F1-Score     2  0.936699               ResNet50-GRU-LI  ResNet50          GRU         Lens Implantation
+432               Evaluation-ResNet50_GRU-LI  F1-Score     3  0.821581               ResNet50-GRU-LI  ResNet50          GRU         Lens Implantation
+433               Evaluation-ResNet50_GRU-LI  F1-Score     4  0.891680               ResNet50-GRU-LI  ResNet50          GRU         Lens Implantation
+434               Evaluation-ResNet50_GRU-LI  F1-Score     5  0.882050               ResNet50-GRU-LI  ResNet50          GRU         Lens Implantation
+435              Evaluation-ResNet50_LSTM-LI  F1-Score     1  0.912902              ResNet50-LSTM-LI  ResNet50         LSTM         Lens Implantation
+436              Evaluation-ResNet50_LSTM-LI  F1-Score     2  0.911304              ResNet50-LSTM-LI  ResNet50         LSTM         Lens Implantation
+437              Evaluation-ResNet50_LSTM-LI  F1-Score     3  0.868127              ResNet50-LSTM-LI  ResNet50         LSTM         Lens Implantation
+438              Evaluation-ResNet50_LSTM-LI  F1-Score     4  0.888207              ResNet50-LSTM-LI  ResNet50         LSTM         Lens Implantation
+439              Evaluation-ResNet50_LSTM-LI  F1-Score     5  0.898405              ResNet50-LSTM-LI  ResNet50         LSTM         Lens Implantation
+440        Evaluation-ResNet50_Mamba-best-LI  F1-Score     1  0.864058        ResNet50-Mamba-best-LI  ResNet50        Mamba         Lens Implantation
+441        Evaluation-ResNet50_Mamba-best-LI  F1-Score     2  0.933528        ResNet50-Mamba-best-LI  ResNet50        Mamba         Lens Implantation
+442        Evaluation-ResNet50_Mamba-best-LI  F1-Score     3  0.899859        ResNet50-Mamba-best-LI  ResNet50        Mamba         Lens Implantation
+443        Evaluation-ResNet50_Mamba-best-LI  F1-Score     4  0.904443        ResNet50-Mamba-best-LI  ResNet50        Mamba         Lens Implantation
+444        Evaluation-ResNet50_Mamba-best-LI  F1-Score     5  0.892336        ResNet50-Mamba-best-LI  ResNet50        Mamba         Lens Implantation
+445       Evaluation-ResNet50_Transformer-LI  F1-Score     1  0.859286       ResNet50-Transformer-LI  ResNet50  Transformer         Lens Implantation
+446       Evaluation-ResNet50_Transformer-LI  F1-Score     2  0.936699       ResNet50-Transformer-LI  ResNet50  Transformer         Lens Implantation
+447       Evaluation-ResNet50_Transformer-LI  F1-Score     3  0.902851       ResNet50-Transformer-LI  ResNet50  Transformer         Lens Implantation
+448       Evaluation-ResNet50_Transformer-LI  F1-Score     4  0.917184       ResNet50-Transformer-LI  ResNet50  Transformer         Lens Implantation
+449       Evaluation-ResNet50_Transformer-LI  F1-Score     5  0.877982       ResNet50-Transformer-LI  ResNet50  Transformer         Lens Implantation
+450                Evaluation-VGG16_BiGRU-LI  F1-Score     1  0.867741                VGG16-BiGRU-LI     VGG16        BiGRU         Lens Implantation
+451                Evaluation-VGG16_BiGRU-LI  F1-Score     2  0.901780                VGG16-BiGRU-LI     VGG16        BiGRU         Lens Implantation
+452                Evaluation-VGG16_BiGRU-LI  F1-Score     3  0.890573                VGG16-BiGRU-LI     VGG16        BiGRU         Lens Implantation
+453                Evaluation-VGG16_BiGRU-LI  F1-Score     4  0.888534                VGG16-BiGRU-LI     VGG16        BiGRU         Lens Implantation
+454                Evaluation-VGG16_BiGRU-LI  F1-Score     5  0.866955                VGG16-BiGRU-LI     VGG16        BiGRU         Lens Implantation
+455               Evaluation-VGG16_BiLSTM-LI  F1-Score     1  0.896770               VGG16-BiLSTM-LI     VGG16       BiLSTM         Lens Implantation
+456               Evaluation-VGG16_BiLSTM-LI  F1-Score     2  0.930377               VGG16-BiLSTM-LI     VGG16       BiLSTM         Lens Implantation
+457               Evaluation-VGG16_BiLSTM-LI  F1-Score     3  0.934359               VGG16-BiLSTM-LI     VGG16       BiLSTM         Lens Implantation
+458               Evaluation-VGG16_BiLSTM-LI  F1-Score     4  0.872482               VGG16-BiLSTM-LI     VGG16       BiLSTM         Lens Implantation
+459               Evaluation-VGG16_BiLSTM-LI  F1-Score     5  0.848101               VGG16-BiLSTM-LI     VGG16       BiLSTM         Lens Implantation
+460                  Evaluation-VGG16_GRU-LI  F1-Score     1  0.859700                  VGG16-GRU-LI     VGG16          GRU         Lens Implantation
+461                  Evaluation-VGG16_GRU-LI  F1-Score     2  0.875805                  VGG16-GRU-LI     VGG16          GRU         Lens Implantation
+462                  Evaluation-VGG16_GRU-LI  F1-Score     3  0.921838                  VGG16-GRU-LI     VGG16          GRU         Lens Implantation
+463                  Evaluation-VGG16_GRU-LI  F1-Score     4  0.913942                  VGG16-GRU-LI     VGG16          GRU         Lens Implantation
+464                  Evaluation-VGG16_GRU-LI  F1-Score     5  0.839196                  VGG16-GRU-LI     VGG16          GRU         Lens Implantation
+465                 Evaluation-VGG16_LSTM-LI  F1-Score     1  0.879591                 VGG16-LSTM-LI     VGG16         LSTM         Lens Implantation
+466                 Evaluation-VGG16_LSTM-LI  F1-Score     2  0.901677                 VGG16-LSTM-LI     VGG16         LSTM         Lens Implantation
+467                 Evaluation-VGG16_LSTM-LI  F1-Score     3  0.940611                 VGG16-LSTM-LI     VGG16         LSTM         Lens Implantation
+468                 Evaluation-VGG16_LSTM-LI  F1-Score     4  0.843490                 VGG16-LSTM-LI     VGG16         LSTM         Lens Implantation
+469                 Evaluation-VGG16_LSTM-LI  F1-Score     5  0.841461                 VGG16-LSTM-LI     VGG16         LSTM         Lens Implantation
+470           Evaluation-VGG16_Mamba-best-LI  F1-Score     1  0.825678           VGG16-Mamba-best-LI     VGG16        Mamba         Lens Implantation
+471           Evaluation-VGG16_Mamba-best-LI  F1-Score     2  0.870221           VGG16-Mamba-best-LI     VGG16        Mamba         Lens Implantation
+472           Evaluation-VGG16_Mamba-best-LI  F1-Score     3  0.915604           VGG16-Mamba-best-LI     VGG16        Mamba         Lens Implantation
+473           Evaluation-VGG16_Mamba-best-LI  F1-Score     4  0.865170           VGG16-Mamba-best-LI     VGG16        Mamba         Lens Implantation
+474           Evaluation-VGG16_Mamba-best-LI  F1-Score     5  0.882050           VGG16-Mamba-best-LI     VGG16        Mamba         Lens Implantation
+475          Evaluation-VGG16_Transformer-LI  F1-Score     1  0.860965          VGG16-Transformer-LI     VGG16  Transformer         Lens Implantation
+476          Evaluation-VGG16_Transformer-LI  F1-Score     2  0.850003          VGG16-Transformer-LI     VGG16  Transformer         Lens Implantation
+477          Evaluation-VGG16_Transformer-LI  F1-Score     3  0.906118          VGG16-Transformer-LI     VGG16  Transformer         Lens Implantation
+478          Evaluation-VGG16_Transformer-LI  F1-Score     4  0.875238          VGG16-Transformer-LI     VGG16  Transformer         Lens Implantation
+479          Evaluation-VGG16_Transformer-LI  F1-Score     5  0.817631          VGG16-Transformer-LI     VGG16  Transformer         Lens Implantation
+480             Evaluation-ResNet50_BiGRU-LP  F1-Score     1  0.754310             ResNet50-BiGRU-LP  ResNet50        BiGRU          Lens Positioning
+481             Evaluation-ResNet50_BiGRU-LP  F1-Score     2  0.871377             ResNet50-BiGRU-LP  ResNet50        BiGRU          Lens Positioning
+482             Evaluation-ResNet50_BiGRU-LP  F1-Score     3  0.829692             ResNet50-BiGRU-LP  ResNet50        BiGRU          Lens Positioning
+483             Evaluation-ResNet50_BiGRU-LP  F1-Score     4  0.830508             ResNet50-BiGRU-LP  ResNet50        BiGRU          Lens Positioning
+484             Evaluation-ResNet50_BiGRU-LP  F1-Score     5  0.743473             ResNet50-BiGRU-LP  ResNet50        BiGRU          Lens Positioning
+485            Evaluation-ResNet50_BiLSTM-LP  F1-Score     1  0.833012            ResNet50-BiLSTM-LP  ResNet50       BiLSTM          Lens Positioning
+486            Evaluation-ResNet50_BiLSTM-LP  F1-Score     2  0.825628            ResNet50-BiLSTM-LP  ResNet50       BiLSTM          Lens Positioning
+487            Evaluation-ResNet50_BiLSTM-LP  F1-Score     3  0.829692            ResNet50-BiLSTM-LP  ResNet50       BiLSTM          Lens Positioning
+488            Evaluation-ResNet50_BiLSTM-LP  F1-Score     4  0.829228            ResNet50-BiLSTM-LP  ResNet50       BiLSTM          Lens Positioning
+489            Evaluation-ResNet50_BiLSTM-LP  F1-Score     5  0.746272            ResNet50-BiLSTM-LP  ResNet50       BiLSTM          Lens Positioning
+490               Evaluation-ResNet50_GRU-LP  F1-Score     1  0.842057               ResNet50-GRU-LP  ResNet50          GRU          Lens Positioning
+491               Evaluation-ResNet50_GRU-LP  F1-Score     2  0.897780               ResNet50-GRU-LP  ResNet50          GRU          Lens Positioning
+492               Evaluation-ResNet50_GRU-LP  F1-Score     3  0.807848               ResNet50-GRU-LP  ResNet50          GRU          Lens Positioning
+493               Evaluation-ResNet50_GRU-LP  F1-Score     4  0.870651               ResNet50-GRU-LP  ResNet50          GRU          Lens Positioning
+494               Evaluation-ResNet50_GRU-LP  F1-Score     5  0.760757               ResNet50-GRU-LP  ResNet50          GRU          Lens Positioning
+495              Evaluation-ResNet50_LSTM-LP  F1-Score     1  0.841324              ResNet50-LSTM-LP  ResNet50         LSTM          Lens Positioning
+496              Evaluation-ResNet50_LSTM-LP  F1-Score     2  0.871619              ResNet50-LSTM-LP  ResNet50         LSTM          Lens Positioning
+497              Evaluation-ResNet50_LSTM-LP  F1-Score     3  0.860805              ResNet50-LSTM-LP  ResNet50         LSTM          Lens Positioning
+498              Evaluation-ResNet50_LSTM-LP  F1-Score     4  0.856088              ResNet50-LSTM-LP  ResNet50         LSTM          Lens Positioning
+499              Evaluation-ResNet50_LSTM-LP  F1-Score     5  0.797798              ResNet50-LSTM-LP  ResNet50         LSTM          Lens Positioning
+500        Evaluation-ResNet50_Mamba-best-LP  F1-Score     1  0.824440        ResNet50-Mamba-best-LP  ResNet50        Mamba          Lens Positioning
+501        Evaluation-ResNet50_Mamba-best-LP  F1-Score     2  0.818581        ResNet50-Mamba-best-LP  ResNet50        Mamba          Lens Positioning
+502        Evaluation-ResNet50_Mamba-best-LP  F1-Score     3  0.794577        ResNet50-Mamba-best-LP  ResNet50        Mamba          Lens Positioning
+503        Evaluation-ResNet50_Mamba-best-LP  F1-Score     4  0.862059        ResNet50-Mamba-best-LP  ResNet50        Mamba          Lens Positioning
+504        Evaluation-ResNet50_Mamba-best-LP  F1-Score     5  0.751944        ResNet50-Mamba-best-LP  ResNet50        Mamba          Lens Positioning
+505       Evaluation-ResNet50_Transformer-LP  F1-Score     1  0.778245       ResNet50-Transformer-LP  ResNet50  Transformer          Lens Positioning
+506       Evaluation-ResNet50_Transformer-LP  F1-Score     2  0.866588       ResNet50-Transformer-LP  ResNet50  Transformer          Lens Positioning
+507       Evaluation-ResNet50_Transformer-LP  F1-Score     3  0.811538       ResNet50-Transformer-LP  ResNet50  Transformer          Lens Positioning
+508       Evaluation-ResNet50_Transformer-LP  F1-Score     4  0.831868       ResNet50-Transformer-LP  ResNet50  Transformer          Lens Positioning
+509       Evaluation-ResNet50_Transformer-LP  F1-Score     5  0.785166       ResNet50-Transformer-LP  ResNet50  Transformer          Lens Positioning
+510                Evaluation-VGG16_BiGRU-LP  F1-Score     1  0.792418                VGG16-BiGRU-LP     VGG16        BiGRU          Lens Positioning
+511                Evaluation-VGG16_BiGRU-LP  F1-Score     2  0.849132                VGG16-BiGRU-LP     VGG16        BiGRU          Lens Positioning
+512                Evaluation-VGG16_BiGRU-LP  F1-Score     3  0.824038                VGG16-BiGRU-LP     VGG16        BiGRU          Lens Positioning
+513                Evaluation-VGG16_BiGRU-LP  F1-Score     4  0.743589                VGG16-BiGRU-LP     VGG16        BiGRU          Lens Positioning
+514                Evaluation-VGG16_BiGRU-LP  F1-Score     5  0.740887                VGG16-BiGRU-LP     VGG16        BiGRU          Lens Positioning
+515               Evaluation-VGG16_BiLSTM-LP  F1-Score     1  0.750059               VGG16-BiLSTM-LP     VGG16       BiLSTM          Lens Positioning
+516               Evaluation-VGG16_BiLSTM-LP  F1-Score     2  0.849451               VGG16-BiLSTM-LP     VGG16       BiLSTM          Lens Positioning
+517               Evaluation-VGG16_BiLSTM-LP  F1-Score     3  0.785441               VGG16-BiLSTM-LP     VGG16       BiLSTM          Lens Positioning
+518               Evaluation-VGG16_BiLSTM-LP  F1-Score     4  0.785893               VGG16-BiLSTM-LP     VGG16       BiLSTM          Lens Positioning
+519               Evaluation-VGG16_BiLSTM-LP  F1-Score     5  0.759972               VGG16-BiLSTM-LP     VGG16       BiLSTM          Lens Positioning
+520                  Evaluation-VGG16_GRU-LP  F1-Score     1  0.797482                  VGG16-GRU-LP     VGG16          GRU          Lens Positioning
+521                  Evaluation-VGG16_GRU-LP  F1-Score     2  0.862614                  VGG16-GRU-LP     VGG16          GRU          Lens Positioning
+522                  Evaluation-VGG16_GRU-LP  F1-Score     3  0.803006                  VGG16-GRU-LP     VGG16          GRU          Lens Positioning
+523                  Evaluation-VGG16_GRU-LP  F1-Score     4  0.770832                  VGG16-GRU-LP     VGG16          GRU          Lens Positioning
+524                  Evaluation-VGG16_GRU-LP  F1-Score     5  0.760865                  VGG16-GRU-LP     VGG16          GRU          Lens Positioning
+525                 Evaluation-VGG16_LSTM-LP  F1-Score     1  0.802171                 VGG16-LSTM-LP     VGG16         LSTM          Lens Positioning
+526                 Evaluation-VGG16_LSTM-LP  F1-Score     2  0.858396                 VGG16-LSTM-LP     VGG16         LSTM          Lens Positioning
+527                 Evaluation-VGG16_LSTM-LP  F1-Score     3  0.789233                 VGG16-LSTM-LP     VGG16         LSTM          Lens Positioning
+528                 Evaluation-VGG16_LSTM-LP  F1-Score     4  0.908872                 VGG16-LSTM-LP     VGG16         LSTM          Lens Positioning
+529                 Evaluation-VGG16_LSTM-LP  F1-Score     5  0.721739                 VGG16-LSTM-LP     VGG16         LSTM          Lens Positioning
+530           Evaluation-VGG16_Mamba-best-LP  F1-Score     1  0.806062           VGG16-Mamba-best-LP     VGG16        Mamba          Lens Positioning
+531           Evaluation-VGG16_Mamba-best-LP  F1-Score     2  0.760893           VGG16-Mamba-best-LP     VGG16        Mamba          Lens Positioning
+532           Evaluation-VGG16_Mamba-best-LP  F1-Score     3  0.789973           VGG16-Mamba-best-LP     VGG16        Mamba          Lens Positioning
+533           Evaluation-VGG16_Mamba-best-LP  F1-Score     4  0.744622           VGG16-Mamba-best-LP     VGG16        Mamba          Lens Positioning
+534           Evaluation-VGG16_Mamba-best-LP  F1-Score     5  0.707451           VGG16-Mamba-best-LP     VGG16        Mamba          Lens Positioning
+535          Evaluation-VGG16_Transformer-LP  F1-Score     1  0.832509          VGG16-Transformer-LP     VGG16  Transformer          Lens Positioning
+536          Evaluation-VGG16_Transformer-LP  F1-Score     2  0.803773          VGG16-Transformer-LP     VGG16  Transformer          Lens Positioning
+537          Evaluation-VGG16_Transformer-LP  F1-Score     3  0.819355          VGG16-Transformer-LP     VGG16  Transformer          Lens Positioning
+538          Evaluation-VGG16_Transformer-LP  F1-Score     4  0.796563          VGG16-Transformer-LP     VGG16  Transformer          Lens Positioning
+539          Evaluation-VGG16_Transformer-LP  F1-Score     5  0.785786          VGG16-Transformer-LP     VGG16  Transformer          Lens Positioning
+540             Evaluation-ResNet50_BiGRU-VS  F1-Score     1  0.868997             ResNet50-BiGRU-VS  ResNet50        BiGRU      Viscoelastic-Suction
+541             Evaluation-ResNet50_BiGRU-VS  F1-Score     2  0.856422             ResNet50-BiGRU-VS  ResNet50        BiGRU      Viscoelastic-Suction
+542             Evaluation-ResNet50_BiGRU-VS  F1-Score     3  0.835032             ResNet50-BiGRU-VS  ResNet50        BiGRU      Viscoelastic-Suction
+543             Evaluation-ResNet50_BiGRU-VS  F1-Score     4  0.751670             ResNet50-BiGRU-VS  ResNet50        BiGRU      Viscoelastic-Suction
+544             Evaluation-ResNet50_BiGRU-VS  F1-Score     5  0.852172             ResNet50-BiGRU-VS  ResNet50        BiGRU      Viscoelastic-Suction
+545            Evaluation-ResNet50_BiLSTM-VS  F1-Score     1  0.866333            ResNet50-BiLSTM-VS  ResNet50       BiLSTM      Viscoelastic-Suction
+546            Evaluation-ResNet50_BiLSTM-VS  F1-Score     2  0.811301            ResNet50-BiLSTM-VS  ResNet50       BiLSTM      Viscoelastic-Suction
+547            Evaluation-ResNet50_BiLSTM-VS  F1-Score     3  0.863937            ResNet50-BiLSTM-VS  ResNet50       BiLSTM      Viscoelastic-Suction
+548            Evaluation-ResNet50_BiLSTM-VS  F1-Score     4  0.761993            ResNet50-BiLSTM-VS  ResNet50       BiLSTM      Viscoelastic-Suction
+549            Evaluation-ResNet50_BiLSTM-VS  F1-Score     5  0.846891            ResNet50-BiLSTM-VS  ResNet50       BiLSTM      Viscoelastic-Suction
+550               Evaluation-ResNet50_GRU-VS  F1-Score     1  0.853871               ResNet50-GRU-VS  ResNet50          GRU      Viscoelastic-Suction
+551               Evaluation-ResNet50_GRU-VS  F1-Score     2  0.817378               ResNet50-GRU-VS  ResNet50          GRU      Viscoelastic-Suction
+552               Evaluation-ResNet50_GRU-VS  F1-Score     3  0.807777               ResNet50-GRU-VS  ResNet50          GRU      Viscoelastic-Suction
+553               Evaluation-ResNet50_GRU-VS  F1-Score     4  0.721490               ResNet50-GRU-VS  ResNet50          GRU      Viscoelastic-Suction
+554               Evaluation-ResNet50_GRU-VS  F1-Score     5  0.862367               ResNet50-GRU-VS  ResNet50          GRU      Viscoelastic-Suction
+555              Evaluation-ResNet50_LSTM-VS  F1-Score     1  0.882862              ResNet50-LSTM-VS  ResNet50         LSTM      Viscoelastic-Suction
+556              Evaluation-ResNet50_LSTM-VS  F1-Score     2  0.815134              ResNet50-LSTM-VS  ResNet50         LSTM      Viscoelastic-Suction
+557              Evaluation-ResNet50_LSTM-VS  F1-Score     3  0.824599              ResNet50-LSTM-VS  ResNet50         LSTM      Viscoelastic-Suction
+558              Evaluation-ResNet50_LSTM-VS  F1-Score     4  0.689116              ResNet50-LSTM-VS  ResNet50         LSTM      Viscoelastic-Suction
+559              Evaluation-ResNet50_LSTM-VS  F1-Score     5  0.779710              ResNet50-LSTM-VS  ResNet50         LSTM      Viscoelastic-Suction
+560        Evaluation-ResNet50_Mamba-best-VS  F1-Score     1  0.830507        ResNet50-Mamba-best-VS  ResNet50        Mamba      Viscoelastic-Suction
+561        Evaluation-ResNet50_Mamba-best-VS  F1-Score     2  0.809773        ResNet50-Mamba-best-VS  ResNet50        Mamba      Viscoelastic-Suction
+562        Evaluation-ResNet50_Mamba-best-VS  F1-Score     3  0.811502        ResNet50-Mamba-best-VS  ResNet50        Mamba      Viscoelastic-Suction
+563        Evaluation-ResNet50_Mamba-best-VS  F1-Score     4  0.703248        ResNet50-Mamba-best-VS  ResNet50        Mamba      Viscoelastic-Suction
+564        Evaluation-ResNet50_Mamba-best-VS  F1-Score     5  0.820603        ResNet50-Mamba-best-VS  ResNet50        Mamba      Viscoelastic-Suction
+565       Evaluation-ResNet50_Transformer-VS  F1-Score     1  0.892939       ResNet50-Transformer-VS  ResNet50  Transformer      Viscoelastic-Suction
+566       Evaluation-ResNet50_Transformer-VS  F1-Score     2  0.850021       ResNet50-Transformer-VS  ResNet50  Transformer      Viscoelastic-Suction
+567       Evaluation-ResNet50_Transformer-VS  F1-Score     3  0.819693       ResNet50-Transformer-VS  ResNet50  Transformer      Viscoelastic-Suction
+568       Evaluation-ResNet50_Transformer-VS  F1-Score     4  0.741348       ResNet50-Transformer-VS  ResNet50  Transformer      Viscoelastic-Suction
+569       Evaluation-ResNet50_Transformer-VS  F1-Score     5  0.826954       ResNet50-Transformer-VS  ResNet50  Transformer      Viscoelastic-Suction
+570                Evaluation-VGG16_BiGRU-VS  F1-Score     1  0.862453                VGG16-BiGRU-VS     VGG16        BiGRU      Viscoelastic-Suction
+571                Evaluation-VGG16_BiGRU-VS  F1-Score     2  0.844107                VGG16-BiGRU-VS     VGG16        BiGRU      Viscoelastic-Suction
+572                Evaluation-VGG16_BiGRU-VS  F1-Score     3  0.773253                VGG16-BiGRU-VS     VGG16        BiGRU      Viscoelastic-Suction
+573                Evaluation-VGG16_BiGRU-VS  F1-Score     4  0.786248                VGG16-BiGRU-VS     VGG16        BiGRU      Viscoelastic-Suction
+574                Evaluation-VGG16_BiGRU-VS  F1-Score     5  0.850302                VGG16-BiGRU-VS     VGG16        BiGRU      Viscoelastic-Suction
+575               Evaluation-VGG16_BiLSTM-VS  F1-Score     1  0.875817               VGG16-BiLSTM-VS     VGG16       BiLSTM      Viscoelastic-Suction
+576               Evaluation-VGG16_BiLSTM-VS  F1-Score     2  0.849621               VGG16-BiLSTM-VS     VGG16       BiLSTM      Viscoelastic-Suction
+577               Evaluation-VGG16_BiLSTM-VS  F1-Score     3  0.806639               VGG16-BiLSTM-VS     VGG16       BiLSTM      Viscoelastic-Suction
+578               Evaluation-VGG16_BiLSTM-VS  F1-Score     4  0.736603               VGG16-BiLSTM-VS     VGG16       BiLSTM      Viscoelastic-Suction
+579               Evaluation-VGG16_BiLSTM-VS  F1-Score     5  0.827628               VGG16-BiLSTM-VS     VGG16       BiLSTM      Viscoelastic-Suction
+580                  Evaluation-VGG16_GRU-VS  F1-Score     1  0.848858                  VGG16-GRU-VS     VGG16          GRU      Viscoelastic-Suction
+581                  Evaluation-VGG16_GRU-VS  F1-Score     2  0.808541                  VGG16-GRU-VS     VGG16          GRU      Viscoelastic-Suction
+582                  Evaluation-VGG16_GRU-VS  F1-Score     3  0.739124                  VGG16-GRU-VS     VGG16          GRU      Viscoelastic-Suction
+583                  Evaluation-VGG16_GRU-VS  F1-Score     4  0.754830                  VGG16-GRU-VS     VGG16          GRU      Viscoelastic-Suction
+584                  Evaluation-VGG16_GRU-VS  F1-Score     5  0.760808                  VGG16-GRU-VS     VGG16          GRU      Viscoelastic-Suction
+585                 Evaluation-VGG16_LSTM-VS  F1-Score     1  0.875313                 VGG16-LSTM-VS     VGG16         LSTM      Viscoelastic-Suction
+586                 Evaluation-VGG16_LSTM-VS  F1-Score     2  0.822296                 VGG16-LSTM-VS     VGG16         LSTM      Viscoelastic-Suction
+587                 Evaluation-VGG16_LSTM-VS  F1-Score     3  0.748143                 VGG16-LSTM-VS     VGG16         LSTM      Viscoelastic-Suction
+588                 Evaluation-VGG16_LSTM-VS  F1-Score     4  0.731091                 VGG16-LSTM-VS     VGG16         LSTM      Viscoelastic-Suction
+589                 Evaluation-VGG16_LSTM-VS  F1-Score     5  0.883938                 VGG16-LSTM-VS     VGG16         LSTM      Viscoelastic-Suction
+590           Evaluation-VGG16_Mamba-best-VS  F1-Score     1  0.808077           VGG16-Mamba-best-VS     VGG16        Mamba      Viscoelastic-Suction
+591           Evaluation-VGG16_Mamba-best-VS  F1-Score     2  0.766780           VGG16-Mamba-best-VS     VGG16        Mamba      Viscoelastic-Suction
+592           Evaluation-VGG16_Mamba-best-VS  F1-Score     3  0.802940           VGG16-Mamba-best-VS     VGG16        Mamba      Viscoelastic-Suction
+593           Evaluation-VGG16_Mamba-best-VS  F1-Score     4  0.759026           VGG16-Mamba-best-VS     VGG16        Mamba      Viscoelastic-Suction
+594           Evaluation-VGG16_Mamba-best-VS  F1-Score     5  0.798935           VGG16-Mamba-best-VS     VGG16        Mamba      Viscoelastic-Suction
+595          Evaluation-VGG16_Transformer-VS  F1-Score     1  0.838421          VGG16-Transformer-VS     VGG16  Transformer      Viscoelastic-Suction
+596          Evaluation-VGG16_Transformer-VS  F1-Score     2  0.848555          VGG16-Transformer-VS     VGG16  Transformer      Viscoelastic-Suction
+597          Evaluation-VGG16_Transformer-VS  F1-Score     3  0.847617          VGG16-Transformer-VS     VGG16  Transformer      Viscoelastic-Suction
+598          Evaluation-VGG16_Transformer-VS  F1-Score     4  0.776127          VGG16-Transformer-VS     VGG16  Transformer      Viscoelastic-Suction
+599          Evaluation-VGG16_Transformer-VS  F1-Score     5  0.861323          VGG16-Transformer-VS     VGG16  Transformer      Viscoelastic-Suction
+600             Evaluation-ResNet50_BiGRU-TA  F1-Score     1  0.824924             ResNet50-BiGRU-TA  ResNet50        BiGRU     Tonifying/Antibiotics
+601             Evaluation-ResNet50_BiGRU-TA  F1-Score     2  0.821564             ResNet50-BiGRU-TA  ResNet50        BiGRU     Tonifying/Antibiotics
+602             Evaluation-ResNet50_BiGRU-TA  F1-Score     3  0.896667             ResNet50-BiGRU-TA  ResNet50        BiGRU     Tonifying/Antibiotics
+603             Evaluation-ResNet50_BiGRU-TA  F1-Score     4  0.894129             ResNet50-BiGRU-TA  ResNet50        BiGRU     Tonifying/Antibiotics
+604             Evaluation-ResNet50_BiGRU-TA  F1-Score     5  0.877141             ResNet50-BiGRU-TA  ResNet50        BiGRU     Tonifying/Antibiotics
+605            Evaluation-ResNet50_BiLSTM-TA  F1-Score     1  0.850800            ResNet50-BiLSTM-TA  ResNet50       BiLSTM     Tonifying/Antibiotics
+606            Evaluation-ResNet50_BiLSTM-TA  F1-Score     2  0.827440            ResNet50-BiLSTM-TA  ResNet50       BiLSTM     Tonifying/Antibiotics
+607            Evaluation-ResNet50_BiLSTM-TA  F1-Score     3  0.879022            ResNet50-BiLSTM-TA  ResNet50       BiLSTM     Tonifying/Antibiotics
+608            Evaluation-ResNet50_BiLSTM-TA  F1-Score     4  0.914798            ResNet50-BiLSTM-TA  ResNet50       BiLSTM     Tonifying/Antibiotics
+609            Evaluation-ResNet50_BiLSTM-TA  F1-Score     5  0.881001            ResNet50-BiLSTM-TA  ResNet50       BiLSTM     Tonifying/Antibiotics
+610               Evaluation-ResNet50_GRU-TA  F1-Score     1  0.807493               ResNet50-GRU-TA  ResNet50          GRU     Tonifying/Antibiotics
+611               Evaluation-ResNet50_GRU-TA  F1-Score     2  0.863922               ResNet50-GRU-TA  ResNet50          GRU     Tonifying/Antibiotics
+612               Evaluation-ResNet50_GRU-TA  F1-Score     3  0.867184               ResNet50-GRU-TA  ResNet50          GRU     Tonifying/Antibiotics
+613               Evaluation-ResNet50_GRU-TA  F1-Score     4  0.910168               ResNet50-GRU-TA  ResNet50          GRU     Tonifying/Antibiotics
+614               Evaluation-ResNet50_GRU-TA  F1-Score     5  0.866379               ResNet50-GRU-TA  ResNet50          GRU     Tonifying/Antibiotics
+615              Evaluation-ResNet50_LSTM-TA  F1-Score     1  0.857834              ResNet50-LSTM-TA  ResNet50         LSTM     Tonifying/Antibiotics
+616              Evaluation-ResNet50_LSTM-TA  F1-Score     2  0.819211              ResNet50-LSTM-TA  ResNet50         LSTM     Tonifying/Antibiotics
+617              Evaluation-ResNet50_LSTM-TA  F1-Score     3  0.894444              ResNet50-LSTM-TA  ResNet50         LSTM     Tonifying/Antibiotics
+618              Evaluation-ResNet50_LSTM-TA  F1-Score     4  0.914837              ResNet50-LSTM-TA  ResNet50         LSTM     Tonifying/Antibiotics
+619              Evaluation-ResNet50_LSTM-TA  F1-Score     5  0.844086              ResNet50-LSTM-TA  ResNet50         LSTM     Tonifying/Antibiotics
+620        Evaluation-ResNet50_Mamba-best-TA  F1-Score     1  0.822839        ResNet50-Mamba-best-TA  ResNet50        Mamba     Tonifying/Antibiotics
+621        Evaluation-ResNet50_Mamba-best-TA  F1-Score     2  0.828030        ResNet50-Mamba-best-TA  ResNet50        Mamba     Tonifying/Antibiotics
+622        Evaluation-ResNet50_Mamba-best-TA  F1-Score     3  0.885081        ResNet50-Mamba-best-TA  ResNet50        Mamba     Tonifying/Antibiotics
+623        Evaluation-ResNet50_Mamba-best-TA  F1-Score     4  0.908269        ResNet50-Mamba-best-TA  ResNet50        Mamba     Tonifying/Antibiotics
+624        Evaluation-ResNet50_Mamba-best-TA  F1-Score     5  0.840443        ResNet50-Mamba-best-TA  ResNet50        Mamba     Tonifying/Antibiotics
+625       Evaluation-ResNet50_Transformer-TA  F1-Score     1  0.809716       ResNet50-Transformer-TA  ResNet50  Transformer     Tonifying/Antibiotics
+626       Evaluation-ResNet50_Transformer-TA  F1-Score     2  0.845707       ResNet50-Transformer-TA  ResNet50  Transformer     Tonifying/Antibiotics
+627       Evaluation-ResNet50_Transformer-TA  F1-Score     3  0.872562       ResNet50-Transformer-TA  ResNet50  Transformer     Tonifying/Antibiotics
+628       Evaluation-ResNet50_Transformer-TA  F1-Score     4  0.934437       ResNet50-Transformer-TA  ResNet50  Transformer     Tonifying/Antibiotics
+629       Evaluation-ResNet50_Transformer-TA  F1-Score     5  0.872275       ResNet50-Transformer-TA  ResNet50  Transformer     Tonifying/Antibiotics
+630                Evaluation-VGG16_BiGRU-TA  F1-Score     1  0.840391                VGG16-BiGRU-TA     VGG16        BiGRU     Tonifying/Antibiotics
+631                Evaluation-VGG16_BiGRU-TA  F1-Score     2  0.843393                VGG16-BiGRU-TA     VGG16        BiGRU     Tonifying/Antibiotics
+632                Evaluation-VGG16_BiGRU-TA  F1-Score     3  0.873981                VGG16-BiGRU-TA     VGG16        BiGRU     Tonifying/Antibiotics
+633                Evaluation-VGG16_BiGRU-TA  F1-Score     4  0.941014                VGG16-BiGRU-TA     VGG16        BiGRU     Tonifying/Antibiotics
+634                Evaluation-VGG16_BiGRU-TA  F1-Score     5  0.894314                VGG16-BiGRU-TA     VGG16        BiGRU     Tonifying/Antibiotics
+635               Evaluation-VGG16_BiLSTM-TA  F1-Score     1  0.831742               VGG16-BiLSTM-TA     VGG16       BiLSTM     Tonifying/Antibiotics
+636               Evaluation-VGG16_BiLSTM-TA  F1-Score     2  0.862987               VGG16-BiLSTM-TA     VGG16       BiLSTM     Tonifying/Antibiotics
+637               Evaluation-VGG16_BiLSTM-TA  F1-Score     3  0.864913               VGG16-BiLSTM-TA     VGG16       BiLSTM     Tonifying/Antibiotics
+638               Evaluation-VGG16_BiLSTM-TA  F1-Score     4  0.919044               VGG16-BiLSTM-TA     VGG16       BiLSTM     Tonifying/Antibiotics
+639               Evaluation-VGG16_BiLSTM-TA  F1-Score     5  0.876188               VGG16-BiLSTM-TA     VGG16       BiLSTM     Tonifying/Antibiotics
+640                  Evaluation-VGG16_GRU-TA  F1-Score     1  0.815906                  VGG16-GRU-TA     VGG16          GRU     Tonifying/Antibiotics
+641                  Evaluation-VGG16_GRU-TA  F1-Score     2  0.867633                  VGG16-GRU-TA     VGG16          GRU     Tonifying/Antibiotics
+642                  Evaluation-VGG16_GRU-TA  F1-Score     3  0.883745                  VGG16-GRU-TA     VGG16          GRU     Tonifying/Antibiotics
+643                  Evaluation-VGG16_GRU-TA  F1-Score     4  0.927931                  VGG16-GRU-TA     VGG16          GRU     Tonifying/Antibiotics
+644                  Evaluation-VGG16_GRU-TA  F1-Score     5  0.828636                  VGG16-GRU-TA     VGG16          GRU     Tonifying/Antibiotics
+645                 Evaluation-VGG16_LSTM-TA  F1-Score     1  0.809381                 VGG16-LSTM-TA     VGG16         LSTM     Tonifying/Antibiotics
+646                 Evaluation-VGG16_LSTM-TA  F1-Score     2  0.849984                 VGG16-LSTM-TA     VGG16         LSTM     Tonifying/Antibiotics
+647                 Evaluation-VGG16_LSTM-TA  F1-Score     3  0.855194                 VGG16-LSTM-TA     VGG16         LSTM     Tonifying/Antibiotics
+648                 Evaluation-VGG16_LSTM-TA  F1-Score     4  0.934478                 VGG16-LSTM-TA     VGG16         LSTM     Tonifying/Antibiotics
+649                 Evaluation-VGG16_LSTM-TA  F1-Score     5  0.875989                 VGG16-LSTM-TA     VGG16         LSTM     Tonifying/Antibiotics
+650           Evaluation-VGG16_Mamba-best-TA  F1-Score     1  0.809052           VGG16-Mamba-best-TA     VGG16        Mamba     Tonifying/Antibiotics
+651           Evaluation-VGG16_Mamba-best-TA  F1-Score     2  0.832391           VGG16-Mamba-best-TA     VGG16        Mamba     Tonifying/Antibiotics
+652           Evaluation-VGG16_Mamba-best-TA  F1-Score     3  0.853641           VGG16-Mamba-best-TA     VGG16        Mamba     Tonifying/Antibiotics
+653           Evaluation-VGG16_Mamba-best-TA  F1-Score     4  0.890359           VGG16-Mamba-best-TA     VGG16        Mamba     Tonifying/Antibiotics
+654           Evaluation-VGG16_Mamba-best-TA  F1-Score     5  0.896482           VGG16-Mamba-best-TA     VGG16        Mamba     Tonifying/Antibiotics
+655          Evaluation-VGG16_Transformer-TA  F1-Score     1  0.847089          VGG16-Transformer-TA     VGG16  Transformer     Tonifying/Antibiotics
+656          Evaluation-VGG16_Transformer-TA  F1-Score     2  0.861082          VGG16-Transformer-TA     VGG16  Transformer     Tonifying/Antibiotics
+657          Evaluation-VGG16_Transformer-TA  F1-Score     3  0.898794          VGG16-Transformer-TA     VGG16  Transformer     Tonifying/Antibiotics
+658          Evaluation-VGG16_Transformer-TA  F1-Score     4  0.943192          VGG16-Transformer-TA     VGG16  Transformer     Tonifying/Antibiotics
+659          Evaluation-VGG16_Transformer-TA  F1-Score     5  0.928863          VGG16-Transformer-TA     VGG16  Transformer     Tonifying/Antibiotics
+
+Metric
+F1-Score    0.84076
+
+ResNet50 -> [84.62584502533862] [ AVG = 84.62584502533862 ]
+VGG16 -> [83.52621591879105] [ AVG = 83.52621591879105 ]
+
+
+Transformer -> [84.5410231826546] [ AVG = 84.5410231826546 ]
+BiLSTM -> [84.44423957522427] [ AVG = 84.44423957522427 ]
+BiGRU -> [84.41780209346199] [ AVG = 84.41780209346199 ]
+LSTM -> [84.30704023119729] [ AVG = 84.30704023119729 ]
+GRU -> [84.15152343251309] [ AVG = 84.15152343251309 ]
+Mamba -> [82.59455431733781] [ AVG = 82.59455431733781 ]
+
+
+Inc -> [92.96967420681041] [ AVG = 92.96967420681041 ]
+LI -> [88.84932437893778] [ AVG = 88.84932437893778 ]
+CP -> [88.5830192005834] [ AVG = 88.5830192005834 ]
+TA -> [86.81698919873611] [ AVG = 86.81698919873611 ]
+Pha -> [85.81205815904113] [ AVG = 85.81205815904113 ]
+Cap -> [85.21160512596259] [ AVG = 85.21160512596259 ]
+Hyd -> [83.29866988869028] [ AVG = 83.29866988869028 ]
+VS -> [81.28175847041199] [ AVG = 81.28175847041199 ]
+LP -> [80.71333825460667] [ AVG = 80.71333825460667 ]
+IA -> [75.97441952312595] [ AVG = 75.97441952312595 ]
+Vis-ACF -> [75.32547878580694] [ AVG = 75.32547878580694 ]

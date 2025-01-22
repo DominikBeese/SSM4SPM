@@ -1,0 +1,129 @@
+                                 Experiment Training Evaluation        Metric  File     Value                        Model        CNN          RNN
+0       Evaluation-ResNet152_Transformer-IA       IA         IA      Accuracy     1  0.935976     ResNet152-Transformer-IA  ResNet152  Transformer
+1       Evaluation-ResNet152_Transformer-IA     IA+P         IA      Accuracy     1  0.935976     ResNet152-Transformer-IA  ResNet152  Transformer
+2       Evaluation-ResNet152_Transformer-IA       IA         IA      Accuracy     2  0.932074     ResNet152-Transformer-IA  ResNet152  Transformer
+3       Evaluation-ResNet152_Transformer-IA     IA+P         IA      Accuracy     2  0.932074     ResNet152-Transformer-IA  ResNet152  Transformer
+4       Evaluation-ResNet152_Transformer-IA       IA         IA      Accuracy     3  0.946463     ResNet152-Transformer-IA  ResNet152  Transformer
+5       Evaluation-ResNet152_Transformer-IA     IA+P         IA      Accuracy     3  0.946463     ResNet152-Transformer-IA  ResNet152  Transformer
+6       Evaluation-ResNet152_Transformer-IA       IA         IA      Accuracy     4  0.947272     ResNet152-Transformer-IA  ResNet152  Transformer
+7       Evaluation-ResNet152_Transformer-IA     IA+P         IA      Accuracy     4  0.947272     ResNet152-Transformer-IA  ResNet152  Transformer
+8       Evaluation-ResNet152_Transformer-IA       IA         IA      Accuracy     5  0.941559     ResNet152-Transformer-IA  ResNet152  Transformer
+9       Evaluation-ResNet152_Transformer-IA     IA+P         IA      Accuracy     5  0.941559     ResNet152-Transformer-IA  ResNet152  Transformer
+10   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-1st     1  0.625444  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+11   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-1st     2  0.661271  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+12   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-1st     3  0.685851  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+13   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-1st     4  0.644457  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+14   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-1st     5  0.627784  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+15   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-2nd     1  0.176331  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+16   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-2nd     2  0.164868  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+17   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-2nd     3  0.137290  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+18   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-2nd     4  0.122918  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+19   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-2nd     5  0.172919  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+20   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-3rd     1  0.060947  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+21   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-3rd     2  0.070743  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+22   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-3rd     3  0.074940  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+23   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-3rd     4  0.059736  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+24   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-3rd     5  0.084408  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+25   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-4th     1  0.037278  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+26   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-4th     2  0.029376  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+27   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-4th     3  0.031175  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+28   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-4th     4  0.044227  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+29   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-4th     5  0.039273  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+30   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-5th     1  0.027219  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+31   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-5th     2  0.020983  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+32   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-5th     3  0.024580  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+33   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-5th     4  0.027570  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+34   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  Accuracy-5th     5  0.018757  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+35   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      Accuracy     1  0.625444  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+36   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      Accuracy     2  0.661271  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+37   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      Accuracy     3  0.685851  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+38   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      Accuracy     4  0.644457  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+39   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      Accuracy     5  0.627784  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+40       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-1st     1  0.678698      ResNet152-Transformer-P  ResNet152  Transformer
+41       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-1st     2  0.772782      ResNet152-Transformer-P  ResNet152  Transformer
+42       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-1st     3  0.739808      ResNet152-Transformer-P  ResNet152  Transformer
+43       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-1st     4  0.751292      ResNet152-Transformer-P  ResNet152  Transformer
+44       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-1st     5  0.744431      ResNet152-Transformer-P  ResNet152  Transformer
+45       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-2nd     1  0.157396      ResNet152-Transformer-P  ResNet152  Transformer
+46       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-2nd     2  0.130695      ResNet152-Transformer-P  ResNet152  Transformer
+47       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-2nd     3  0.139688      ResNet152-Transformer-P  ResNet152  Transformer
+48       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-2nd     4  0.152211      ResNet152-Transformer-P  ResNet152  Transformer
+49       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-2nd     5  0.128370      ResNet152-Transformer-P  ResNet152  Transformer
+50       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-3rd     1  0.057988      ResNet152-Transformer-P  ResNet152  Transformer
+51       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-3rd     2  0.052158      ResNet152-Transformer-P  ResNet152  Transformer
+52       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-3rd     3  0.036571      ResNet152-Transformer-P  ResNet152  Transformer
+53       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-3rd     4  0.038484      ResNet152-Transformer-P  ResNet152  Transformer
+54       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-3rd     5  0.073857      ResNet152-Transformer-P  ResNet152  Transformer
+55       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-4th     1  0.033136      ResNet152-Transformer-P  ResNet152  Transformer
+56       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-4th     2  0.021583      ResNet152-Transformer-P  ResNet152  Transformer
+57       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-4th     3  0.020983      ResNet152-Transformer-P  ResNet152  Transformer
+58       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-4th     4  0.014934      ResNet152-Transformer-P  ResNet152  Transformer
+59       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-4th     5  0.019343      ResNet152-Transformer-P  ResNet152  Transformer
+60       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-5th     1  0.016568      ResNet152-Transformer-P  ResNet152  Transformer
+61       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-5th     2  0.006595      ResNet152-Transformer-P  ResNet152  Transformer
+62       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-5th     3  0.016187      ResNet152-Transformer-P  ResNet152  Transformer
+63       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-5th     4  0.012636      ResNet152-Transformer-P  ResNet152  Transformer
+64       Evaluation-ResNet152_Transformer-P        P          P  Accuracy-5th     5  0.014068      ResNet152-Transformer-P  ResNet152  Transformer
+65       Evaluation-ResNet152_Transformer-P        P          P      Accuracy     1  0.678698      ResNet152-Transformer-P  ResNet152  Transformer
+66       Evaluation-ResNet152_Transformer-P        P          P      Accuracy     2  0.772782      ResNet152-Transformer-P  ResNet152  Transformer
+67       Evaluation-ResNet152_Transformer-P        P          P      Accuracy     3  0.739808      ResNet152-Transformer-P  ResNet152  Transformer
+68       Evaluation-ResNet152_Transformer-P        P          P      Accuracy     4  0.751292      ResNet152-Transformer-P  ResNet152  Transformer
+69       Evaluation-ResNet152_Transformer-P        P          P      Accuracy     5  0.744431      ResNet152-Transformer-P  ResNet152  Transformer
+70     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-1st     1  0.659172    ResNet152-Transformer-PIA  ResNet152  Transformer
+71     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-1st     2  0.794964    ResNet152-Transformer-PIA  ResNet152  Transformer
+72     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-1st     3  0.724221    ResNet152-Transformer-PIA  ResNet152  Transformer
+73     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-1st     4  0.733487    ResNet152-Transformer-PIA  ResNet152  Transformer
+74     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-1st     5  0.745018    ResNet152-Transformer-PIA  ResNet152  Transformer
+75     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-2nd     1  0.168047    ResNet152-Transformer-PIA  ResNet152  Transformer
+76     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-2nd     2  0.123501    ResNet152-Transformer-PIA  ResNet152  Transformer
+77     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-2nd     3  0.154077    ResNet152-Transformer-PIA  ResNet152  Transformer
+78     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-2nd     4  0.144744    ResNet152-Transformer-PIA  ResNet152  Transformer
+79     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-2nd     5  0.137749    ResNet152-Transformer-PIA  ResNet152  Transformer
+80     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-3rd     1  0.067456    ResNet152-Transformer-PIA  ResNet152  Transformer
+81     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-3rd     2  0.030576    ResNet152-Transformer-PIA  ResNet152  Transformer
+82     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-3rd     3  0.047362    ResNet152-Transformer-PIA  ResNet152  Transformer
+83     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-3rd     4  0.045376    ResNet152-Transformer-PIA  ResNet152  Transformer
+84     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-3rd     5  0.049824    ResNet152-Transformer-PIA  ResNet152  Transformer
+85     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-4th     1  0.033136    ResNet152-Transformer-PIA  ResNet152  Transformer
+86     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-4th     2  0.019784    ResNet152-Transformer-PIA  ResNet152  Transformer
+87     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-4th     3  0.024580    ResNet152-Transformer-PIA  ResNet152  Transformer
+88     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-4th     4  0.021827    ResNet152-Transformer-PIA  ResNet152  Transformer
+89     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-4th     5  0.024619    ResNet152-Transformer-PIA  ResNet152  Transformer
+90     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-5th     1  0.024852    ResNet152-Transformer-PIA  ResNet152  Transformer
+91     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-5th     2  0.009592    ResNet152-Transformer-PIA  ResNet152  Transformer
+92     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-5th     3  0.018585    ResNet152-Transformer-PIA  ResNet152  Transformer
+93     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-5th     4  0.014360    ResNet152-Transformer-PIA  ResNet152  Transformer
+94     Evaluation-ResNet152_Transformer-PIA      PIA          P  Accuracy-5th     5  0.015240    ResNet152-Transformer-PIA  ResNet152  Transformer
+95     Evaluation-ResNet152_Transformer-PIA      PIA          P      Accuracy     1  0.659172    ResNet152-Transformer-PIA  ResNet152  Transformer
+96     Evaluation-ResNet152_Transformer-PIA      PIA          P      Accuracy     2  0.794964    ResNet152-Transformer-PIA  ResNet152  Transformer
+97     Evaluation-ResNet152_Transformer-PIA      PIA          P      Accuracy     3  0.724221    ResNet152-Transformer-PIA  ResNet152  Transformer
+98     Evaluation-ResNet152_Transformer-PIA      PIA          P      Accuracy     4  0.733487    ResNet152-Transformer-PIA  ResNet152  Transformer
+99     Evaluation-ResNet152_Transformer-PIA      PIA          P      Accuracy     5  0.745018    ResNet152-Transformer-PIA  ResNet152  Transformer
+100    Evaluation-ResNet152_Transformer-PIA      PIA         IA      Accuracy     1  0.894201    ResNet152-Transformer-PIA  ResNet152  Transformer
+101    Evaluation-ResNet152_Transformer-PIA      PIA         IA      Accuracy     2  0.946763    ResNet152-Transformer-PIA  ResNet152  Transformer
+102    Evaluation-ResNet152_Transformer-PIA      PIA         IA      Accuracy     3  0.934113    ResNet152-Transformer-PIA  ResNet152  Transformer
+103    Evaluation-ResNet152_Transformer-PIA      PIA         IA      Accuracy     4  0.951924    ResNet152-Transformer-PIA  ResNet152  Transformer
+104    Evaluation-ResNet152_Transformer-PIA      PIA         IA      Accuracy     5  0.937808    ResNet152-Transformer-PIA  ResNet152  Transformer
+
+Evaluation  Training  Metric      
+IA          IA        Accuracy        0.940669
+            IA+P      Accuracy        0.940669
+            PIA       Accuracy        0.932962
+P           IA+P      Accuracy        0.648962
+                      Accuracy-1st    0.648962
+                      Accuracy-2nd    0.154865
+                      Accuracy-3rd    0.070155
+                      Accuracy-4th    0.036266
+                      Accuracy-5th    0.023822
+            P         Accuracy        0.737402
+                      Accuracy-1st    0.737402
+                      Accuracy-2nd    0.141672
+                      Accuracy-3rd    0.051812
+                      Accuracy-4th    0.021996
+                      Accuracy-5th    0.013211
+            PIA       Accuracy        0.731372
+                      Accuracy-1st    0.731372
+                      Accuracy-2nd    0.145624
+                      Accuracy-3rd    0.048119
+                      Accuracy-4th    0.024789
+                      Accuracy-5th    0.016526

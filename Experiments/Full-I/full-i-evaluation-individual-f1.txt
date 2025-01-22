@@ -1,0 +1,9 @@
+                                   Experiment       Metric  File     Value                            Model        CNN          RNN
+0  Evaluation-ResNet152_Transformer-finetuned   F1-Score-N     1  0.801794  ResNet152-Transformer-finetuned  ResNet152  Transformer
+1  Evaluation-ResNet152_Transformer-finetuned  F1-Score-PC     1  0.552632  ResNet152-Transformer-finetuned  ResNet152  Transformer
+2  Evaluation-ResNet152_Transformer-finetuned  F1-Score-LR     1  0.201835  ResNet152-Transformer-finetuned  ResNet152  Transformer
+
+Metric
+F1-Score-LR    0.201835
+F1-Score-N     0.801794
+F1-Score-PC    0.552632

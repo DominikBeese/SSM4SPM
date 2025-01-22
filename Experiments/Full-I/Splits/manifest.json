@@ -1,0 +1,9 @@
+{
+ "fps": 30.0,
+ "video-format": "mp4",
+ "image-format": "jpg",
+ "video-length": 2000,
+ "sample-count": 15,
+ "sample-offset": 3,
+ "random-seed": 73
+}

@@ -1,0 +1,4754 @@
+[
+ {
+  "caseId": 5013,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 211,
+  "startSec": 2.066666666666667,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 811,
+  "startSec": 17.066666666666666,
+  "endSec": 27.033333333333335
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 812,
+  "end": 2161,
+  "startSec": 27.066666666666666,
+  "endSec": 72.03333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 2312,
+  "end": 2611,
+  "startSec": 77.06666666666666,
+  "endSec": 87.03333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 2762,
+  "end": 2911,
+  "startSec": 92.06666666666666,
+  "endSec": 97.03333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2912,
+  "end": 5461,
+  "startSec": 97.06666666666666,
+  "endSec": 182.03333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 2912,
+  "end": 5461,
+  "startSec": 97.06666666666666,
+  "endSec": 182.03333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 5612,
+  "end": 5911,
+  "startSec": 187.06666666666666,
+  "endSec": 197.03333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 9,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5762,
+  "end": 7411,
+  "startSec": 192.06666666666666,
+  "endSec": 247.03333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 7562,
+  "end": 7711,
+  "startSec": 252.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 7862,
+  "end": 8011,
+  "startSec": 262.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 12,
+  "instrument": "Lens Injector",
+  "start": 8162,
+  "end": 8311,
+  "startSec": 272.06666666666666,
+  "endSec": 277.03333333333336
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8612,
+  "end": 8911,
+  "startSec": 287.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 9062,
+  "end": 9211,
+  "startSec": 302.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 15,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9362,
+  "end": 9511,
+  "startSec": 312.06666666666666,
+  "endSec": 317.03333333333336
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 16,
+  "instrument": "Gauge",
+  "start": 9662,
+  "end": 10159,
+  "startSec": 322.06666666666666,
+  "endSec": 338.6333333333333
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 662,
+  "end": 811,
+  "startSec": 22.066666666666666,
+  "endSec": 27.033333333333335
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 962,
+  "end": 1111,
+  "startSec": 32.06666666666667,
+  "endSec": 37.03333333333333
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 4,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 1112,
+  "end": 1711,
+  "startSec": 37.06666666666667,
+  "endSec": 57.03333333333333
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 1862,
+  "end": 2161,
+  "startSec": 62.06666666666667,
+  "endSec": 72.03333333333333
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2312,
+  "end": 6211,
+  "startSec": 77.06666666666666,
+  "endSec": 207.03333333333333
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 2462,
+  "end": 6211,
+  "startSec": 82.06666666666666,
+  "endSec": 207.03333333333333
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 6362,
+  "end": 6511,
+  "startSec": 212.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 9,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6512,
+  "end": 9211,
+  "startSec": 217.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 6812,
+  "end": 9061,
+  "startSec": 227.06666666666666,
+  "endSec": 302.03333333333336
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 9512,
+  "end": 9661,
+  "startSec": 317.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 12,
+  "instrument": "Lens Injector",
+  "start": 9662,
+  "end": 9961,
+  "startSec": 322.06666666666666,
+  "endSec": 332.03333333333336
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 13,
+  "instrument": "Spatula",
+  "start": 9962,
+  "end": 10111,
+  "startSec": 332.06666666666666,
+  "endSec": 337.03333333333336
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 10112,
+  "end": 10561,
+  "startSec": 337.06666666666666,
+  "endSec": 352.03333333333336
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 10562,
+  "end": 10861,
+  "startSec": 352.06666666666666,
+  "endSec": 362.03333333333336
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 10862,
+  "end": 11161,
+  "startSec": 362.06666666666666,
+  "endSec": 372.03333333333336
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 11162,
+  "end": 11825,
+  "startSec": 372.06666666666666,
+  "endSec": 394.1666666666667
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 2,
+  "instrument": "Katena Forceps",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 4,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 662,
+  "end": 1561,
+  "startSec": 22.066666666666666,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 1712,
+  "end": 2011,
+  "startSec": 57.06666666666667,
+  "endSec": 67.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2162,
+  "end": 5011,
+  "startSec": 72.06666666666666,
+  "endSec": 167.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 2162,
+  "end": 2311,
+  "startSec": 72.06666666666666,
+  "endSec": 77.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 3062,
+  "end": 4861,
+  "startSec": 102.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 9,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5162,
+  "end": 6511,
+  "startSec": 172.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 5162,
+  "end": 5311,
+  "startSec": 172.06666666666666,
+  "endSec": 177.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 6662,
+  "end": 7111,
+  "startSec": 222.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 12,
+  "instrument": "Lens Injector",
+  "start": 7112,
+  "end": 7561,
+  "startSec": 237.06666666666666,
+  "endSec": 252.03333333333333
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 13,
+  "instrument": "Spatula",
+  "start": 7712,
+  "end": 7861,
+  "startSec": 257.06666666666666,
+  "endSec": 262.03333333333336
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7862,
+  "end": 8461,
+  "startSec": 262.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 8462,
+  "end": 8911,
+  "startSec": 282.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8912,
+  "end": 9361,
+  "startSec": 297.06666666666666,
+  "endSec": 312.03333333333336
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 9362,
+  "end": 10034,
+  "startSec": 312.06666666666666,
+  "endSec": 334.46666666666664
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 62,
+  "end": 211,
+  "startSec": 2.066666666666667,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 211,
+  "startSec": 2.066666666666667,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 3,
+  "instrument": "Slit/Incision Knife",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 662,
+  "end": 811,
+  "startSec": 22.066666666666666,
+  "endSec": 27.033333333333335
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 5,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 962,
+  "end": 2011,
+  "startSec": 32.06666666666667,
+  "endSec": 67.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 6,
+  "instrument": "Gauge",
+  "start": 2012,
+  "end": 2461,
+  "startSec": 67.06666666666666,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 7,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2762,
+  "end": 5311,
+  "startSec": 92.06666666666666,
+  "endSec": 177.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 2762,
+  "end": 2911,
+  "startSec": 92.06666666666666,
+  "endSec": 97.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 3362,
+  "end": 5311,
+  "startSec": 112.06666666666666,
+  "endSec": 177.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 10,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5612,
+  "end": 6811,
+  "startSec": 187.06666666666666,
+  "endSec": 227.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 5612,
+  "end": 5761,
+  "startSec": 187.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 12,
+  "instrument": "Spatula",
+  "start": 6512,
+  "end": 6811,
+  "startSec": 217.06666666666666,
+  "endSec": 227.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 6962,
+  "end": 7111,
+  "startSec": 232.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 7262,
+  "end": 7411,
+  "startSec": 242.06666666666666,
+  "endSec": 247.03333333333333
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 15,
+  "instrument": "Lens Injector",
+  "start": 7562,
+  "end": 8011,
+  "startSec": 252.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 16,
+  "instrument": "Spatula",
+  "start": 8162,
+  "end": 8311,
+  "startSec": 272.06666666666666,
+  "endSec": 277.03333333333336
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 17,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8312,
+  "end": 8761,
+  "startSec": 277.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 8912,
+  "end": 9361,
+  "startSec": 297.06666666666666,
+  "endSec": 312.03333333333336
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 19,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9362,
+  "end": 9661,
+  "startSec": 312.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 20,
+  "instrument": "Gauge",
+  "start": 9812,
+  "end": 10111,
+  "startSec": 327.06666666666666,
+  "endSec": 337.03333333333336
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 21,
+  "instrument": "Gauge",
+  "start": 10262,
+  "end": 10411,
+  "startSec": 342.06666666666666,
+  "endSec": 347.03333333333336
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 22,
+  "instrument": "Gauge",
+  "start": 10712,
+  "end": 10963,
+  "startSec": 357.06666666666666,
+  "endSec": 365.43333333333334
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 211,
+  "startSec": 2.066666666666667,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 4,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 812,
+  "end": 1261,
+  "startSec": 27.066666666666666,
+  "endSec": 42.03333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 1412,
+  "end": 1861,
+  "startSec": 47.06666666666667,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2162,
+  "end": 5311,
+  "startSec": 72.06666666666666,
+  "endSec": 177.03333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 7,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 2162,
+  "end": 2311,
+  "startSec": 72.06666666666666,
+  "endSec": 77.03333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 2312,
+  "end": 5311,
+  "startSec": 77.06666666666666,
+  "endSec": 177.03333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 5612,
+  "end": 7411,
+  "startSec": 187.06666666666666,
+  "endSec": 247.03333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 10,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5612,
+  "end": 7411,
+  "startSec": 187.06666666666666,
+  "endSec": 247.03333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 7562,
+  "end": 7711,
+  "startSec": 252.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 12,
+  "instrument": "Lens Injector",
+  "start": 8012,
+  "end": 8311,
+  "startSec": 267.06666666666666,
+  "endSec": 277.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 13,
+  "instrument": "Katena Forceps",
+  "start": 8012,
+  "end": 8161,
+  "startSec": 267.06666666666666,
+  "endSec": 272.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 8462,
+  "end": 8761,
+  "startSec": 282.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 15,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8762,
+  "end": 9061,
+  "startSec": 292.06666666666666,
+  "endSec": 302.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 16,
+  "instrument": "Spatula",
+  "start": 8912,
+  "end": 9061,
+  "startSec": 297.06666666666666,
+  "endSec": 302.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 9212,
+  "end": 9511,
+  "startSec": 307.06666666666666,
+  "endSec": 317.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 18,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9512,
+  "end": 9661,
+  "startSec": 317.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 19,
+  "instrument": "Gauge",
+  "start": 9812,
+  "end": 10180,
+  "startSec": 327.06666666666666,
+  "endSec": 339.3333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 4,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 662,
+  "end": 1111,
+  "startSec": 22.066666666666666,
+  "endSec": 37.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 1262,
+  "end": 1561,
+  "startSec": 42.06666666666667,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 1712,
+  "end": 3511,
+  "startSec": 57.06666666666667,
+  "endSec": 117.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 7,
+  "instrument": "Katena Forceps",
+  "start": 1712,
+  "end": 1861,
+  "startSec": 57.06666666666667,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 1862,
+  "end": 3511,
+  "startSec": 62.06666666666667,
+  "endSec": 117.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 9,
+  "instrument": "Irrigation-Aspiration",
+  "start": 3662,
+  "end": 5761,
+  "startSec": 122.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 3812,
+  "end": 5311,
+  "startSec": 127.06666666666666,
+  "endSec": 177.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 5462,
+  "end": 5761,
+  "startSec": 182.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 5912,
+  "end": 6211,
+  "startSec": 197.06666666666666,
+  "endSec": 207.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 13,
+  "instrument": "Lens Injector",
+  "start": 6362,
+  "end": 6811,
+  "startSec": 212.06666666666666,
+  "endSec": 227.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 14,
+  "instrument": "Katena Forceps",
+  "start": 6362,
+  "end": 6511,
+  "startSec": 212.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 15,
+  "instrument": "Spatula",
+  "start": 7112,
+  "end": 8161,
+  "startSec": 237.06666666666666,
+  "endSec": 272.03333333333336
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7112,
+  "end": 8161,
+  "startSec": 237.06666666666666,
+  "endSec": 272.03333333333336
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 8312,
+  "end": 9095,
+  "startSec": 277.06666666666666,
+  "endSec": 303.1666666666667
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 2,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 662,
+  "end": 1561,
+  "startSec": 22.066666666666666,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 1712,
+  "end": 2311,
+  "startSec": 57.06666666666667,
+  "endSec": 77.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 4,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2612,
+  "end": 4411,
+  "startSec": 87.06666666666666,
+  "endSec": 147.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 5,
+  "instrument": "Spatula",
+  "start": 2612,
+  "end": 4411,
+  "startSec": 87.06666666666666,
+  "endSec": 147.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 6,
+  "instrument": "Irrigation-Aspiration",
+  "start": 4712,
+  "end": 5461,
+  "startSec": 157.06666666666666,
+  "endSec": 182.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 7,
+  "instrument": "Gauge",
+  "start": 5612,
+  "end": 5761,
+  "startSec": 187.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 5912,
+  "end": 6061,
+  "startSec": 197.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 9,
+  "instrument": "Lens Injector",
+  "start": 6212,
+  "end": 6511,
+  "startSec": 207.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 6662,
+  "end": 7111,
+  "startSec": 222.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 11,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7112,
+  "end": 7261,
+  "startSec": 237.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 7412,
+  "end": 7711,
+  "startSec": 247.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7862,
+  "end": 8011,
+  "startSec": 262.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 8312,
+  "end": 8548,
+  "startSec": 277.06666666666666,
+  "endSec": 284.93333333333334
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 662,
+  "end": 1861,
+  "startSec": 22.066666666666666,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 2012,
+  "end": 2611,
+  "startSec": 67.06666666666666,
+  "endSec": 87.03333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 5,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2912,
+  "end": 5761,
+  "startSec": 97.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 6,
+  "instrument": "Spatula",
+  "start": 2912,
+  "end": 5761,
+  "startSec": 97.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 7,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6062,
+  "end": 7111,
+  "startSec": 202.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 6062,
+  "end": 6361,
+  "startSec": 202.06666666666666,
+  "endSec": 212.03333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 6512,
+  "end": 6961,
+  "startSec": 217.06666666666666,
+  "endSec": 232.03333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 7112,
+  "end": 7561,
+  "startSec": 237.06666666666666,
+  "endSec": 252.03333333333333
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 7712,
+  "end": 7861,
+  "startSec": 257.06666666666666,
+  "endSec": 262.03333333333336
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 12,
+  "instrument": "Lens Injector",
+  "start": 8012,
+  "end": 8461,
+  "startSec": 267.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 13,
+  "instrument": "Spatula",
+  "start": 8462,
+  "end": 8611,
+  "startSec": 282.06666666666666,
+  "endSec": 287.03333333333336
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 8612,
+  "end": 8761,
+  "startSec": 287.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 15,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8912,
+  "end": 9061,
+  "startSec": 297.06666666666666,
+  "endSec": 302.03333333333336
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 16,
+  "instrument": "Gauge",
+  "start": 9212,
+  "end": 9661,
+  "startSec": 307.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 17,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9662,
+  "end": 10111,
+  "startSec": 322.06666666666666,
+  "endSec": 337.03333333333336
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 10112,
+  "end": 10565,
+  "startSec": 337.06666666666666,
+  "endSec": 352.1666666666667
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 212,
+  "end": 511,
+  "startSec": 7.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 662,
+  "end": 811,
+  "startSec": 22.066666666666666,
+  "endSec": 27.033333333333335
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 812,
+  "end": 1861,
+  "startSec": 27.066666666666666,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 1862,
+  "end": 2461,
+  "startSec": 62.06666666666667,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 5,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2612,
+  "end": 5011,
+  "startSec": 87.06666666666666,
+  "endSec": 167.03333333333333
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 6,
+  "instrument": "Spatula",
+  "start": 2762,
+  "end": 5011,
+  "startSec": 92.06666666666666,
+  "endSec": 167.03333333333333
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 7,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5462,
+  "end": 6811,
+  "startSec": 182.06666666666666,
+  "endSec": 227.03333333333333
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 6812,
+  "end": 7111,
+  "startSec": 227.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 9,
+  "instrument": "Gauge",
+  "start": 7262,
+  "end": 7411,
+  "startSec": 242.06666666666666,
+  "endSec": 247.03333333333333
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 7562,
+  "end": 7711,
+  "startSec": 252.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 11,
+  "instrument": "Lens Injector",
+  "start": 7862,
+  "end": 8311,
+  "startSec": 262.06666666666666,
+  "endSec": 277.03333333333336
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 8312,
+  "end": 8611,
+  "startSec": 277.06666666666666,
+  "endSec": 287.03333333333336
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8612,
+  "end": 9661,
+  "startSec": 287.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 14,
+  "instrument": "Spatula",
+  "start": 8912,
+  "end": 9661,
+  "startSec": 297.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 9812,
+  "end": 10261,
+  "startSec": 327.06666666666666,
+  "endSec": 342.03333333333336
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 10412,
+  "end": 10711,
+  "startSec": 347.06666666666666,
+  "endSec": 357.03333333333336
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 10862,
+  "end": 11611,
+  "startSec": 362.06666666666666,
+  "endSec": 387.03333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 662,
+  "end": 1561,
+  "startSec": 22.066666666666666,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 1562,
+  "end": 2011,
+  "startSec": 52.06666666666667,
+  "endSec": 67.03333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 5,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2462,
+  "end": 4111,
+  "startSec": 82.06666666666666,
+  "endSec": 137.03333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 6,
+  "instrument": "Spatula",
+  "start": 2462,
+  "end": 4111,
+  "startSec": 82.06666666666666,
+  "endSec": 137.03333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 7,
+  "instrument": "Irrigation-Aspiration",
+  "start": 4562,
+  "end": 6061,
+  "startSec": 152.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 6062,
+  "end": 6361,
+  "startSec": 202.06666666666666,
+  "endSec": 212.03333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 9,
+  "instrument": "Gauge",
+  "start": 6512,
+  "end": 7111,
+  "startSec": 217.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 7262,
+  "end": 7411,
+  "startSec": 242.06666666666666,
+  "endSec": 247.03333333333333
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 11,
+  "instrument": "Lens Injector",
+  "start": 7412,
+  "end": 7711,
+  "startSec": 247.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 12,
+  "instrument": "Spatula",
+  "start": 7712,
+  "end": 7861,
+  "startSec": 257.06666666666666,
+  "endSec": 262.03333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 7862,
+  "end": 8011,
+  "startSec": 262.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8012,
+  "end": 8911,
+  "startSec": 267.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 9062,
+  "end": 10111,
+  "startSec": 302.06666666666666,
+  "endSec": 337.03333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 10412,
+  "end": 10561,
+  "startSec": 347.06666666666666,
+  "endSec": 352.03333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 10712,
+  "end": 11116,
+  "startSec": 357.06666666666666,
+  "endSec": 370.53333333333336
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 0,
+  "end": 61,
+  "startSec": 0.0,
+  "endSec": 2.033333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 512,
+  "end": 1261,
+  "startSec": 17.066666666666666,
+  "endSec": 42.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 1262,
+  "end": 1411,
+  "startSec": 42.06666666666667,
+  "endSec": 47.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 1562,
+  "end": 1861,
+  "startSec": 52.06666666666667,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2312,
+  "end": 5161,
+  "startSec": 77.06666666666666,
+  "endSec": 172.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 2312,
+  "end": 5161,
+  "startSec": 77.06666666666666,
+  "endSec": 172.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 8,
+  "instrument": "Phacoemulsification Tip",
+  "start": 5312,
+  "end": 5461,
+  "startSec": 177.06666666666666,
+  "endSec": 182.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 5312,
+  "end": 5461,
+  "startSec": 177.06666666666666,
+  "endSec": 182.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 10,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5462,
+  "end": 6661,
+  "startSec": 182.06666666666666,
+  "endSec": 222.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 6062,
+  "end": 6661,
+  "startSec": 202.06666666666666,
+  "endSec": 222.03333333333333
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 6962,
+  "end": 7711,
+  "startSec": 232.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 8012,
+  "end": 8161,
+  "startSec": 267.06666666666666,
+  "endSec": 272.03333333333336
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 14,
+  "instrument": "Lens Injector",
+  "start": 8162,
+  "end": 8461,
+  "startSec": 272.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 8612,
+  "end": 8761,
+  "startSec": 287.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 16,
+  "instrument": "Phacoemulsification Tip",
+  "start": 8762,
+  "end": 8911,
+  "startSec": 292.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 17,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8912,
+  "end": 9211,
+  "startSec": 297.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 9362,
+  "end": 9867,
+  "startSec": 312.06666666666666,
+  "endSec": 328.9
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 0,
+  "end": 511,
+  "startSec": 0.0,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 0,
+  "end": 61,
+  "startSec": 0.0,
+  "endSec": 2.033333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 3,
+  "instrument": "Slit/Incision Knife",
+  "start": 212,
+  "end": 511,
+  "startSec": 7.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 4,
+  "instrument": "Katena Forceps",
+  "start": 662,
+  "end": 961,
+  "startSec": 22.066666666666666,
+  "endSec": 32.03333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 5,
+  "instrument": "Slit/Incision Knife",
+  "start": 812,
+  "end": 961,
+  "startSec": 27.066666666666666,
+  "endSec": 32.03333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 6,
+  "instrument": "Gauge",
+  "start": 1262,
+  "end": 1561,
+  "startSec": 42.06666666666667,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 7,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 2012,
+  "end": 4861,
+  "startSec": 67.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 5012,
+  "end": 6811,
+  "startSec": 167.06666666666666,
+  "endSec": 227.03333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 9,
+  "instrument": "Gauge",
+  "start": 6962,
+  "end": 7261,
+  "startSec": 232.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 10,
+  "instrument": "Phacoemulsification Tip",
+  "start": 7562,
+  "end": 15361,
+  "startSec": 252.06666666666666,
+  "endSec": 512.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 7562,
+  "end": 15361,
+  "startSec": 252.06666666666666,
+  "endSec": 512.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 12,
+  "instrument": "Irrigation-Aspiration",
+  "start": 15962,
+  "end": 19111,
+  "startSec": 532.0666666666667,
+  "endSec": 637.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 13,
+  "instrument": "Spatula",
+  "start": 15962,
+  "end": 17461,
+  "startSec": 532.0666666666667,
+  "endSec": 582.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 14,
+  "instrument": "Spatula",
+  "start": 17612,
+  "end": 17761,
+  "startSec": 587.0666666666667,
+  "endSec": 592.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 15,
+  "instrument": "Spatula",
+  "start": 17912,
+  "end": 18061,
+  "startSec": 597.0666666666667,
+  "endSec": 602.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 16,
+  "instrument": "Spatula",
+  "start": 18512,
+  "end": 19111,
+  "startSec": 617.0666666666667,
+  "endSec": 637.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 17,
+  "instrument": "Spatula",
+  "start": 19412,
+  "end": 20311,
+  "startSec": 647.0666666666667,
+  "endSec": 677.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 18,
+  "instrument": "Irrigation-Aspiration",
+  "start": 19562,
+  "end": 20911,
+  "startSec": 652.0666666666667,
+  "endSec": 697.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 19,
+  "instrument": "Spatula",
+  "start": 20462,
+  "end": 20911,
+  "startSec": 682.0666666666667,
+  "endSec": 697.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 20,
+  "instrument": "Gauge",
+  "start": 21062,
+  "end": 21811,
+  "startSec": 702.0666666666667,
+  "endSec": 727.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 21,
+  "instrument": "Gauge",
+  "start": 21962,
+  "end": 22711,
+  "startSec": 732.0666666666667,
+  "endSec": 757.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 22,
+  "instrument": "Gauge",
+  "start": 23012,
+  "end": 23461,
+  "startSec": 767.0666666666667,
+  "endSec": 782.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 23,
+  "instrument": "Gauge",
+  "start": 23612,
+  "end": 24061,
+  "startSec": 787.0666666666667,
+  "endSec": 802.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 24,
+  "instrument": "Lens Injector",
+  "start": 24212,
+  "end": 24661,
+  "startSec": 807.0666666666667,
+  "endSec": 822.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 25,
+  "instrument": "Spatula",
+  "start": 24812,
+  "end": 25411,
+  "startSec": 827.0666666666667,
+  "endSec": 847.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 26,
+  "instrument": "Irrigation-Aspiration",
+  "start": 25562,
+  "end": 26761,
+  "startSec": 852.0666666666667,
+  "endSec": 892.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 27,
+  "instrument": "Spatula",
+  "start": 26012,
+  "end": 26761,
+  "startSec": 867.0666666666667,
+  "endSec": 892.0333333333333
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 28,
+  "instrument": "Gauge",
+  "start": 26912,
+  "end": 28650,
+  "startSec": 897.0666666666667,
+  "endSec": 955.0
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 2,
+  "instrument": "Spatula",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 662,
+  "end": 811,
+  "startSec": 22.066666666666666,
+  "endSec": 27.033333333333335
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 962,
+  "end": 1111,
+  "startSec": 32.06666666666667,
+  "endSec": 37.03333333333333
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 5,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 1412,
+  "end": 2161,
+  "startSec": 47.06666666666667,
+  "endSec": 72.03333333333333
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 6,
+  "instrument": "Gauge",
+  "start": 2312,
+  "end": 2761,
+  "startSec": 77.06666666666666,
+  "endSec": 92.03333333333333
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 7,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2912,
+  "end": 6511,
+  "startSec": 97.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 3962,
+  "end": 7711,
+  "startSec": 132.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 9,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6812,
+  "end": 8761,
+  "startSec": 227.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 8762,
+  "end": 8911,
+  "startSec": 292.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 9062,
+  "end": 9211,
+  "startSec": 302.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 12,
+  "instrument": "Lens Injector",
+  "start": 10112,
+  "end": 10561,
+  "startSec": 337.06666666666666,
+  "endSec": 352.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 13,
+  "instrument": "Spatula",
+  "start": 10562,
+  "end": 10861,
+  "startSec": 352.06666666666666,
+  "endSec": 362.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 10862,
+  "end": 11461,
+  "startSec": 362.06666666666666,
+  "endSec": 382.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 11612,
+  "end": 12061,
+  "startSec": 387.06666666666666,
+  "endSec": 402.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 12062,
+  "end": 12211,
+  "startSec": 402.06666666666666,
+  "endSec": 407.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 12362,
+  "end": 12811,
+  "startSec": 412.06666666666666,
+  "endSec": 427.03333333333336
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 13112,
+  "end": 13261,
+  "startSec": 437.06666666666666,
+  "endSec": 442.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 0,
+  "end": 61,
+  "startSec": 0.0,
+  "endSec": 2.033333333333333
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 812,
+  "end": 1111,
+  "startSec": 27.066666666666666,
+  "endSec": 37.03333333333333
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 1262,
+  "end": 1861,
+  "startSec": 42.06666666666667,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 2012,
+  "end": 2461,
+  "startSec": 67.06666666666666,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 5,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2612,
+  "end": 4861,
+  "startSec": 87.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 6,
+  "instrument": "Spatula",
+  "start": 2762,
+  "end": 4861,
+  "startSec": 92.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 7,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5162,
+  "end": 6511,
+  "startSec": 172.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 6662,
+  "end": 7111,
+  "startSec": 222.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 9,
+  "instrument": "Gauge",
+  "start": 7262,
+  "end": 7711,
+  "startSec": 242.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 10,
+  "instrument": "Lens Injector",
+  "start": 7862,
+  "end": 8011,
+  "startSec": 262.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 8162,
+  "end": 8461,
+  "startSec": 272.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 12,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8462,
+  "end": 8761,
+  "startSec": 282.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 8912,
+  "end": 9211,
+  "startSec": 297.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9212,
+  "end": 9511,
+  "startSec": 307.06666666666666,
+  "endSec": 317.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 9512,
+  "end": 9661,
+  "startSec": 317.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9662,
+  "end": 9811,
+  "startSec": 322.06666666666666,
+  "endSec": 327.03333333333336
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 9962,
+  "end": 10284,
+  "startSec": 332.06666666666666,
+  "endSec": 342.8
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 812,
+  "end": 1561,
+  "startSec": 27.066666666666666,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 1712,
+  "end": 2311,
+  "startSec": 57.06666666666667,
+  "endSec": 77.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 5,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2312,
+  "end": 2461,
+  "startSec": 77.06666666666666,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2612,
+  "end": 4861,
+  "startSec": 87.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 2612,
+  "end": 4861,
+  "startSec": 87.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 8,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5312,
+  "end": 6061,
+  "startSec": 177.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 5462,
+  "end": 6061,
+  "startSec": 182.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 6212,
+  "end": 6361,
+  "startSec": 207.06666666666666,
+  "endSec": 212.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 11,
+  "instrument": "Lens Injector",
+  "start": 6812,
+  "end": 7111,
+  "startSec": 227.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 12,
+  "instrument": "Spatula",
+  "start": 7112,
+  "end": 7261,
+  "startSec": 237.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7412,
+  "end": 7711,
+  "startSec": 247.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 7712,
+  "end": 8011,
+  "startSec": 257.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 15,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8162,
+  "end": 8311,
+  "startSec": 272.06666666666666,
+  "endSec": 277.03333333333336
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 16,
+  "instrument": "Gauge",
+  "start": 8462,
+  "end": 9213,
+  "startSec": 282.06666666666666,
+  "endSec": 307.1
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 662,
+  "end": 1261,
+  "startSec": 22.066666666666666,
+  "endSec": 42.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 1412,
+  "end": 1711,
+  "startSec": 47.06666666666667,
+  "endSec": 57.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 5,
+  "instrument": "Phacoemulsification Tip",
+  "start": 1712,
+  "end": 3811,
+  "startSec": 57.06666666666667,
+  "endSec": 127.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 6,
+  "instrument": "Spatula",
+  "start": 1862,
+  "end": 3811,
+  "startSec": 62.06666666666667,
+  "endSec": 127.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 7,
+  "instrument": "Irrigation-Aspiration",
+  "start": 4112,
+  "end": 5011,
+  "startSec": 137.06666666666666,
+  "endSec": 167.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 5162,
+  "end": 5461,
+  "startSec": 172.06666666666666,
+  "endSec": 182.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 9,
+  "instrument": "Lens Injector",
+  "start": 5762,
+  "end": 6061,
+  "startSec": 192.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 6062,
+  "end": 6211,
+  "startSec": 202.06666666666666,
+  "endSec": 207.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 11,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6212,
+  "end": 6511,
+  "startSec": 207.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 6512,
+  "end": 6961,
+  "startSec": 217.06666666666666,
+  "endSec": 232.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7112,
+  "end": 7261,
+  "startSec": 237.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 7262,
+  "end": 7561,
+  "startSec": 242.06666666666666,
+  "endSec": 252.03333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 7712,
+  "end": 7909,
+  "startSec": 257.06666666666666,
+  "endSec": 263.6333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 1,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 2,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 812,
+  "end": 1711,
+  "startSec": 27.066666666666666,
+  "endSec": 57.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 1712,
+  "end": 2311,
+  "startSec": 57.06666666666667,
+  "endSec": 77.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 4,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2312,
+  "end": 4111,
+  "startSec": 77.06666666666666,
+  "endSec": 137.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 5,
+  "instrument": "Spatula",
+  "start": 2312,
+  "end": 4111,
+  "startSec": 77.06666666666666,
+  "endSec": 137.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 6,
+  "instrument": "Irrigation-Aspiration",
+  "start": 4412,
+  "end": 5161,
+  "startSec": 147.06666666666666,
+  "endSec": 172.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 7,
+  "instrument": "Gauge",
+  "start": 5312,
+  "end": 5761,
+  "startSec": 177.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 8,
+  "instrument": "Lens Injector",
+  "start": 5762,
+  "end": 6061,
+  "startSec": 192.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 6062,
+  "end": 6361,
+  "startSec": 202.06666666666666,
+  "endSec": 212.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 10,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6362,
+  "end": 6661,
+  "startSec": 212.06666666666666,
+  "endSec": 222.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 6812,
+  "end": 6961,
+  "startSec": 227.06666666666666,
+  "endSec": 232.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 12,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7112,
+  "end": 7261,
+  "startSec": 237.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 7412,
+  "end": 7995,
+  "startSec": 247.06666666666666,
+  "endSec": 266.5
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 1,
+  "instrument": "Gauge",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 2,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 512,
+  "end": 1411,
+  "startSec": 17.066666666666666,
+  "endSec": 47.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 1412,
+  "end": 1861,
+  "startSec": 47.06666666666667,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 4,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2162,
+  "end": 3961,
+  "startSec": 72.06666666666666,
+  "endSec": 132.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 5,
+  "instrument": "Spatula",
+  "start": 2162,
+  "end": 3961,
+  "startSec": 72.06666666666666,
+  "endSec": 132.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 6,
+  "instrument": "Irrigation-Aspiration",
+  "start": 4112,
+  "end": 4711,
+  "startSec": 137.06666666666666,
+  "endSec": 157.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 7,
+  "instrument": "Gauge",
+  "start": 4862,
+  "end": 5311,
+  "startSec": 162.06666666666666,
+  "endSec": 177.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 8,
+  "instrument": "Lens Injector",
+  "start": 5312,
+  "end": 5761,
+  "startSec": 177.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 9,
+  "instrument": "Gauge",
+  "start": 5912,
+  "end": 6061,
+  "startSec": 197.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 10,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6062,
+  "end": 6511,
+  "startSec": 202.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 6512,
+  "end": 6961,
+  "startSec": 217.06666666666666,
+  "endSec": 232.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 7112,
+  "end": 7261,
+  "startSec": 237.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 7412,
+  "end": 7747,
+  "startSec": 247.06666666666666,
+  "endSec": 258.23333333333335
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 1,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 2,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 812,
+  "end": 1561,
+  "startSec": 27.066666666666666,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 1712,
+  "end": 2011,
+  "startSec": 57.06666666666667,
+  "endSec": 67.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 4,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2162,
+  "end": 3961,
+  "startSec": 72.06666666666666,
+  "endSec": 132.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 5,
+  "instrument": "Spatula",
+  "start": 2312,
+  "end": 3961,
+  "startSec": 77.06666666666666,
+  "endSec": 132.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 6,
+  "instrument": "Irrigation-Aspiration",
+  "start": 4262,
+  "end": 4861,
+  "startSec": 142.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 7,
+  "instrument": "Gauge",
+  "start": 4862,
+  "end": 5161,
+  "startSec": 162.06666666666666,
+  "endSec": 172.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 5312,
+  "end": 5611,
+  "startSec": 177.06666666666666,
+  "endSec": 187.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 9,
+  "instrument": "Lens Injector",
+  "start": 5612,
+  "end": 5761,
+  "startSec": 187.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 5912,
+  "end": 6061,
+  "startSec": 197.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 11,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6212,
+  "end": 6511,
+  "startSec": 207.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 12,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6662,
+  "end": 7111,
+  "startSec": 222.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 7262,
+  "end": 8011,
+  "startSec": 242.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8012,
+  "end": 8461,
+  "startSec": 267.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 8462,
+  "end": 8611,
+  "startSec": 282.06666666666666,
+  "endSec": 287.03333333333336
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 16,
+  "instrument": "Gauge",
+  "start": 8912,
+  "end": 9061,
+  "startSec": 297.06666666666666,
+  "endSec": 302.03333333333336
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 9212,
+  "end": 9661,
+  "startSec": 307.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 18,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9962,
+  "end": 10111,
+  "startSec": 332.06666666666666,
+  "endSec": 337.03333333333336
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 19,
+  "instrument": "Gauge",
+  "start": 10412,
+  "end": 10929,
+  "startSec": 347.06666666666666,
+  "endSec": 364.3
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 0,
+  "end": 211,
+  "startSec": 0.0,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 662,
+  "end": 1561,
+  "startSec": 22.066666666666666,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 1562,
+  "end": 1711,
+  "startSec": 52.06666666666667,
+  "endSec": 57.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 5,
+  "instrument": "Lens Injector",
+  "start": 1712,
+  "end": 1861,
+  "startSec": 57.06666666666667,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 6,
+  "instrument": "Gauge",
+  "start": 1862,
+  "end": 2011,
+  "startSec": 62.06666666666667,
+  "endSec": 67.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 7,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2312,
+  "end": 4861,
+  "startSec": 77.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 2462,
+  "end": 4861,
+  "startSec": 82.06666666666666,
+  "endSec": 162.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 9,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5162,
+  "end": 6211,
+  "startSec": 172.06666666666666,
+  "endSec": 207.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 6212,
+  "end": 6661,
+  "startSec": 207.06666666666666,
+  "endSec": 222.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 6812,
+  "end": 7261,
+  "startSec": 227.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 12,
+  "instrument": "Lens Injector",
+  "start": 7262,
+  "end": 7411,
+  "startSec": 242.06666666666666,
+  "endSec": 247.03333333333333
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 13,
+  "instrument": "Spatula",
+  "start": 7412,
+  "end": 7861,
+  "startSec": 247.06666666666666,
+  "endSec": 262.03333333333336
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7862,
+  "end": 8311,
+  "startSec": 262.06666666666666,
+  "endSec": 277.03333333333336
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 8312,
+  "end": 8911,
+  "startSec": 277.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8912,
+  "end": 9211,
+  "startSec": 297.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 9362,
+  "end": 9511,
+  "startSec": 312.06666666666666,
+  "endSec": 317.03333333333336
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 9662,
+  "end": 10074,
+  "startSec": 322.06666666666666,
+  "endSec": 335.8
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 2,
+  "instrument": "Gauge",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 662,
+  "end": 1411,
+  "startSec": 22.066666666666666,
+  "endSec": 47.03333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 1412,
+  "end": 1861,
+  "startSec": 47.06666666666667,
+  "endSec": 62.03333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 5,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2312,
+  "end": 4561,
+  "startSec": 77.06666666666666,
+  "endSec": 152.03333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 6,
+  "instrument": "Spatula",
+  "start": 2462,
+  "end": 4561,
+  "startSec": 82.06666666666666,
+  "endSec": 152.03333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 7,
+  "instrument": "Irrigation-Aspiration",
+  "start": 4862,
+  "end": 6061,
+  "startSec": 162.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 6062,
+  "end": 6511,
+  "startSec": 202.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 9,
+  "instrument": "Gauge",
+  "start": 6662,
+  "end": 7111,
+  "startSec": 222.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 7262,
+  "end": 7711,
+  "startSec": 242.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 11,
+  "instrument": "Lens Injector",
+  "start": 7862,
+  "end": 8161,
+  "startSec": 262.06666666666666,
+  "endSec": 272.03333333333336
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 12,
+  "instrument": "Spatula",
+  "start": 8162,
+  "end": 8461,
+  "startSec": 272.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8462,
+  "end": 9061,
+  "startSec": 282.06666666666666,
+  "endSec": 302.03333333333336
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 9062,
+  "end": 9661,
+  "startSec": 302.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 15,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9662,
+  "end": 10261,
+  "startSec": 322.06666666666666,
+  "endSec": 342.03333333333336
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 16,
+  "instrument": "Spatula",
+  "start": 9962,
+  "end": 10261,
+  "startSec": 332.06666666666666,
+  "endSec": 342.03333333333336
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 10412,
+  "end": 10561,
+  "startSec": 347.06666666666666,
+  "endSec": 352.03333333333336
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 10712,
+  "end": 11095,
+  "startSec": 357.06666666666666,
+  "endSec": 369.8333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 1,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 2,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 812,
+  "end": 1711,
+  "startSec": 27.066666666666666,
+  "endSec": 57.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 1862,
+  "end": 2461,
+  "startSec": 62.06666666666667,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 4,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2762,
+  "end": 5011,
+  "startSec": 92.06666666666666,
+  "endSec": 167.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 5,
+  "instrument": "Spatula",
+  "start": 2762,
+  "end": 5011,
+  "startSec": 92.06666666666666,
+  "endSec": 167.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 6,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5237,
+  "end": 6511,
+  "startSec": 174.56666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 5462,
+  "end": 6511,
+  "startSec": 182.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 6512,
+  "end": 6661,
+  "startSec": 217.06666666666666,
+  "endSec": 222.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 9,
+  "instrument": "Gauge",
+  "start": 6812,
+  "end": 6961,
+  "startSec": 227.06666666666666,
+  "endSec": 232.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 10,
+  "instrument": "Lens Injector",
+  "start": 6962,
+  "end": 7261,
+  "startSec": 232.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 7412,
+  "end": 7561,
+  "startSec": 247.06666666666666,
+  "endSec": 252.03333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 12,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7712,
+  "end": 8011,
+  "startSec": 257.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 8162,
+  "end": 8611,
+  "startSec": 272.06666666666666,
+  "endSec": 287.03333333333336
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8612,
+  "end": 8761,
+  "startSec": 287.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 8912,
+  "end": 9061,
+  "startSec": 297.06666666666666,
+  "endSec": 302.03333333333336
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9362,
+  "end": 9511,
+  "startSec": 312.06666666666666,
+  "endSec": 317.03333333333336
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 9512,
+  "end": 9811,
+  "startSec": 317.06666666666666,
+  "endSec": 327.03333333333336
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 9962,
+  "end": 10238,
+  "startSec": 332.06666666666666,
+  "endSec": 341.26666666666665
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 0,
+  "end": 61,
+  "startSec": 0.0,
+  "endSec": 2.033333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 361,
+  "startSec": 2.066666666666667,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Forceps",
+  "start": 662,
+  "end": 1411,
+  "startSec": 22.066666666666666,
+  "endSec": 47.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 1562,
+  "end": 2011,
+  "startSec": 52.06666666666667,
+  "endSec": 67.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 5,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2162,
+  "end": 4111,
+  "startSec": 72.06666666666666,
+  "endSec": 137.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 6,
+  "instrument": "Spatula",
+  "start": 2162,
+  "end": 4111,
+  "startSec": 72.06666666666666,
+  "endSec": 137.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 7,
+  "instrument": "Irrigation-Aspiration",
+  "start": 4337,
+  "end": 5161,
+  "startSec": 144.56666666666666,
+  "endSec": 172.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 5312,
+  "end": 5911,
+  "startSec": 177.06666666666666,
+  "endSec": 197.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 9,
+  "instrument": "Lens Injector",
+  "start": 6062,
+  "end": 6361,
+  "startSec": 202.06666666666666,
+  "endSec": 212.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 6362,
+  "end": 6961,
+  "startSec": 212.06666666666666,
+  "endSec": 232.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 11,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6962,
+  "end": 7261,
+  "startSec": 232.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 7262,
+  "end": 7711,
+  "startSec": 242.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7712,
+  "end": 7861,
+  "startSec": 257.06666666666666,
+  "endSec": 262.03333333333336
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 8012,
+  "end": 8161,
+  "startSec": 267.06666666666666,
+  "endSec": 272.03333333333336
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 8462,
+  "end": 8611,
+  "startSec": 282.06666666666666,
+  "endSec": 287.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 1,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 211,
+  "startSec": 2.066666666666667,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 362,
+  "end": 661,
+  "startSec": 12.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 3,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 812,
+  "end": 961,
+  "startSec": 27.066666666666666,
+  "endSec": 32.03333333333333
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 4,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 1862,
+  "end": 3061,
+  "startSec": 62.06666666666667,
+  "endSec": 102.03333333333333
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 3362,
+  "end": 4261,
+  "startSec": 112.06666666666666,
+  "endSec": 142.03333333333333
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 6062,
+  "end": 9211,
+  "startSec": 202.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 6062,
+  "end": 9211,
+  "startSec": 202.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 8,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9662,
+  "end": 12061,
+  "startSec": 322.06666666666666,
+  "endSec": 402.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 9812,
+  "end": 12061,
+  "startSec": 327.06666666666666,
+  "endSec": 402.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 12212,
+  "end": 12661,
+  "startSec": 407.06666666666666,
+  "endSec": 422.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 11,
+  "instrument": "Lens Injector",
+  "start": 12662,
+  "end": 12961,
+  "startSec": 422.06666666666666,
+  "endSec": 432.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 12,
+  "instrument": "Spatula",
+  "start": 12962,
+  "end": 13261,
+  "startSec": 432.06666666666666,
+  "endSec": 442.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 13412,
+  "end": 14911,
+  "startSec": 447.06666666666666,
+  "endSec": 497.03333333333336
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 14,
+  "instrument": "Gauge",
+  "start": 15062,
+  "end": 15361,
+  "startSec": 502.06666666666666,
+  "endSec": 512.0333333333333
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 15812,
+  "end": 15961,
+  "startSec": 527.0666666666667,
+  "endSec": 532.0333333333333
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 16,
+  "instrument": "Gauge",
+  "start": 16112,
+  "end": 16533,
+  "startSec": 537.0666666666667,
+  "endSec": 551.1
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 62,
+  "end": 211,
+  "startSec": 2.066666666666667,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 62,
+  "end": 211,
+  "startSec": 2.066666666666667,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 3,
+  "instrument": "Slit/Incision Knife",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 662,
+  "end": 961,
+  "startSec": 22.066666666666666,
+  "endSec": 32.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 5,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 1112,
+  "end": 1411,
+  "startSec": 37.06666666666667,
+  "endSec": 47.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 6,
+  "instrument": "Gauge",
+  "start": 1412,
+  "end": 1561,
+  "startSec": 47.06666666666667,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 7,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 1562,
+  "end": 3061,
+  "startSec": 52.06666666666667,
+  "endSec": 102.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 8,
+  "instrument": "Gauge",
+  "start": 3212,
+  "end": 3811,
+  "startSec": 107.06666666666666,
+  "endSec": 127.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 9,
+  "instrument": "Phacoemulsification Tip",
+  "start": 3962,
+  "end": 4111,
+  "startSec": 132.06666666666666,
+  "endSec": 137.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 10,
+  "instrument": "Phacoemulsification Tip",
+  "start": 4262,
+  "end": 7261,
+  "startSec": 142.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 4412,
+  "end": 7261,
+  "startSec": 147.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 7412,
+  "end": 7561,
+  "startSec": 247.06666666666666,
+  "endSec": 252.03333333333333
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 13,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7712,
+  "end": 9361,
+  "startSec": 257.06666666666666,
+  "endSec": 312.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 14,
+  "instrument": "Spatula",
+  "start": 8012,
+  "end": 9361,
+  "startSec": 267.06666666666666,
+  "endSec": 312.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 9512,
+  "end": 9961,
+  "startSec": 317.06666666666666,
+  "endSec": 332.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9962,
+  "end": 10111,
+  "startSec": 332.06666666666666,
+  "endSec": 337.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 17,
+  "instrument": "Lens Injector",
+  "start": 10262,
+  "end": 10711,
+  "startSec": 342.06666666666666,
+  "endSec": 357.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 18,
+  "instrument": "Spatula",
+  "start": 10712,
+  "end": 11011,
+  "startSec": 357.06666666666666,
+  "endSec": 367.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 19,
+  "instrument": "Irrigation-Aspiration",
+  "start": 11162,
+  "end": 13111,
+  "startSec": 372.06666666666666,
+  "endSec": 437.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 20,
+  "instrument": "Spatula",
+  "start": 12812,
+  "end": 13111,
+  "startSec": 427.06666666666666,
+  "endSec": 437.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 21,
+  "instrument": "Gauge",
+  "start": 13262,
+  "end": 13711,
+  "startSec": 442.06666666666666,
+  "endSec": 457.03333333333336
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 22,
+  "instrument": "Gauge",
+  "start": 13862,
+  "end": 14128,
+  "startSec": 462.06666666666666,
+  "endSec": 470.93333333333334
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 4,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 812,
+  "end": 1561,
+  "startSec": 27.066666666666666,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 1862,
+  "end": 2161,
+  "startSec": 62.06666666666667,
+  "endSec": 72.03333333333333
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2312,
+  "end": 2461,
+  "startSec": 77.06666666666666,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 7,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2612,
+  "end": 6061,
+  "startSec": 87.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 8,
+  "instrument": "Spatula",
+  "start": 3062,
+  "end": 6061,
+  "startSec": 102.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 9,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6212,
+  "end": 8311,
+  "startSec": 207.06666666666666,
+  "endSec": 277.03333333333336
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 6362,
+  "end": 6511,
+  "startSec": 212.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 6662,
+  "end": 7861,
+  "startSec": 222.06666666666666,
+  "endSec": 262.03333333333336
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 8312,
+  "end": 8611,
+  "startSec": 277.06666666666666,
+  "endSec": 287.03333333333336
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 13,
+  "instrument": "Lens Injector",
+  "start": 8612,
+  "end": 8911,
+  "startSec": 287.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9212,
+  "end": 9511,
+  "startSec": 307.06666666666666,
+  "endSec": 317.03333333333336
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 9662,
+  "end": 10111,
+  "startSec": 322.06666666666666,
+  "endSec": 337.03333333333336
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 10262,
+  "end": 10561,
+  "startSec": 342.06666666666666,
+  "endSec": 352.03333333333336
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 17,
+  "instrument": "Spatula",
+  "start": 10712,
+  "end": 10861,
+  "startSec": 357.06666666666666,
+  "endSec": 362.03333333333336
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 11012,
+  "end": 11234,
+  "startSec": 367.06666666666666,
+  "endSec": 374.46666666666664
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 4,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 662,
+  "end": 1711,
+  "startSec": 22.066666666666666,
+  "endSec": 57.03333333333333
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 1862,
+  "end": 2311,
+  "startSec": 62.06666666666667,
+  "endSec": 77.03333333333333
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 3062,
+  "end": 6061,
+  "startSec": 102.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 3062,
+  "end": 6061,
+  "startSec": 102.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 8,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6362,
+  "end": 7711,
+  "startSec": 212.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 6362,
+  "end": 6511,
+  "startSec": 212.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 10,
+  "instrument": "Gauge",
+  "start": 7862,
+  "end": 8161,
+  "startSec": 262.06666666666666,
+  "endSec": 272.03333333333336
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 8312,
+  "end": 8461,
+  "startSec": 277.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 12,
+  "instrument": "Lens Injector",
+  "start": 8612,
+  "end": 8911,
+  "startSec": 287.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 13,
+  "instrument": "Spatula",
+  "start": 9062,
+  "end": 9211,
+  "startSec": 302.06666666666666,
+  "endSec": 307.03333333333336
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 14,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9362,
+  "end": 10111,
+  "startSec": 312.06666666666666,
+  "endSec": 337.03333333333336
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 15,
+  "instrument": "Gauge",
+  "start": 10262,
+  "end": 10711,
+  "startSec": 342.06666666666666,
+  "endSec": 357.03333333333336
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 16,
+  "instrument": "Irrigation-Aspiration",
+  "start": 10712,
+  "end": 11011,
+  "startSec": 357.06666666666666,
+  "endSec": 367.03333333333336
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 17,
+  "instrument": "Gauge",
+  "start": 11012,
+  "end": 11311,
+  "startSec": 367.06666666666666,
+  "endSec": 377.03333333333336
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 1,
+  "instrument": "Gauge",
+  "start": 0,
+  "end": 61,
+  "startSec": 0.0,
+  "endSec": 2.033333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 2,
+  "instrument": "Katena Forceps",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 3,
+  "instrument": "Slit/Incision Knife",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 4,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 811,
+  "startSec": 17.066666666666666,
+  "endSec": 27.033333333333335
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 5,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 1112,
+  "end": 2461,
+  "startSec": 37.06666666666667,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 6,
+  "instrument": "Gauge",
+  "start": 2462,
+  "end": 2761,
+  "startSec": 82.06666666666666,
+  "endSec": 92.03333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 3512,
+  "end": 6361,
+  "startSec": 117.06666666666666,
+  "endSec": 212.03333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 8,
+  "instrument": "Phacoemulsification Tip",
+  "start": 3512,
+  "end": 6061,
+  "startSec": 117.06666666666666,
+  "endSec": 202.03333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 9,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6362,
+  "end": 7561,
+  "startSec": 212.06666666666666,
+  "endSec": 252.03333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 6662,
+  "end": 7561,
+  "startSec": 222.06666666666666,
+  "endSec": 252.03333333333333
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 11,
+  "instrument": "Gauge",
+  "start": 7712,
+  "end": 7861,
+  "startSec": 257.06666666666666,
+  "endSec": 262.03333333333336
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 8012,
+  "end": 8161,
+  "startSec": 267.06666666666666,
+  "endSec": 272.03333333333336
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 13,
+  "instrument": "Lens Injector",
+  "start": 8162,
+  "end": 8461,
+  "startSec": 272.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 14,
+  "instrument": "Spatula",
+  "start": 8762,
+  "end": 8911,
+  "startSec": 292.06666666666666,
+  "endSec": 297.03333333333336
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 15,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9062,
+  "end": 9511,
+  "startSec": 302.06666666666666,
+  "endSec": 317.03333333333336
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 16,
+  "instrument": "Gauge",
+  "start": 9662,
+  "end": 9961,
+  "startSec": 322.06666666666666,
+  "endSec": 332.03333333333336
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 17,
+  "instrument": "Irrigation-Aspiration",
+  "start": 10112,
+  "end": 10261,
+  "startSec": 337.06666666666666,
+  "endSec": 342.03333333333336
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 10412,
+  "end": 11013,
+  "startSec": 347.06666666666666,
+  "endSec": 367.1
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 0,
+  "end": 61,
+  "startSec": 0.0,
+  "endSec": 2.033333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 0,
+  "end": 61,
+  "startSec": 0.0,
+  "endSec": 2.033333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 3,
+  "instrument": "Katena Forceps",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 4,
+  "instrument": "Slit/Incision Knife",
+  "start": 212,
+  "end": 361,
+  "startSec": 7.066666666666666,
+  "endSec": 12.033333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 512,
+  "end": 661,
+  "startSec": 17.066666666666666,
+  "endSec": 22.033333333333335
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 6,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 812,
+  "end": 1711,
+  "startSec": 27.066666666666666,
+  "endSec": 57.03333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 7,
+  "instrument": "Gauge",
+  "start": 1862,
+  "end": 2311,
+  "startSec": 62.06666666666667,
+  "endSec": 77.03333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 8,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2462,
+  "end": 5761,
+  "startSec": 82.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 2462,
+  "end": 5761,
+  "startSec": 82.06666666666666,
+  "endSec": 192.03333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 5912,
+  "end": 6961,
+  "startSec": 197.06666666666666,
+  "endSec": 232.03333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 11,
+  "instrument": "Irrigation-Aspiration",
+  "start": 6062,
+  "end": 6961,
+  "startSec": 202.06666666666666,
+  "endSec": 232.03333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 12,
+  "instrument": "Gauge",
+  "start": 7112,
+  "end": 7261,
+  "startSec": 237.06666666666666,
+  "endSec": 242.03333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 7562,
+  "end": 7711,
+  "startSec": 252.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 14,
+  "instrument": "Lens Injector",
+  "start": 7712,
+  "end": 8011,
+  "startSec": 257.06666666666666,
+  "endSec": 267.03333333333336
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 15,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8312,
+  "end": 8761,
+  "startSec": 277.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 16,
+  "instrument": "Gauge",
+  "start": 8912,
+  "end": 9511,
+  "startSec": 297.06666666666666,
+  "endSec": 317.03333333333336
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 17,
+  "instrument": "Irrigation-Aspiration",
+  "start": 9512,
+  "end": 9961,
+  "startSec": 317.06666666666666,
+  "endSec": 332.03333333333336
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 9962,
+  "end": 10411,
+  "startSec": 332.06666666666666,
+  "endSec": 347.03333333333336
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 19,
+  "instrument": "Gauge",
+  "start": 10562,
+  "end": 10819,
+  "startSec": 352.06666666666666,
+  "endSec": 360.6333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 1,
+  "instrument": "Katena Forceps",
+  "start": 0,
+  "end": 211,
+  "startSec": 0.0,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 2,
+  "instrument": "Slit/Incision Knife",
+  "start": 0,
+  "end": 211,
+  "startSec": 0.0,
+  "endSec": 7.033333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 3,
+  "instrument": "Gauge",
+  "start": 362,
+  "end": 511,
+  "startSec": 12.066666666666666,
+  "endSec": 17.033333333333335
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 4,
+  "instrument": "Capsulorhexis Cystotome",
+  "start": 662,
+  "end": 1561,
+  "startSec": 22.066666666666666,
+  "endSec": 52.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 5,
+  "instrument": "Gauge",
+  "start": 1562,
+  "end": 2011,
+  "startSec": 52.06666666666667,
+  "endSec": 67.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 6,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2312,
+  "end": 2461,
+  "startSec": 77.06666666666666,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 7,
+  "instrument": "Spatula",
+  "start": 2312,
+  "end": 2461,
+  "startSec": 77.06666666666666,
+  "endSec": 82.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 8,
+  "instrument": "Phacoemulsification Tip",
+  "start": 2612,
+  "end": 4711,
+  "startSec": 87.06666666666666,
+  "endSec": 157.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 9,
+  "instrument": "Spatula",
+  "start": 2612,
+  "end": 2911,
+  "startSec": 87.06666666666666,
+  "endSec": 97.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 10,
+  "instrument": "Spatula",
+  "start": 3362,
+  "end": 4711,
+  "startSec": 112.06666666666666,
+  "endSec": 157.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 11,
+  "instrument": "Spatula",
+  "start": 4862,
+  "end": 5161,
+  "startSec": 162.06666666666666,
+  "endSec": 172.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 12,
+  "instrument": "Irrigation-Aspiration",
+  "start": 5012,
+  "end": 6361,
+  "startSec": 167.06666666666666,
+  "endSec": 212.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 13,
+  "instrument": "Gauge",
+  "start": 6662,
+  "end": 6811,
+  "startSec": 222.06666666666666,
+  "endSec": 227.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 14,
+  "instrument": "Lens Injector",
+  "start": 6812,
+  "end": 7111,
+  "startSec": 227.06666666666666,
+  "endSec": 237.03333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 15,
+  "instrument": "Irrigation-Aspiration",
+  "start": 7262,
+  "end": 7711,
+  "startSec": 242.06666666666666,
+  "endSec": 257.03333333333336
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 16,
+  "instrument": "Gauge",
+  "start": 7862,
+  "end": 8461,
+  "startSec": 262.06666666666666,
+  "endSec": 282.03333333333336
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 17,
+  "instrument": "Irrigation-Aspiration",
+  "start": 8462,
+  "end": 8761,
+  "startSec": 282.06666666666666,
+  "endSec": 292.03333333333336
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 18,
+  "instrument": "Gauge",
+  "start": 8912,
+  "end": 9211,
+  "startSec": 297.06666666666666,
+  "endSec": 307.03333333333336
+ }
+]

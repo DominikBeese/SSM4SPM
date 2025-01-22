@@ -1,0 +1,9 @@
+{
+ "fps": 30.0,
+ "video-format": "mp4",
+ "image-format": "png",
+ "clip-length": 90,
+ "clip-max-overlap": 30,
+ "search-resolution": 2,
+ "random-seed": 73
+}

@@ -1,0 +1,34 @@
+                          Experiment    Metric  File     Value                  Model        CNN          RNN
+0         Evaluation-ResNet152_BiGRU  F1-Score     1  0.752878        ResNet152-BiGRU  ResNet152        BiGRU
+1         Evaluation-ResNet152_BiGRU  F1-Score     2  0.743502        ResNet152-BiGRU  ResNet152        BiGRU
+2         Evaluation-ResNet152_BiGRU  F1-Score     3  0.796146        ResNet152-BiGRU  ResNet152        BiGRU
+3         Evaluation-ResNet152_BiGRU  F1-Score     4  0.766220        ResNet152-BiGRU  ResNet152        BiGRU
+4         Evaluation-ResNet152_BiGRU  F1-Score     5  0.762927        ResNet152-BiGRU  ResNet152        BiGRU
+5        Evaluation-ResNet152_BiLSTM  F1-Score     1  0.771200       ResNet152-BiLSTM  ResNet152       BiLSTM
+6        Evaluation-ResNet152_BiLSTM  F1-Score     2  0.781914       ResNet152-BiLSTM  ResNet152       BiLSTM
+7        Evaluation-ResNet152_BiLSTM  F1-Score     3  0.776743       ResNet152-BiLSTM  ResNet152       BiLSTM
+8        Evaluation-ResNet152_BiLSTM  F1-Score     4  0.690528       ResNet152-BiLSTM  ResNet152       BiLSTM
+9        Evaluation-ResNet152_BiLSTM  F1-Score     5  0.778680       ResNet152-BiLSTM  ResNet152       BiLSTM
+10          Evaluation-ResNet152_GRU  F1-Score     1  0.740088          ResNet152-GRU  ResNet152          GRU
+11          Evaluation-ResNet152_GRU  F1-Score     2  0.780638          ResNet152-GRU  ResNet152          GRU
+12          Evaluation-ResNet152_GRU  F1-Score     3  0.783673          ResNet152-GRU  ResNet152          GRU
+13          Evaluation-ResNet152_GRU  F1-Score     4  0.729775          ResNet152-GRU  ResNet152          GRU
+14          Evaluation-ResNet152_GRU  F1-Score     5  0.815502          ResNet152-GRU  ResNet152          GRU
+15         Evaluation-ResNet152_LSTM  F1-Score     1  0.724077         ResNet152-LSTM  ResNet152         LSTM
+16         Evaluation-ResNet152_LSTM  F1-Score     2  0.786224         ResNet152-LSTM  ResNet152         LSTM
+17         Evaluation-ResNet152_LSTM  F1-Score     3  0.725459         ResNet152-LSTM  ResNet152         LSTM
+18         Evaluation-ResNet152_LSTM  F1-Score     4  0.708968         ResNet152-LSTM  ResNet152         LSTM
+19         Evaluation-ResNet152_LSTM  F1-Score     5  0.755848         ResNet152-LSTM  ResNet152         LSTM
+20   Evaluation-ResNet152_Mamba-best  F1-Score     1  0.723052   ResNet152-Mamba-best  ResNet152        Mamba
+21   Evaluation-ResNet152_Mamba-best  F1-Score     2  0.744449   ResNet152-Mamba-best  ResNet152        Mamba
+22   Evaluation-ResNet152_Mamba-best  F1-Score     3  0.745425   ResNet152-Mamba-best  ResNet152        Mamba
+23   Evaluation-ResNet152_Mamba-best  F1-Score     4  0.690972   ResNet152-Mamba-best  ResNet152        Mamba
+24   Evaluation-ResNet152_Mamba-best  F1-Score     5  0.767748   ResNet152-Mamba-best  ResNet152        Mamba
+25  Evaluation-ResNet152_Transformer  F1-Score     1  0.757276  ResNet152-Transformer  ResNet152  Transformer
+26  Evaluation-ResNet152_Transformer  F1-Score     2  0.808429  ResNet152-Transformer  ResNet152  Transformer
+27  Evaluation-ResNet152_Transformer  F1-Score     3  0.797662  ResNet152-Transformer  ResNet152  Transformer
+28  Evaluation-ResNet152_Transformer  F1-Score     4  0.715291  ResNet152-Transformer  ResNet152  Transformer
+29  Evaluation-ResNet152_Transformer  F1-Score     5  0.803489  ResNet152-Transformer  ResNet152  Transformer
+
+Metric
+F1-Score    0.757493

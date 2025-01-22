@@ -1,0 +1,9 @@
+{
+ "fps": 30.0,
+ "video-format": "mp4",
+ "image-format": "jpg",
+ "clip-length": 90,
+ "clip-overlap": 30,
+ "clip-offset": 0,
+ "random-seed": 73
+}

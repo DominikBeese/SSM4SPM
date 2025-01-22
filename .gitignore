@@ -1,0 +1,15 @@
+*
+!*/
+!/Data/**/*.json
+!/Data/**/*.py
+!/Data/**/*.pdf
+!/Data/**/requirements.txt
+!/Code/**/*.py
+!/Code/**/requirements.txt
+!/Experiments/*.py
+!/Experiments/**/Splits/*.json
+!/Experiments/**/*.txt
+!/Experiments/**/*.pdf
+!/.gitignore
+!LICENSE
+!README.md

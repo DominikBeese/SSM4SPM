@@ -1,0 +1,23 @@
+                         Experiment        Metric  File     Value                  Model        CNN          RNN
+0  Evaluation-ResNet152_Transformer  F1-Score-SIK     1  0.285714  ResNet152-Transformer  ResNet152  Transformer
+1  Evaluation-ResNet152_Transformer   F1-Score-KF     1  0.100000  ResNet152-Transformer  ResNet152  Transformer
+2  Evaluation-ResNet152_Transformer  F1-Score-Gau     1  0.652213  ResNet152-Transformer  ResNet152  Transformer
+3  Evaluation-ResNet152_Transformer   F1-Score-CC     1  0.229008  ResNet152-Transformer  ResNet152  Transformer
+4  Evaluation-ResNet152_Transformer   F1-Score-CF     1  0.662722  ResNet152-Transformer  ResNet152  Transformer
+5  Evaluation-ResNet152_Transformer   F1-Score-PT     1  0.863506  ResNet152-Transformer  ResNet152  Transformer
+6  Evaluation-ResNet152_Transformer  F1-Score-Spa     1  0.930931  ResNet152-Transformer  ResNet152  Transformer
+7  Evaluation-ResNet152_Transformer   F1-Score-IA     1  0.736424  ResNet152-Transformer  ResNet152  Transformer
+8  Evaluation-ResNet152_Transformer   F1-Score-LI     1  0.597015  ResNet152-Transformer  ResNet152  Transformer
+9  Evaluation-ResNet152_Transformer  F1-Score-IOL     1  0.904918  ResNet152-Transformer  ResNet152  Transformer
+
+Metric
+F1-Score-CC     0.229008
+F1-Score-CF     0.662722
+F1-Score-Gau    0.652213
+F1-Score-IA     0.736424
+F1-Score-IOL    0.904918
+F1-Score-KF     0.100000
+F1-Score-LI     0.597015
+F1-Score-PT     0.863506
+F1-Score-SIK    0.285714
+F1-Score-Spa    0.930931

@@ -1,0 +1,1165 @@
+>> Evaluation-ResNet152_BiGRU
+     CaseId        Metric  File     Value
+0      4709  Accuracy-1st     1  0.926157
+1      4709  Accuracy-2nd     1  0.061547
+2      4709  Accuracy-3rd     1  0.006249
+3      4709  Accuracy-4th     1  0.000336
+4      4709  Accuracy-5th     1  0.003964
+5      4709      Accuracy     1  0.926157
+6      4709  F1-Score-Idl     1  0.786667
+7      4709  F1-Score-Inc     1  0.651034
+8      4709  F1-Score-Vis     1  0.862069
+9      4709  F1-Score-Cap     1  0.995192
+10     4709  F1-Score-Hyd     1  0.912195
+11     4709  F1-Score-Pha     1  0.983654
+12     4709   F1-Score-IA     1  0.949701
+13     4709   F1-Score-CP     1  0.920590
+14     4709   F1-Score-LI     1  0.810563
+15     4709   F1-Score-LP     1  0.933544
+16     4709  F1-Score-ACF     1  0.992548
+17     4709   F1-Score-VS     1  0.936232
+18     4709   F1-Score-TA     1  0.970735
+19     4709      F1-Score     1  0.900363
+20     4709       ROC-AUC     1  0.995621
+21     4899  Accuracy-1st     1  0.780281
+22     4899  Accuracy-2nd     1  0.139475
+23     4899  Accuracy-3rd     1  0.052393
+24     4899  Accuracy-4th     1  0.011731
+25     4899  Accuracy-5th     1  0.007845
+26     4899      Accuracy     1  0.780281
+27     4899  F1-Score-Idl     1  0.483398
+28     4899  F1-Score-Inc     1  0.452915
+29     4899  F1-Score-Vis     1  0.508885
+30     4899  F1-Score-Cap     1  0.292921
+31     4899  F1-Score-Hyd     1  0.889616
+32     4899  F1-Score-Pha     1  0.975639
+33     4899   F1-Score-IA     1  0.977035
+34     4899   F1-Score-CP     1  0.786286
+35     4899   F1-Score-LI     1  0.962162
+36     4899   F1-Score-LP     1  0.893443
+37     4899  F1-Score-ACF     1  0.220318
+38     4899   F1-Score-VS     1  0.993332
+39     4899   F1-Score-TA     1  0.625731
+40     4899      F1-Score     1  0.697052
+41     4899       ROC-AUC     1  0.981325
+42     5015  Accuracy-1st     1  0.797409
+43     5015  Accuracy-2nd     1  0.157150
+44     5015  Accuracy-3rd     1  0.012955
+45     5015  Accuracy-4th     1  0.006976
+46     5015  Accuracy-5th     1  0.018137
+47     5015      Accuracy     1  0.797409
+48     5015  F1-Score-Idl     1  0.628332
+49     5015  F1-Score-Inc     1  0.845771
+50     5015  F1-Score-Vis     1  0.322292
+51     5015  F1-Score-Cap     1  0.398936
+52     5015  F1-Score-Hyd     1  0.823799
+53     5015  F1-Score-Pha     1  0.983248
+54     5015   F1-Score-IA     1  0.949868
+55     5015   F1-Score-CP     1  0.441899
+56     5015   F1-Score-LI     1  0.904523
+57     5015   F1-Score-LP     1  0.000000
+58     5015  F1-Score-ACF     1  0.826636
+59     5015   F1-Score-VS     1  0.975477
+60     5015   F1-Score-TA     1  0.720379
+61     5015      F1-Score     1  0.678551
+62     5015       ROC-AUC     1  0.972722
+63     5016  Accuracy-1st     1  0.825702
+64     5016  Accuracy-2nd     1  0.115286
+65     5016  Accuracy-3rd     1  0.025265
+66     5016  Accuracy-4th     1  0.024261
+67     5016  Accuracy-5th     1  0.004378
+68     5016      Accuracy     1  0.825702
+69     5016  F1-Score-Idl     1  0.845726
+70     5016  F1-Score-Inc     1  0.755869
+71     5016  F1-Score-Vis     1  0.620313
+72     5016  F1-Score-Cap     1  0.000000
+73     5016  F1-Score-Hyd     1  0.790501
+74     5016  F1-Score-Pha     1  0.965887
+75     5016   F1-Score-IA     1  0.939799
+76     5016   F1-Score-CP     1  0.535714
+77     5016   F1-Score-LI     1  0.861833
+78     5016   F1-Score-LP     1  0.373444
+79     5016  F1-Score-ACF     1  0.720000
+80     5016   F1-Score-VS     1  0.938650
+81     5016   F1-Score-TA     1  0.777019
+82     5016      F1-Score     1  0.701904
+83     5016       ROC-AUC     1  0.981633
+84     5057  Accuracy-1st     1  0.888226
+85     5057  Accuracy-2nd     1  0.076188
+86     5057  Accuracy-3rd     1  0.020348
+87     5057  Accuracy-4th     1  0.002555
+88     5057  Accuracy-5th     1  0.007950
+89     5057      Accuracy     1  0.888226
+90     5057  F1-Score-Idl     1  0.800743
+91     5057  F1-Score-Inc     1  0.612466
+92     5057  F1-Score-Vis     1  0.749200
+93     5057  F1-Score-Cap     1  0.977703
+94     5057  F1-Score-Hyd     1  0.852273
+95     5057  F1-Score-Pha     1  0.941772
+96     5057   F1-Score-IA     1  0.864407
+97     5057   F1-Score-CP     1  0.934256
+98     5057   F1-Score-LI     1  0.969154
+99     5057   F1-Score-LP     1  0.679104
+100    5057  F1-Score-ACF     1  0.922353
+101    5057   F1-Score-VS     1  0.949033
+102    5057   F1-Score-TA     1  0.972896
+103    5057      F1-Score     1  0.863489
+104    5057       ROC-AUC     1  0.995118
+105    5104  Accuracy-1st     1  0.830687
+106    5104  Accuracy-2nd     1  0.109979
+107    5104  Accuracy-3rd     1  0.021884
+108    5104  Accuracy-4th     1  0.008726
+109    5104  Accuracy-5th     1  0.005375
+110    5104      Accuracy     1  0.830687
+111    5104  F1-Score-Idl     1  0.668074
+112    5104  F1-Score-Inc     1  0.776791
+113    5104  F1-Score-Vis     1  0.604938
+114    5104  F1-Score-Cap     1  0.925865
+115    5104  F1-Score-Hyd     1  0.906606
+116    5104  F1-Score-Pha     1  0.992244
+117    5104   F1-Score-IA     1  0.834847
+118    5104   F1-Score-CP     1  0.454545
+119    5104   F1-Score-LI     1  0.847195
+120    5104   F1-Score-LP     1  0.701673
+121    5104  F1-Score-ACF     1  0.741597
+122    5104   F1-Score-VS     1  0.488166
+123    5104   F1-Score-TA     1  0.959874
+124    5104      F1-Score     1  0.761724
+125    5104       ROC-AUC     1  0.982854
+126    5311  Accuracy-1st     1  0.905451
+127    5311  Accuracy-2nd     1  0.063618
+128    5311  Accuracy-3rd     1  0.018642
+129    5311  Accuracy-4th     1  0.005016
+130    5311  Accuracy-5th     1  0.007273
+131    5311      Accuracy     1  0.905451
+132    5311  F1-Score-Idl     1  0.792116
+133    5311  F1-Score-Inc     1  0.530612
+134    5311  F1-Score-Vis     1  0.892929
+135    5311  F1-Score-Cap     1  0.985019
+136    5311  F1-Score-Hyd     1  0.918137
+137    5311  F1-Score-Pha     1  0.979888
+138    5311   F1-Score-IA     1  0.920455
+139    5311   F1-Score-CP     1  0.966154
+140    5311   F1-Score-LI     1  0.797030
+141    5311   F1-Score-LP     1  0.850365
+142    5311  F1-Score-ACF     1  0.940741
+143    5311   F1-Score-VS     1  0.965971
+144    5311   F1-Score-TA     1  0.929904
+145    5311      F1-Score     1  0.882255
+146    5311       ROC-AUC     1  0.995526
+147    5314  Accuracy-1st     1  0.874988
+148    5314  Accuracy-2nd     1  0.084481
+149    5314  Accuracy-3rd     1  0.014845
+150    5314  Accuracy-4th     1  0.012599
+151    5314  Accuracy-5th     1  0.004297
+152    5314      Accuracy     1  0.874988
+153    5314  F1-Score-Idl     1  0.569467
+154    5314  F1-Score-Inc     1  0.483146
+155    5314  F1-Score-Vis     1  0.844660
+156    5314  F1-Score-Cap     1  0.966777
+157    5314  F1-Score-Hyd     1  0.833977
+158    5314  F1-Score-Pha     1  0.918814
+159    5314   F1-Score-IA     1  0.943052
+160    5314   F1-Score-CP     1  0.927767
+161    5314   F1-Score-LI     1  0.876755
+162    5314   F1-Score-LP     1  0.858351
+163    5314  F1-Score-ACF     1  0.946889
+164    5314   F1-Score-VS     1  0.981758
+165    5314   F1-Score-TA     1  0.893894
+166    5314      F1-Score     1  0.849639
+167    5314       ROC-AUC     1  0.992270
+
+Metric
+Accuracy        0.853613
+Accuracy-1st    0.853613
+Accuracy-2nd    0.100965
+Accuracy-3rd    0.021573
+Accuracy-4th    0.009025
+Accuracy-5th    0.007402
+F1-Score        0.791872
+F1-Score-ACF    0.788885
+F1-Score-CP     0.745901
+F1-Score-Cap    0.692802
+F1-Score-Hyd    0.865888
+F1-Score-IA     0.922396
+F1-Score-Idl    0.696815
+F1-Score-Inc    0.638576
+F1-Score-LI     0.878652
+F1-Score-LP     0.661241
+F1-Score-Pha    0.967643
+F1-Score-TA     0.856304
+F1-Score-VS     0.903577
+F1-Score-Vis    0.675661
+ROC-AUC         0.987134
+
+>> Evaluation-ResNet152_BiLSTM
+     CaseId        Metric  File     Value
+0      4709  Accuracy-1st     1  0.904455
+1      4709  Accuracy-2nd     1  0.063361
+2      4709  Accuracy-3rd     1  0.016395
+3      4709  Accuracy-4th     1  0.011893
+4      4709  Accuracy-5th     1  0.002150
+5      4709      Accuracy     1  0.904455
+6      4709  F1-Score-Idl     1  0.749810
+7      4709  F1-Score-Inc     1  0.197802
+8      4709  F1-Score-Vis     1  0.800000
+9      4709  F1-Score-Cap     1  0.953917
+10     4709  F1-Score-Hyd     1  0.959538
+11     4709  F1-Score-Pha     1  0.988262
+12     4709   F1-Score-IA     1  0.946301
+13     4709   F1-Score-CP     1  0.945504
+14     4709   F1-Score-LI     1  0.631025
+15     4709   F1-Score-LP     1  0.933544
+16     4709  F1-Score-ACF     1  0.957594
+17     4709   F1-Score-VS     1  0.919728
+18     4709   F1-Score-TA     1  0.902344
+19     4709      F1-Score     1  0.837336
+20     4709       ROC-AUC     1  0.991989
+21     4899  Accuracy-1st     1  0.763944
+22     4899  Accuracy-2nd     1  0.144512
+23     4899  Accuracy-3rd     1  0.033825
+24     4899  Accuracy-4th     1  0.034401
+25     4899  Accuracy-5th     1  0.014394
+26     4899      Accuracy     1  0.763944
+27     4899  F1-Score-Idl     1  0.638978
+28     4899  F1-Score-Inc     1  0.642762
+29     4899  F1-Score-Vis     1  0.571066
+30     4899  F1-Score-Cap     1  0.702634
+31     4899  F1-Score-Hyd     1  0.909716
+32     4899  F1-Score-Pha     1  0.868578
+33     4899   F1-Score-IA     1  0.597345
+34     4899   F1-Score-CP     1  0.608108
+35     4899   F1-Score-LI     1  0.950000
+36     4899   F1-Score-LP     1  0.805419
+37     4899  F1-Score-ACF     1  0.247593
+38     4899   F1-Score-VS     1  0.912567
+39     4899   F1-Score-TA     1  0.680129
+40     4899      F1-Score     1  0.702684
+41     4899       ROC-AUC     1  0.979289
+42     5015  Accuracy-1st     1  0.750374
+43     5015  Accuracy-2nd     1  0.150772
+44     5015  Accuracy-3rd     1  0.051819
+45     5015  Accuracy-4th     1  0.027603
+46     5015  Accuracy-5th     1  0.008869
+47     5015      Accuracy     1  0.750374
+48     5015  F1-Score-Idl     1  0.597792
+49     5015  F1-Score-Inc     1  0.000000
+50     5015  F1-Score-Vis     1  0.265120
+51     5015  F1-Score-Cap     1  0.000000
+52     5015  F1-Score-Hyd     1  0.751239
+53     5015  F1-Score-Pha     1  0.991512
+54     5015   F1-Score-IA     1  0.951513
+55     5015   F1-Score-CP     1  0.641940
+56     5015   F1-Score-LI     1  0.869347
+57     5015   F1-Score-LP     1  0.000000
+58     5015  F1-Score-ACF     1  0.911722
+59     5015   F1-Score-VS     1  0.900000
+60     5015   F1-Score-TA     1  0.579205
+61     5015      F1-Score     1  0.573799
+62     5015       ROC-AUC     1  0.956630
+63     5016  Accuracy-1st     1  0.772255
+64     5016  Accuracy-2nd     1  0.127691
+65     5016  Accuracy-3rd     1  0.049891
+66     5016  Accuracy-4th     1  0.032835
+67     5016  Accuracy-5th     1  0.005746
+68     5016      Accuracy     1  0.772255
+69     5016  F1-Score-Idl     1  0.752128
+70     5016  F1-Score-Inc     1  0.630952
+71     5016  F1-Score-Vis     1  0.409375
+72     5016  F1-Score-Cap     1  0.000000
+73     5016  F1-Score-Hyd     1  0.851136
+74     5016  F1-Score-Pha     1  0.924715
+75     5016   F1-Score-IA     1  0.859253
+76     5016   F1-Score-CP     1  0.811881
+77     5016   F1-Score-LI     1  0.861833
+78     5016   F1-Score-LP     1  0.000000
+79     5016  F1-Score-ACF     1  0.677419
+80     5016   F1-Score-VS     1  0.952326
+81     5016   F1-Score-TA     1  0.715417
+82     5016      F1-Score     1  0.649726
+83     5016       ROC-AUC     1  0.975917
+84     5057  Accuracy-1st     1  0.891539
+85     5057  Accuracy-2nd     1  0.081866
+86     5057  Accuracy-3rd     1  0.017320
+87     5057  Accuracy-4th     1  0.005205
+88     5057  Accuracy-5th     1  0.000095
+89     5057      Accuracy     1  0.891539
+90     5057  F1-Score-Idl     1  0.746941
+91     5057  F1-Score-Inc     1  0.476190
+92     5057  F1-Score-Vis     1  0.927345
+93     5057  F1-Score-Cap     1  0.996697
+94     5057  F1-Score-Hyd     1  0.873786
+95     5057  F1-Score-Pha     1  0.942643
+96     5057   F1-Score-IA     1  0.834783
+97     5057   F1-Score-CP     1  0.921630
+98     5057   F1-Score-LI     1  0.971429
+99     5057   F1-Score-LP     1  0.781411
+100    5057  F1-Score-ACF     1  0.976536
+101    5057   F1-Score-VS     1  0.948436
+102    5057   F1-Score-TA     1  0.824667
+103    5057      F1-Score     1  0.863269
+104    5057       ROC-AUC     1  0.993653
+105    5104  Accuracy-1st     1  0.792817
+106    5104  Accuracy-2nd     1  0.105337
+107    5104  Accuracy-3rd     1  0.038952
+108    5104  Accuracy-4th     1  0.016893
+109    5104  Accuracy-5th     1  0.019860
+110    5104      Accuracy     1  0.792817
+111    5104  F1-Score-Idl     1  0.621184
+112    5104  F1-Score-Inc     1  0.750166
+113    5104  F1-Score-Vis     1  0.777778
+114    5104  F1-Score-Cap     1  0.874131
+115    5104  F1-Score-Hyd     1  0.670682
+116    5104  F1-Score-Pha     1  0.977628
+117    5104   F1-Score-IA     1  0.800471
+118    5104   F1-Score-CP     1  0.454545
+119    5104   F1-Score-LI     1  0.948478
+120    5104   F1-Score-LP     1  0.691943
+121    5104  F1-Score-ACF     1  0.753978
+122    5104   F1-Score-VS     1  0.650762
+123    5104   F1-Score-TA     1  0.703209
+124    5104      F1-Score     1  0.744227
+125    5104       ROC-AUC     1  0.979848
+126    5311  Accuracy-1st     1  0.879702
+127    5311  Accuracy-2nd     1  0.096472
+128    5311  Accuracy-3rd     1  0.018642
+129    5311  Accuracy-4th     1  0.001839
+130    5311  Accuracy-5th     1  0.003344
+131    5311      Accuracy     1  0.879702
+132    5311  F1-Score-Idl     1  0.831421
+133    5311  F1-Score-Inc     1  0.722581
+134    5311  F1-Score-Vis     1  0.892929
+135    5311  F1-Score-Cap     1  0.881072
+136    5311  F1-Score-Hyd     1  0.970452
+137    5311  F1-Score-Pha     1  0.943957
+138    5311   F1-Score-IA     1  0.947368
+139    5311   F1-Score-CP     1  0.966154
+140    5311   F1-Score-LI     1  0.917595
+141    5311   F1-Score-LP     1  0.785835
+142    5311  F1-Score-ACF     1  0.600000
+143    5311   F1-Score-VS     1  0.965971
+144    5311   F1-Score-TA     1  0.611765
+145    5311      F1-Score     1  0.849008
+146    5311       ROC-AUC     1  0.996139
+147    5314  Accuracy-1st     1  0.900186
+148    5314  Accuracy-2nd     1  0.062115
+149    5314  Accuracy-3rd     1  0.024319
+150    5314  Accuracy-4th     1  0.013380
+151    5314  Accuracy-5th     1  0.000000
+152    5314      Accuracy     1  0.900186
+153    5314  F1-Score-Idl     1  0.629909
+154    5314  F1-Score-Inc     1  0.719697
+155    5314  F1-Score-Vis     1  0.958425
+156    5314  F1-Score-Cap     1  0.978930
+157    5314  F1-Score-Hyd     1  0.957529
+158    5314  F1-Score-Pha     1  0.941960
+159    5314   F1-Score-IA     1  0.927212
+160    5314   F1-Score-CP     1  0.948087
+161    5314   F1-Score-LI     1  0.942953
+162    5314   F1-Score-LP     1  0.858351
+163    5314  F1-Score-ACF     1  0.946889
+164    5314   F1-Score-VS     1  0.981758
+165    5314   F1-Score-TA     1  0.858751
+166    5314      F1-Score     1  0.896188
+167    5314       ROC-AUC     1  0.992492
+
+Metric
+Accuracy        0.831909
+Accuracy-1st    0.831909
+Accuracy-2nd    0.104016
+Accuracy-3rd    0.031395
+Accuracy-4th    0.018006
+Accuracy-5th    0.006807
+F1-Score        0.764530
+F1-Score-ACF    0.758967
+F1-Score-CP     0.787231
+F1-Score-Cap    0.673423
+F1-Score-Hyd    0.868010
+F1-Score-IA     0.858031
+F1-Score-Idl    0.696020
+F1-Score-Inc    0.517519
+F1-Score-LI     0.886582
+F1-Score-LP     0.607063
+F1-Score-Pha    0.947407
+F1-Score-TA     0.734436
+F1-Score-VS     0.903944
+F1-Score-Vis    0.700255
+ROC-AUC         0.983244
+
+>> Evaluation-ResNet152_GRU
+     CaseId        Metric  File     Value
+0      4709  Accuracy-1st     1  0.893301
+1      4709  Accuracy-2nd     1  0.084660
+2      4709  Accuracy-3rd     1  0.016059
+3      4709  Accuracy-4th     1  0.002352
+4      4709  Accuracy-5th     1  0.000336
+5      4709      Accuracy     1  0.893301
+6      4709  F1-Score-Idl     1  0.652324
+7      4709  F1-Score-Inc     1  0.506912
+8      4709  F1-Score-Vis     1  0.862069
+9      4709  F1-Score-Cap     1  0.995192
+10     4709  F1-Score-Hyd     1  0.912195
+11     4709  F1-Score-Pha     1  0.988059
+12     4709   F1-Score-IA     1  0.964975
+13     4709   F1-Score-CP     1  0.847712
+14     4709   F1-Score-LI     1  0.806658
+15     4709   F1-Score-LP     1  0.871492
+16     4709  F1-Score-ACF     1  0.930168
+17     4709   F1-Score-VS     1  0.901587
+18     4709   F1-Score-TA     1  0.902344
+19     4709      F1-Score     1  0.857053
+20     4709       ROC-AUC     1  0.994315
+21     4899  Accuracy-1st     1  0.792947
+22     4899  Accuracy-2nd     1  0.131198
+23     4899  Accuracy-3rd     1  0.037136
+24     4899  Accuracy-4th     1  0.018424
+25     4899  Accuracy-5th     1  0.008132
+26     4899      Accuracy     1  0.792947
+27     4899  F1-Score-Idl     1  0.569930
+28     4899  F1-Score-Inc     1  0.527607
+29     4899  F1-Score-Vis     1  0.371901
+30     4899  F1-Score-Cap     1  0.585084
+31     4899  F1-Score-Hyd     1  0.973166
+32     4899  F1-Score-Pha     1  0.940479
+33     4899   F1-Score-IA     1  0.893905
+34     4899   F1-Score-CP     1  0.517986
+35     4899   F1-Score-LI     1  0.962162
+36     4899   F1-Score-LP     1  0.841699
+37     4899  F1-Score-ACF     1  0.681416
+38     4899   F1-Score-VS     1  0.983809
+39     4899   F1-Score-TA     1  0.544863
+40     4899      F1-Score     1  0.722616
+41     4899       ROC-AUC     1  0.975944
+42     5015  Accuracy-1st     1  0.793024
+43     5015  Accuracy-2nd     1  0.157150
+44     5015  Accuracy-3rd     1  0.020628
+45     5015  Accuracy-4th     1  0.014250
+46     5015  Accuracy-5th     1  0.000498
+47     5015      Accuracy     1  0.793024
+48     5015  F1-Score-Idl     1  0.651058
+49     5015  F1-Score-Inc     1  0.708134
+50     5015  F1-Score-Vis     1  0.246723
+51     5015  F1-Score-Cap     1  0.099668
+52     5015  F1-Score-Hyd     1  0.918367
+53     5015  F1-Score-Pha     1  0.966309
+54     5015   F1-Score-IA     1  0.936816
+55     5015   F1-Score-CP     1  0.664879
+56     5015   F1-Score-LI     1  0.984199
+57     5015   F1-Score-LP     1  0.000000
+58     5015  F1-Score-ACF     1  0.786026
+59     5015   F1-Score-VS     1  0.994681
+60     5015   F1-Score-TA     1  0.767123
+61     5015      F1-Score     1  0.671076
+62     5015       ROC-AUC     1  0.973321
+63     5016  Accuracy-1st     1  0.827526
+64     5016  Accuracy-2nd     1  0.113371
+65     5016  Accuracy-3rd     1  0.039675
+66     5016  Accuracy-4th     1  0.007844
+67     5016  Accuracy-5th     1  0.001733
+68     5016      Accuracy     1  0.827526
+69     5016  F1-Score-Idl     1  0.803697
+70     5016  F1-Score-Inc     1  0.853503
+71     5016  F1-Score-Vis     1  0.561131
+72     5016  F1-Score-Cap     1  0.212014
+73     5016  F1-Score-Hyd     1  0.975896
+74     5016  F1-Score-Pha     1  0.959696
+75     5016   F1-Score-IA     1  0.889727
+76     5016   F1-Score-CP     1  0.953488
+77     5016   F1-Score-LI     1  0.861833
+78     5016   F1-Score-LP     1  0.000000
+79     5016  F1-Score-ACF     1  0.774194
+80     5016   F1-Score-VS     1  0.928045
+81     5016   F1-Score-TA     1  0.799168
+82     5016      F1-Score     1  0.736338
+83     5016       ROC-AUC     1  0.984511
+84     5057  Accuracy-1st     1  0.898069
+85     5057  Accuracy-2nd     1  0.073443
+86     5057  Accuracy-3rd     1  0.015900
+87     5057  Accuracy-4th     1  0.003786
+88     5057  Accuracy-5th     1  0.000757
+89     5057      Accuracy     1  0.898069
+90     5057  F1-Score-Idl     1  0.755950
+91     5057  F1-Score-Inc     1  0.718676
+92     5057  F1-Score-Vis     1  0.927345
+93     5057  F1-Score-Cap     1  0.996697
+94     5057  F1-Score-Hyd     1  0.942408
+95     5057  F1-Score-Pha     1  0.956962
+96     5057   F1-Score-IA     1  0.892562
+97     5057   F1-Score-CP     1  0.934211
+98     5057   F1-Score-LI     1  0.827586
+99     5057   F1-Score-LP     1  0.771712
+100    5057  F1-Score-ACF     1  0.929787
+101    5057   F1-Score-VS     1  0.968724
+102    5057   F1-Score-TA     1  0.757033
+103    5057      F1-Score     1  0.875358
+104    5057       ROC-AUC     1  0.994640
+105    5104  Accuracy-1st     1  0.827196
+106    5104  Accuracy-2nd     1  0.083208
+107    5104  Accuracy-3rd     1  0.029214
+108    5104  Accuracy-4th     1  0.014764
+109    5104  Accuracy-5th     1  0.016928
+110    5104      Accuracy     1  0.827196
+111    5104  F1-Score-Idl     1  0.660504
+112    5104  F1-Score-Inc     1  0.702197
+113    5104  F1-Score-Vis     1  0.742424
+114    5104  F1-Score-Cap     1  0.932780
+115    5104  F1-Score-Hyd     1  0.871160
+116    5104  F1-Score-Pha     1  0.995143
+117    5104   F1-Score-IA     1  0.876434
+118    5104   F1-Score-CP     1  0.427046
+119    5104   F1-Score-LI     1  0.700779
+120    5104   F1-Score-LP     1  0.598259
+121    5104  F1-Score-ACF     1  0.628256
+122    5104   F1-Score-VS     1  0.786012
+123    5104   F1-Score-TA     1  0.525836
+124    5104      F1-Score     1  0.726679
+125    5104       ROC-AUC     1  0.981999
+126    5311  Accuracy-1st     1  0.868333
+127    5311  Accuracy-2nd     1  0.095302
+128    5311  Accuracy-3rd     1  0.017388
+129    5311  Accuracy-4th     1  0.005350
+130    5311  Accuracy-5th     1  0.007942
+131    5311      Accuracy     1  0.868333
+132    5311  F1-Score-Idl     1  0.789734
+133    5311  F1-Score-Inc     1  0.673684
+134    5311  F1-Score-Vis     1  0.892929
+135    5311  F1-Score-Cap     1  0.985019
+136    5311  F1-Score-Hyd     1  0.955210
+137    5311  F1-Score-Pha     1  0.979888
+138    5311   F1-Score-IA     1  0.904865
+139    5311   F1-Score-CP     1  0.966154
+140    5311   F1-Score-LI     1  0.797030
+141    5311   F1-Score-LP     1  0.926441
+142    5311  F1-Score-ACF     1  0.461538
+143    5311   F1-Score-VS     1  0.921079
+144    5311   F1-Score-TA     1  0.368473
+145    5311      F1-Score     1  0.817080
+146    5311       ROC-AUC     1  0.993700
+147    5314  Accuracy-1st     1  0.855943
+148    5314  Accuracy-2nd     1  0.103330
+149    5314  Accuracy-3rd     1  0.023537
+150    5314  Accuracy-4th     1  0.007520
+151    5314  Accuracy-5th     1  0.005567
+152    5314      Accuracy     1  0.855943
+153    5314  F1-Score-Idl     1  0.632327
+154    5314  F1-Score-Inc     1  0.581081
+155    5314  F1-Score-Vis     1  0.521739
+156    5314  F1-Score-Cap     1  0.966777
+157    5314  F1-Score-Hyd     1  0.833977
+158    5314  F1-Score-Pha     1  0.930512
+159    5314   F1-Score-IA     1  0.908884
+160    5314   F1-Score-CP     1  0.835264
+161    5314   F1-Score-LI     1  0.942953
+162    5314   F1-Score-LP     1  0.858351
+163    5314  F1-Score-ACF     1  0.743743
+164    5314   F1-Score-VS     1  0.981758
+165    5314   F1-Score-TA     1  0.790483
+166    5314      F1-Score     1  0.809835
+167    5314       ROC-AUC     1  0.992472
+
+Metric
+Accuracy        0.844543
+Accuracy-1st    0.844543
+Accuracy-2nd    0.105208
+Accuracy-3rd    0.024942
+Accuracy-4th    0.009286
+Accuracy-5th    0.005237
+F1-Score        0.777004
+F1-Score-ACF    0.741891
+F1-Score-CP     0.768342
+F1-Score-Cap    0.721654
+F1-Score-Hyd    0.922797
+F1-Score-IA     0.908521
+F1-Score-Idl    0.689441
+F1-Score-Inc    0.658974
+F1-Score-LI     0.860400
+F1-Score-LP     0.608494
+F1-Score-Pha    0.964631
+F1-Score-TA     0.681915
+F1-Score-VS     0.933212
+F1-Score-Vis    0.640783
+ROC-AUC         0.986363
+
+>> Evaluation-ResNet152_LSTM
+     CaseId        Metric  File     Value
+0      4709  Accuracy-1st     1  0.921051
+1      4709  Accuracy-2nd     1  0.065713
+2      4709  Accuracy-3rd     1  0.004972
+3      4709  Accuracy-4th     1  0.006585
+4      4709  Accuracy-5th     1  0.000000
+5      4709      Accuracy     1  0.921051
+6      4709  F1-Score-Idl     1  0.780815
+7      4709  F1-Score-Inc     1  0.561765
+8      4709  F1-Score-Vis     1  0.862069
+9      4709  F1-Score-Cap     1  0.978824
+10     4709  F1-Score-Hyd     1  0.912195
+11     4709  F1-Score-Pha     1  0.988059
+12     4709   F1-Score-IA     1  0.920559
+13     4709   F1-Score-CP     1  0.945504
+14     4709   F1-Score-LI     1  0.880716
+15     4709   F1-Score-LP     1  0.936484
+16     4709  F1-Score-ACF     1  0.957594
+17     4709   F1-Score-VS     1  0.894057
+18     4709   F1-Score-TA     1  0.970735
+19     4709      F1-Score     1  0.891490
+20     4709       ROC-AUC     1  0.994409
+21     4899  Accuracy-1st     1  0.806909
+22     4899  Accuracy-2nd     1  0.142281
+23     4899  Accuracy-3rd     1  0.026268
+24     4899  Accuracy-4th     1  0.012522
+25     4899  Accuracy-5th     1  0.003670
+26     4899      Accuracy     1  0.806909
+27     4899  F1-Score-Idl     1  0.621718
+28     4899  F1-Score-Inc     1  0.619632
+29     4899  F1-Score-Vis     1  0.420889
+30     4899  F1-Score-Cap     1  0.440636
+31     4899  F1-Score-Hyd     1  0.960282
+32     4899  F1-Score-Pha     1  0.956736
+33     4899   F1-Score-IA     1  0.977035
+34     4899   F1-Score-CP     1  0.415385
+35     4899   F1-Score-LI     1  0.962162
+36     4899   F1-Score-LP     1  0.893443
+37     4899  F1-Score-ACF     1  0.702668
+38     4899   F1-Score-VS     1  0.993332
+39     4899   F1-Score-TA     1  0.602183
+40     4899      F1-Score     1  0.735854
+41     4899       ROC-AUC     1  0.982600
+42     5015  Accuracy-1st     1  0.820528
+43     5015  Accuracy-2nd     1  0.106726
+44     5015  Accuracy-3rd     1  0.033184
+45     5015  Accuracy-4th     1  0.023219
+46     5015  Accuracy-5th     1  0.004983
+47     5015      Accuracy     1  0.820528
+48     5015  F1-Score-Idl     1  0.730577
+49     5015  F1-Score-Inc     1  0.902439
+50     5015  F1-Score-Vis     1  0.358744
+51     5015  F1-Score-Cap     1  0.688073
+52     5015  F1-Score-Hyd     1  0.823799
+53     5015  F1-Score-Pha     1  0.983248
+54     5015   F1-Score-IA     1  0.966258
+55     5015   F1-Score-CP     1  0.378151
+56     5015   F1-Score-LI     1  0.838881
+57     5015   F1-Score-LP     1  0.000000
+58     5015  F1-Score-ACF     1  0.806658
+59     5015   F1-Score-VS     1  0.975477
+60     5015   F1-Score-TA     1  0.564135
+61     5015      F1-Score     1  0.693572
+62     5015       ROC-AUC     1  0.967801
+63     5016  Accuracy-1st     1  0.840478
+64     5016  Accuracy-2nd     1  0.094491
+65     5016  Accuracy-3rd     1  0.023258
+66     5016  Accuracy-4th     1  0.021069
+67     5016  Accuracy-5th     1  0.009394
+68     5016      Accuracy     1  0.840478
+69     5016  F1-Score-Idl     1  0.786670
+70     5016  F1-Score-Inc     1  0.915493
+71     5016  F1-Score-Vis     1  0.591597
+72     5016  F1-Score-Cap     1  0.383387
+73     5016  F1-Score-Hyd     1  0.758621
+74     5016  F1-Score-Pha     1  0.983421
+75     5016   F1-Score-IA     1  0.996165
+76     5016   F1-Score-CP     1  0.779343
+77     5016   F1-Score-LI     1  0.902062
+78     5016   F1-Score-LP     1  0.632979
+79     5016  F1-Score-ACF     1  0.765957
+80     5016   F1-Score-VS     1  0.938650
+81     5016   F1-Score-TA     1  0.783165
+82     5016      F1-Score     1  0.785962
+83     5016       ROC-AUC     1  0.986770
+84     5057  Accuracy-1st     1  0.909521
+85     5057  Accuracy-2nd     1  0.067481
+86     5057  Accuracy-3rd     1  0.009086
+87     5057  Accuracy-4th     1  0.004921
+88     5057  Accuracy-5th     1  0.000757
+89     5057      Accuracy     1  0.909521
+90     5057  F1-Score-Idl     1  0.735701
+91     5057  F1-Score-Inc     1  0.865497
+92     5057  F1-Score-Vis     1  0.927345
+93     5057  F1-Score-Cap     1  0.996697
+94     5057  F1-Score-Hyd     1  0.952141
+95     5057  F1-Score-Pha     1  0.975130
+96     5057   F1-Score-IA     1  0.947368
+97     5057   F1-Score-CP     1  0.452261
+98     5057   F1-Score-LI     1  0.969154
+99     5057   F1-Score-LP     1  0.926975
+100    5057  F1-Score-ACF     1  0.952941
+101    5057   F1-Score-VS     1  0.967427
+102    5057   F1-Score-TA     1  0.862200
+103    5057      F1-Score     1  0.886987
+104    5057       ROC-AUC     1  0.992828
+105    5104  Accuracy-1st     1  0.817947
+106    5104  Accuracy-2nd     1  0.093993
+107    5104  Accuracy-3rd     1  0.024292
+108    5104  Accuracy-4th     1  0.015078
+109    5104  Accuracy-5th     1  0.006736
+110    5104      Accuracy     1  0.817947
+111    5104  F1-Score-Idl     1  0.607473
+112    5104  F1-Score-Inc     1  0.776964
+113    5104  F1-Score-Vis     1  0.680103
+114    5104  F1-Score-Cap     1  0.919052
+115    5104  F1-Score-Hyd     1  0.811516
+116    5104  F1-Score-Pha     1  0.983448
+117    5104   F1-Score-IA     1  0.859608
+118    5104   F1-Score-CP     1  0.300752
+119    5104   F1-Score-LI     1  0.948478
+120    5104   F1-Score-LP     1  0.558847
+121    5104  F1-Score-ACF     1  0.930672
+122    5104   F1-Score-VS     1  0.781702
+123    5104   F1-Score-TA     1  0.858075
+124    5104      F1-Score     1  0.770515
+125    5104       ROC-AUC     1  0.982161
+126    5311  Accuracy-1st     1  0.902692
+127    5311  Accuracy-2nd     1  0.058351
+128    5311  Accuracy-3rd     1  0.008945
+129    5311  Accuracy-4th     1  0.016385
+130    5311  Accuracy-5th     1  0.001254
+131    5311      Accuracy     1  0.902692
+132    5311  F1-Score-Idl     1  0.768251
+133    5311  F1-Score-Inc     1  0.732394
+134    5311  F1-Score-Vis     1  0.870370
+135    5311  F1-Score-Cap     1  0.968692
+136    5311  F1-Score-Hyd     1  0.910908
+137    5311  F1-Score-Pha     1  0.979888
+138    5311   F1-Score-IA     1  0.927424
+139    5311   F1-Score-CP     1  0.941176
+140    5311   F1-Score-LI     1  0.917595
+141    5311   F1-Score-LP     1  0.785835
+142    5311  F1-Score-ACF     1  0.857143
+143    5311   F1-Score-VS     1  0.965971
+144    5311   F1-Score-TA     1  0.856592
+145    5311      F1-Score     1  0.883249
+146    5311       ROC-AUC     1  0.995569
+147    5314  Accuracy-1st     1  0.853404
+148    5314  Accuracy-2nd     1  0.095810
+149    5314  Accuracy-3rd     1  0.008692
+150    5314  Accuracy-4th     1  0.011720
+151    5314  Accuracy-5th     1  0.000000
+152    5314      Accuracy     1  0.853404
+153    5314  F1-Score-Idl     1  0.577564
+154    5314  F1-Score-Inc     1  0.728814
+155    5314  F1-Score-Vis     1  0.636197
+156    5314  F1-Score-Cap     1  0.966777
+157    5314  F1-Score-Hyd     1  0.833977
+158    5314  F1-Score-Pha     1  0.918814
+159    5314   F1-Score-IA     1  0.889919
+160    5314   F1-Score-CP     1  0.800623
+161    5314   F1-Score-LI     1  0.942953
+162    5314   F1-Score-LP     1  0.783784
+163    5314  F1-Score-ACF     1  0.946889
+164    5314   F1-Score-VS     1  0.948366
+165    5314   F1-Score-TA     1  0.881062
+166    5314      F1-Score     1  0.835057
+167    5314       ROC-AUC     1  0.989602
+
+Metric
+Accuracy        0.859066
+Accuracy-1st    0.859066
+Accuracy-2nd    0.090606
+Accuracy-3rd    0.017337
+Accuracy-4th    0.013937
+Accuracy-5th    0.003349
+F1-Score        0.810336
+F1-Score-ACF    0.865065
+F1-Score-CP     0.626649
+F1-Score-Cap    0.792767
+F1-Score-Hyd    0.870430
+F1-Score-IA     0.935542
+F1-Score-Idl    0.701096
+F1-Score-Inc    0.762875
+F1-Score-LI     0.920250
+F1-Score-LP     0.689793
+F1-Score-Pha    0.971093
+F1-Score-TA     0.797268
+F1-Score-VS     0.933123
+F1-Score-Vis    0.668414
+ROC-AUC         0.986467
+
+>> Evaluation-ResNet152_Mamba-best
+     CaseId        Metric  File     Value
+0      4709  Accuracy-1st     1  0.812202
+1      4709  Accuracy-2nd     1  0.139286
+2      4709  Accuracy-3rd     1  0.024390
+3      4709  Accuracy-4th     1  0.020023
+4      4709  Accuracy-5th     1  0.001344
+5      4709      Accuracy     1  0.812202
+6      4709  F1-Score-Idl     1  0.633639
+7      4709  F1-Score-Inc     1  0.092308
+8      4709  F1-Score-Vis     1  0.636364
+9      4709  F1-Score-Cap     1  0.978824
+10     4709  F1-Score-Hyd     1  0.500840
+11     4709  F1-Score-Pha     1  0.992425
+12     4709   F1-Score-IA     1  0.880582
+13     4709   F1-Score-CP     1  0.482173
+14     4709   F1-Score-LI     1  0.785835
+15     4709   F1-Score-LP     1  0.933544
+16     4709  F1-Score-ACF     1  0.879888
+17     4709   F1-Score-VS     1  0.808466
+18     4709   F1-Score-TA     1  0.366572
+19     4709      F1-Score     1  0.690112
+20     4709       ROC-AUC     1  0.979998
+21     4899  Accuracy-1st     1  0.703562
+22     4899  Accuracy-2nd     1  0.149118
+23     4899  Accuracy-3rd     1  0.040518
+24     4899  Accuracy-4th     1  0.027276
+25     4899  Accuracy-5th     1  0.044620
+26     4899      Accuracy     1  0.703562
+27     4899  F1-Score-Idl     1  0.592988
+28     4899  F1-Score-Inc     1  0.745342
+29     4899  F1-Score-Vis     1  0.242261
+30     4899  F1-Score-Cap     1  0.567227
+31     4899  F1-Score-Hyd     1  0.772920
+32     4899  F1-Score-Pha     1  0.870743
+33     4899   F1-Score-IA     1  0.679245
+34     4899   F1-Score-CP     1  0.297521
+35     4899   F1-Score-LI     1  0.875676
+36     4899   F1-Score-LP     1  0.340728
+37     4899  F1-Score-ACF     1  0.570053
+38     4899   F1-Score-VS     1  0.974467
+39     4899   F1-Score-TA     1  0.000000
+40     4899      F1-Score     1  0.579167
+41     4899       ROC-AUC     1  0.959998
+42     5015  Accuracy-1st     1  0.666766
+43     5015  Accuracy-2nd     1  0.220727
+44     5015  Accuracy-3rd     1  0.071649
+45     5015  Accuracy-4th     1  0.015745
+46     5015  Accuracy-5th     1  0.002392
+47     5015      Accuracy     1  0.666766
+48     5015  F1-Score-Idl     1  0.192352
+49     5015  F1-Score-Inc     1  0.328549
+50     5015  F1-Score-Vis     1  0.214552
+51     5015  F1-Score-Cap     1  0.517241
+52     5015  F1-Score-Hyd     1  0.720824
+53     5015  F1-Score-Pha     1  0.983248
+54     5015   F1-Score-IA     1  0.893566
+55     5015   F1-Score-CP     1  0.244759
+56     5015   F1-Score-LI     1  0.838881
+57     5015   F1-Score-LP     1  0.000000
+58     5015  F1-Score-ACF     1  0.691421
+59     5015   F1-Score-VS     1  0.949239
+60     5015   F1-Score-TA     1  0.201995
+61     5015      F1-Score     1  0.521279
+62     5015       ROC-AUC     1  0.944540
+63     5016  Accuracy-1st     1  0.622857
+64     5016  Accuracy-2nd     1  0.294053
+65     5016  Accuracy-3rd     1  0.037030
+66     5016  Accuracy-4th     1  0.029186
+67     5016  Accuracy-5th     1  0.012131
+68     5016      Accuracy     1  0.622857
+69     5016  F1-Score-Idl     1  0.446107
+70     5016  F1-Score-Inc     1  0.399287
+71     5016  F1-Score-Vis     1  0.663968
+72     5016  F1-Score-Cap     1  0.000000
+73     5016  F1-Score-Hyd     1  0.656716
+74     5016  F1-Score-Pha     1  0.818299
+75     5016   F1-Score-IA     1  0.319544
+76     5016   F1-Score-CP     1  0.326693
+77     5016   F1-Score-LI     1  0.962241
+78     5016   F1-Score-LP     1  0.000000
+79     5016  F1-Score-ACF     1  0.578313
+80     5016   F1-Score-VS     1  0.925967
+81     5016   F1-Score-TA     1  0.485472
+82     5016      F1-Score     1  0.506354
+83     5016       ROC-AUC     1  0.978504
+84     5057  Accuracy-1st     1  0.726387
+85     5057  Accuracy-2nd     1  0.131838
+86     5057  Accuracy-3rd     1  0.037857
+87     5057  Accuracy-4th     1  0.065020
+88     5057  Accuracy-5th     1  0.020159
+89     5057      Accuracy     1  0.726387
+90     5057  F1-Score-Idl     1  0.669475
+91     5057  F1-Score-Inc     1  0.701299
+92     5057  F1-Score-Vis     1  0.434665
+93     5057  F1-Score-Cap     1  0.896731
+94     5057  F1-Score-Hyd     1  0.000000
+95     5057  F1-Score-Pha     1  0.934673
+96     5057   F1-Score-IA     1  0.692308
+97     5057   F1-Score-CP     1  0.602740
+98     5057   F1-Score-LI     1  0.941294
+99     5057   F1-Score-LP     1  0.252809
+100    5057  F1-Score-ACF     1  0.894410
+101    5057   F1-Score-VS     1  0.546780
+102    5057   F1-Score-TA     1  0.000000
+103    5057      F1-Score     1  0.582091
+104    5057       ROC-AUC     1  0.971426
+105    5104  Accuracy-1st     1  0.731981
+106    5104  Accuracy-2nd     1  0.188335
+107    5104  Accuracy-3rd     1  0.024432
+108    5104  Accuracy-4th     1  0.010959
+109    5104  Accuracy-5th     1  0.010785
+110    5104      Accuracy     1  0.731981
+111    5104  F1-Score-Idl     1  0.514622
+112    5104  F1-Score-Inc     1  0.684654
+113    5104  F1-Score-Vis     1  0.631111
+114    5104  F1-Score-Cap     1  0.918831
+115    5104  F1-Score-Hyd     1  0.869434
+116    5104  F1-Score-Pha     1  0.986629
+117    5104   F1-Score-IA     1  0.619345
+118    5104   F1-Score-CP     1  0.295203
+119    5104   F1-Score-LI     1  0.889988
+120    5104   F1-Score-LP     1  0.392991
+121    5104  F1-Score-ACF     1  0.417531
+122    5104   F1-Score-VS     1  0.512065
+123    5104   F1-Score-TA     1  0.691309
+124    5104      F1-Score     1  0.647978
+125    5104       ROC-AUC     1  0.972639
+126    5311  Accuracy-1st     1  0.769353
+127    5311  Accuracy-2nd     1  0.177061
+128    5311  Accuracy-3rd     1  0.032938
+129    5311  Accuracy-4th     1  0.018475
+130    5311  Accuracy-5th     1  0.002174
+131    5311      Accuracy     1  0.769353
+132    5311  F1-Score-Idl     1  0.369293
+133    5311  F1-Score-Inc     1  0.431535
+134    5311  F1-Score-Vis     1  0.666667
+135    5311  F1-Score-Cap     1  0.985019
+136    5311  F1-Score-Hyd     1  0.794141
+137    5311  F1-Score-Pha     1  0.986783
+138    5311   F1-Score-IA     1  0.797468
+139    5311   F1-Score-CP     1  0.800000
+140    5311   F1-Score-LI     1  0.906883
+141    5311   F1-Score-LP     1  0.427245
+142    5311  F1-Score-ACF     1  0.537566
+143    5311   F1-Score-VS     1  0.752039
+144    5311   F1-Score-TA     1  0.620000
+145    5311      F1-Score     1  0.698049
+146    5311       ROC-AUC     1  0.993161
+147    5314  Accuracy-1st     1  0.820686
+148    5314  Accuracy-2nd     1  0.103233
+149    5314  Accuracy-3rd     1  0.057916
+150    5314  Accuracy-4th     1  0.010939
+151    5314  Accuracy-5th     1  0.003125
+152    5314      Accuracy     1  0.820686
+153    5314  F1-Score-Idl     1  0.310947
+154    5314  F1-Score-Inc     1  0.581081
+155    5314  F1-Score-Vis     1  0.687598
+156    5314  F1-Score-Cap     1  0.955696
+157    5314  F1-Score-Hyd     1  0.710526
+158    5314  F1-Score-Pha     1  0.931984
+159    5314   F1-Score-IA     1  0.941038
+160    5314   F1-Score-CP     1  0.702422
+161    5314   F1-Score-LI     1  0.819242
+162    5314   F1-Score-LP     1  0.920561
+163    5314  F1-Score-ACF     1  0.833111
+164    5314   F1-Score-VS     1  0.981758
+165    5314   F1-Score-TA     1  0.730119
+166    5314      F1-Score     1  0.777391
+167    5314       ROC-AUC     1  0.983905
+
+Metric
+Accuracy        0.731724
+Accuracy-1st    0.731724
+Accuracy-2nd    0.175457
+Accuracy-3rd    0.040841
+Accuracy-4th    0.024703
+Accuracy-5th    0.012091
+F1-Score        0.625303
+F1-Score-ACF    0.675287
+F1-Score-CP     0.468939
+F1-Score-Cap    0.727446
+F1-Score-Hyd    0.628175
+F1-Score-IA     0.727887
+F1-Score-Idl    0.466178
+F1-Score-Inc    0.495507
+F1-Score-LI     0.877505
+F1-Score-LP     0.408485
+F1-Score-Pha    0.938098
+F1-Score-TA     0.386933
+F1-Score-VS     0.806348
+F1-Score-Vis    0.522148
+ROC-AUC         0.973021
+
+>> Evaluation-ResNet152_Transformer
+     CaseId        Metric  File     Value
+0      4709  Accuracy-1st     1  0.900692
+1      4709  Accuracy-2nd     1  0.081368
+2      4709  Accuracy-3rd     1  0.006316
+3      4709  Accuracy-4th     1  0.009877
+4      4709  Accuracy-5th     1  0.000000
+5      4709      Accuracy     1  0.900692
+6      4709  F1-Score-Idl     1  0.781026
+7      4709  F1-Score-Inc     1  0.860000
+8      4709  F1-Score-Vis     1  0.862069
+9      4709  F1-Score-Cap     1  0.974118
+10     4709  F1-Score-Hyd     1  0.830000
+11     4709  F1-Score-Pha     1  0.975378
+12     4709   F1-Score-IA     1  0.810249
+13     4709   F1-Score-CP     1  0.945504
+14     4709   F1-Score-LI     1  0.929966
+15     4709   F1-Score-LP     1  0.933544
+16     4709  F1-Score-ACF     1  0.957594
+17     4709   F1-Score-VS     1  0.823704
+18     4709   F1-Score-TA     1  0.829443
+19     4709      F1-Score     1  0.885584
+20     4709       ROC-AUC     1  0.994506
+21     4899  Accuracy-1st     1  0.757683
+22     4899  Accuracy-2nd     1  0.153365
+23     4899  Accuracy-3rd     1  0.052753
+24     4899  Accuracy-4th     1  0.023246
+25     4899  Accuracy-5th     1  0.003311
+26     4899      Accuracy     1  0.757683
+27     4899  F1-Score-Idl     1  0.405920
+28     4899  F1-Score-Inc     1  0.523316
+29     4899  F1-Score-Vis     1  0.493001
+30     4899  F1-Score-Cap     1  0.171592
+31     4899  F1-Score-Hyd     1  0.907285
+32     4899  F1-Score-Pha     1  0.975639
+33     4899   F1-Score-IA     1  0.797274
+34     4899   F1-Score-CP     1  0.828261
+35     4899   F1-Score-LI     1  0.962162
+36     4899   F1-Score-LP     1  0.893443
+37     4899  F1-Score-ACF     1  0.702668
+38     4899   F1-Score-VS     1  0.889259
+39     4899   F1-Score-TA     1  0.599240
+40     4899      F1-Score     1  0.703774
+41     4899       ROC-AUC     1  0.976374
+42     5015  Accuracy-1st     1  0.759841
+43     5015  Accuracy-2nd     1  0.171998
+44     5015  Accuracy-3rd     1  0.049726
+45     5015  Accuracy-4th     1  0.010164
+46     5015  Accuracy-5th     1  0.000299
+47     5015      Accuracy     1  0.759841
+48     5015  F1-Score-Idl     1  0.670103
+49     5015  F1-Score-Inc     1  0.815920
+50     5015  F1-Score-Vis     1  0.286482
+51     5015  F1-Score-Cap     1  0.415512
+52     5015  F1-Score-Hyd     1  0.914355
+53     5015  F1-Score-Pha     1  0.948795
+54     5015   F1-Score-IA     1  0.833951
+55     5015   F1-Score-CP     1  0.000000
+56     5015   F1-Score-LI     1  0.838881
+57     5015   F1-Score-LP     1  0.000000
+58     5015  F1-Score-ACF     1  0.749220
+59     5015   F1-Score-VS     1  0.907767
+60     5015   F1-Score-TA     1  0.642124
+61     5015      F1-Score     1  0.617162
+62     5015       ROC-AUC     1  0.970048
+63     5016  Accuracy-1st     1  0.781558
+64     5016  Accuracy-2nd     1  0.120759
+65     5016  Accuracy-3rd     1  0.062295
+66     5016  Accuracy-4th     1  0.017238
+67     5016  Accuracy-5th     1  0.013043
+68     5016      Accuracy     1  0.781558
+69     5016  F1-Score-Idl     1  0.699014
+70     5016  F1-Score-Inc     1  0.845144
+71     5016  F1-Score-Vis     1  0.512258
+72     5016  F1-Score-Cap     1  0.000000
+73     5016  F1-Score-Hyd     1  0.875000
+74     5016  F1-Score-Pha     1  0.975154
+75     5016   F1-Score-IA     1  0.919472
+76     5016   F1-Score-CP     1  0.953488
+77     5016   F1-Score-LI     1  0.702028
+78     5016   F1-Score-LP     1  0.000000
+79     5016  F1-Score-ACF     1  0.738462
+80     5016   F1-Score-VS     1  0.913433
+81     5016   F1-Score-TA     1  0.730733
+82     5016      F1-Score     1  0.681860
+83     5016       ROC-AUC     1  0.965025
+84     5057  Accuracy-1st     1  0.925705
+85     5057  Accuracy-2nd     1  0.062181
+86     5057  Accuracy-3rd     1  0.004543
+87     5057  Accuracy-4th     1  0.005868
+88     5057  Accuracy-5th     1  0.001704
+89     5057      Accuracy     1  0.925705
+90     5057  F1-Score-Idl     1  0.788301
+91     5057  F1-Score-Inc     1  0.876068
+92     5057  F1-Score-Vis     1  0.875312
+93     5057  F1-Score-Cap     1  0.996697
+94     5057  F1-Score-Hyd     1  0.800847
+95     5057  F1-Score-Pha     1  0.983033
+96     5057   F1-Score-IA     1  0.989474
+97     5057   F1-Score-CP     1  0.810811
+98     5057   F1-Score-LI     1  0.969154
+99     5057   F1-Score-LP     1  0.926975
+100    5057  F1-Score-ACF     1  0.976536
+101    5057   F1-Score-VS     1  0.968724
+102    5057   F1-Score-TA     1  0.862200
+103    5057      F1-Score     1  0.909549
+104    5057       ROC-AUC     1  0.996907
+105    5104  Accuracy-1st     1  0.824718
+106    5104  Accuracy-2nd     1  0.094342
+107    5104  Accuracy-3rd     1  0.024257
+108    5104  Accuracy-4th     1  0.025060
+109    5104  Accuracy-5th     1  0.014520
+110    5104      Accuracy     1  0.824718
+111    5104  F1-Score-Idl     1  0.650588
+112    5104  F1-Score-Inc     1  0.860172
+113    5104  F1-Score-Vis     1  0.903704
+114    5104  F1-Score-Cap     1  0.960951
+115    5104  F1-Score-Hyd     1  0.865113
+116    5104  F1-Score-Pha     1  0.986397
+117    5104   F1-Score-IA     1  0.840013
+118    5104   F1-Score-CP     1  0.384615
+119    5104   F1-Score-LI     1  0.824607
+120    5104   F1-Score-LP     1  0.454070
+121    5104  F1-Score-ACF     1  0.371389
+122    5104   F1-Score-VS     1  0.773933
+123    5104   F1-Score-TA     1  0.778773
+124    5104      F1-Score     1  0.742640
+125    5104       ROC-AUC     1  0.975799
+126    5311  Accuracy-1st     1  0.899682
+127    5311  Accuracy-2nd     1  0.079585
+128    5311  Accuracy-3rd     1  0.010450
+129    5311  Accuracy-4th     1  0.004681
+130    5311  Accuracy-5th     1  0.003344
+131    5311      Accuracy     1  0.899682
+132    5311  F1-Score-Idl     1  0.694983
+133    5311  F1-Score-Inc     1  0.779130
+134    5311  F1-Score-Vis     1  0.877778
+135    5311  F1-Score-Cap     1  0.985019
+136    5311  F1-Score-Hyd     1  0.859857
+137    5311  F1-Score-Pha     1  0.993585
+138    5311   F1-Score-IA     1  0.953514
+139    5311   F1-Score-CP     1  0.941176
+140    5311   F1-Score-LI     1  0.917595
+141    5311   F1-Score-LP     1  0.850365
+142    5311  F1-Score-ACF     1  0.940741
+143    5311   F1-Score-VS     1  0.964435
+144    5311   F1-Score-TA     1  0.837079
+145    5311      F1-Score     1  0.891943
+146    5311       ROC-AUC     1  0.995240
+147    5314  Accuracy-1st     1  0.845297
+148    5314  Accuracy-2nd     1  0.122961
+149    5314  Accuracy-3rd     1  0.028128
+150    5314  Accuracy-4th     1  0.000488
+151    5314  Accuracy-5th     1  0.003125
+152    5314      Accuracy     1  0.845297
+153    5314  F1-Score-Idl     1  0.593141
+154    5314  F1-Score-Inc     1  0.757282
+155    5314  F1-Score-Vis     1  0.958425
+156    5314  F1-Score-Cap     1  0.978930
+157    5314  F1-Score-Hyd     1  0.815789
+158    5314  F1-Score-Pha     1  0.953676
+159    5314   F1-Score-IA     1  0.805876
+160    5314   F1-Score-CP     1  0.927767
+161    5314   F1-Score-LI     1  0.914701
+162    5314   F1-Score-LP     1  0.832981
+163    5314  F1-Score-ACF     1  0.758523
+164    5314   F1-Score-VS     1  0.838314
+165    5314   F1-Score-TA     1  0.819732
+166    5314      F1-Score     1  0.842703
+167    5314       ROC-AUC     1  0.991111
+
+Metric
+Accuracy        0.836897
+Accuracy-1st    0.836897
+Accuracy-2nd    0.110820
+Accuracy-3rd    0.029808
+Accuracy-4th    0.012078
+Accuracy-5th    0.004918
+F1-Score        0.784402
+F1-Score-ACF    0.774392
+F1-Score-CP     0.723953
+F1-Score-Cap    0.685352
+F1-Score-Hyd    0.858531
+F1-Score-IA     0.868728
+F1-Score-Idl    0.660384
+F1-Score-Inc    0.789629
+F1-Score-LI     0.882387
+F1-Score-LP     0.611422
+F1-Score-Pha    0.973957
+F1-Score-TA     0.762416
+F1-Score-VS     0.884946
+F1-Score-Vis    0.721128
+ROC-AUC         0.983126
+
+MEAN Accuracy: 0.826292

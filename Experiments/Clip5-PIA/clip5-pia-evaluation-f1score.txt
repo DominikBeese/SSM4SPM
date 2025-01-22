@@ -1,0 +1,273 @@
+                                 Experiment Training Evaluation        Metric  File     Value                        Model        CNN          RNN
+0       Evaluation-ResNet152_Transformer-IA       IA         IA      F1-Score     1  0.767412     ResNet152-Transformer-IA  ResNet152  Transformer
+1       Evaluation-ResNet152_Transformer-IA     IA+P         IA      F1-Score     1  0.767412     ResNet152-Transformer-IA  ResNet152  Transformer
+2       Evaluation-ResNet152_Transformer-IA       IA         IA      F1-Score     2  0.776837     ResNet152-Transformer-IA  ResNet152  Transformer
+3       Evaluation-ResNet152_Transformer-IA     IA+P         IA      F1-Score     2  0.776837     ResNet152-Transformer-IA  ResNet152  Transformer
+4       Evaluation-ResNet152_Transformer-IA       IA         IA      F1-Score     3  0.823343     ResNet152-Transformer-IA  ResNet152  Transformer
+5       Evaluation-ResNet152_Transformer-IA     IA+P         IA      F1-Score     3  0.823343     ResNet152-Transformer-IA  ResNet152  Transformer
+6       Evaluation-ResNet152_Transformer-IA       IA         IA      F1-Score     4  0.819788     ResNet152-Transformer-IA  ResNet152  Transformer
+7       Evaluation-ResNet152_Transformer-IA     IA+P         IA      F1-Score     4  0.819788     ResNet152-Transformer-IA  ResNet152  Transformer
+8       Evaluation-ResNet152_Transformer-IA       IA         IA      F1-Score     5  0.799679     ResNet152-Transformer-IA  ResNet152  Transformer
+9       Evaluation-ResNet152_Transformer-IA     IA+P         IA      F1-Score     5  0.799679     ResNet152-Transformer-IA  ResNet152  Transformer
+10   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Idl     1  0.543956  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+11   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Idl     2  0.392453  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+12   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Idl     3  0.497992  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+13   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Idl     4  0.443890  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+14   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Idl     5  0.323529  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+15   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Inc     1  0.000000  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+16   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Inc     2  0.232558  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+17   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Inc     3  0.222222  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+18   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Inc     4  0.428571  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+19   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Inc     5  0.111111  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+20   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Vis     1  0.109890  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+21   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Vis     2  0.345679  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+22   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Vis     3  0.314286  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+23   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Vis     4  0.048780  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+24   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Vis     5  0.000000  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+25   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Cap     1  0.592308  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+26   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Cap     2  0.737542  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+27   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Cap     3  0.714777  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+28   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Cap     4  0.573477  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+29   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Cap     5  0.751479  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+30   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Hyd     1  0.195122  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+31   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Hyd     2  0.343949  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+32   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Hyd     3  0.317073  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+33   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Hyd     4  0.285714  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+34   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Hyd     5  0.352459  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+35   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Pha     1  0.870466  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+36   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Pha     2  0.884470  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+37   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Pha     3  0.918182  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+38   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Pha     4  0.862813  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+39   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-Pha     5  0.893654  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+40   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-IA     1  0.608280  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+41   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-IA     2  0.732743  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+42   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-IA     3  0.797251  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+43   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-IA     4  0.751445  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+44   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-IA     5  0.633043  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+45   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-CP     1  0.164706  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+46   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-CP     2  0.389381  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+47   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-CP     3  0.260870  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+48   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-CP     4  0.159292  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+49   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-CP     5  0.000000  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+50   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LI     1  0.571429  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+51   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LI     2  0.447761  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+52   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LI     3  0.500000  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+53   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LI     4  0.609756  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+54   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LI     5  0.413793  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+55   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LP     1  0.000000  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+56   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LP     2  0.186047  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+57   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LP     3  0.136364  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+58   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LP     4  0.276923  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+59   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-LP     5  0.196078  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+60   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-ACF     1  0.344828  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+61   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-ACF     2  0.270270  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+62   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-ACF     3  0.392638  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+63   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-ACF     4  0.303030  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+64   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  F1-Score-ACF     5  0.349398  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+65   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-VS     1  0.594595  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+66   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-VS     2  0.809689  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+67   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-VS     3  0.762295  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+68   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-VS     4  0.835165  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+69   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-VS     5  0.603636  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+70   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-TA     1  0.515284  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+71   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-TA     2  0.425743  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+72   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-TA     3  0.433333  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+73   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-TA     4  0.481283  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+74   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P   F1-Score-TA     5  0.305732  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+75   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      F1-Score     1  0.393143  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+76   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      F1-Score     2  0.476791  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+77   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      F1-Score     3  0.482099  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+78   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      F1-Score     4  0.466165  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+79   Evaluation-ResNet152_Transformer-IAP-P     IA+P          P      F1-Score     5  0.379532  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+80       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Idl     1  0.660256      ResNet152-Transformer-P  ResNet152  Transformer
+81       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Idl     2  0.672464      ResNet152-Transformer-P  ResNet152  Transformer
+82       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Idl     3  0.764331      ResNet152-Transformer-P  ResNet152  Transformer
+83       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Idl     4  0.670623      ResNet152-Transformer-P  ResNet152  Transformer
+84       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Idl     5  0.669291      ResNet152-Transformer-P  ResNet152  Transformer
+85       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Inc     1  0.000000      ResNet152-Transformer-P  ResNet152  Transformer
+86       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Inc     2  0.625000      ResNet152-Transformer-P  ResNet152  Transformer
+87       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Inc     3  0.416667      ResNet152-Transformer-P  ResNet152  Transformer
+88       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Inc     4  0.250000      ResNet152-Transformer-P  ResNet152  Transformer
+89       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Inc     5  0.000000      ResNet152-Transformer-P  ResNet152  Transformer
+90       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Vis     1  0.268657      ResNet152-Transformer-P  ResNet152  Transformer
+91       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Vis     2  0.365217      ResNet152-Transformer-P  ResNet152  Transformer
+92       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Vis     3  0.338462      ResNet152-Transformer-P  ResNet152  Transformer
+93       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Vis     4  0.299065      ResNet152-Transformer-P  ResNet152  Transformer
+94       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Vis     5  0.404494      ResNet152-Transformer-P  ResNet152  Transformer
+95       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Cap     1  0.794118      ResNet152-Transformer-P  ResNet152  Transformer
+96       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Cap     2  0.776632      ResNet152-Transformer-P  ResNet152  Transformer
+97       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Cap     3  0.569170      ResNet152-Transformer-P  ResNet152  Transformer
+98       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Cap     4  0.696486      ResNet152-Transformer-P  ResNet152  Transformer
+99       Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Cap     5  0.843243      ResNet152-Transformer-P  ResNet152  Transformer
+100      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Hyd     1  0.367647      ResNet152-Transformer-P  ResNet152  Transformer
+101      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Hyd     2  0.514286      ResNet152-Transformer-P  ResNet152  Transformer
+102      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Hyd     3  0.519481      ResNet152-Transformer-P  ResNet152  Transformer
+103      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Hyd     4  0.647619      ResNet152-Transformer-P  ResNet152  Transformer
+104      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Hyd     5  0.575758      ResNet152-Transformer-P  ResNet152  Transformer
+105      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Pha     1  0.820156      ResNet152-Transformer-P  ResNet152  Transformer
+106      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Pha     2  0.904805      ResNet152-Transformer-P  ResNet152  Transformer
+107      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Pha     3  0.902242      ResNet152-Transformer-P  ResNet152  Transformer
+108      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Pha     4  0.891916      ResNet152-Transformer-P  ResNet152  Transformer
+109      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-Pha     5  0.877133      ResNet152-Transformer-P  ResNet152  Transformer
+110      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-IA     1  0.673469      ResNet152-Transformer-P  ResNet152  Transformer
+111      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-IA     2  0.843066      ResNet152-Transformer-P  ResNet152  Transformer
+112      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-IA     3  0.799277      ResNet152-Transformer-P  ResNet152  Transformer
+113      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-IA     4  0.765432      ResNet152-Transformer-P  ResNet152  Transformer
+114      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-IA     5  0.665385      ResNet152-Transformer-P  ResNet152  Transformer
+115      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-CP     1  0.511111      ResNet152-Transformer-P  ResNet152  Transformer
+116      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-CP     2  0.520548      ResNet152-Transformer-P  ResNet152  Transformer
+117      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-CP     3  0.482143      ResNet152-Transformer-P  ResNet152  Transformer
+118      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-CP     4  0.637363      ResNet152-Transformer-P  ResNet152  Transformer
+119      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-CP     5  0.312500      ResNet152-Transformer-P  ResNet152  Transformer
+120      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LI     1  0.382979      ResNet152-Transformer-P  ResNet152  Transformer
+121      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LI     2  0.781250      ResNet152-Transformer-P  ResNet152  Transformer
+122      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LI     3  0.593750      ResNet152-Transformer-P  ResNet152  Transformer
+123      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LI     4  0.702703      ResNet152-Transformer-P  ResNet152  Transformer
+124      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LI     5  0.603175      ResNet152-Transformer-P  ResNet152  Transformer
+125      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LP     1  0.333333      ResNet152-Transformer-P  ResNet152  Transformer
+126      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LP     2  0.291667      ResNet152-Transformer-P  ResNet152  Transformer
+127      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LP     3  0.310345      ResNet152-Transformer-P  ResNet152  Transformer
+128      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LP     4  0.476190      ResNet152-Transformer-P  ResNet152  Transformer
+129      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-LP     5  0.666667      ResNet152-Transformer-P  ResNet152  Transformer
+130      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-ACF     1  0.428571      ResNet152-Transformer-P  ResNet152  Transformer
+131      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-ACF     2  0.706897      ResNet152-Transformer-P  ResNet152  Transformer
+132      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-ACF     3  0.363636      ResNet152-Transformer-P  ResNet152  Transformer
+133      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-ACF     4  0.631579      ResNet152-Transformer-P  ResNet152  Transformer
+134      Evaluation-ResNet152_Transformer-P        P          P  F1-Score-ACF     5  0.574257      ResNet152-Transformer-P  ResNet152  Transformer
+135      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-VS     1  0.824427      ResNet152-Transformer-P  ResNet152  Transformer
+136      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-VS     2  0.835443      ResNet152-Transformer-P  ResNet152  Transformer
+137      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-VS     3  0.822134      ResNet152-Transformer-P  ResNet152  Transformer
+138      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-VS     4  0.781022      ResNet152-Transformer-P  ResNet152  Transformer
+139      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-VS     5  0.765517      ResNet152-Transformer-P  ResNet152  Transformer
+140      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-TA     1  0.254902      ResNet152-Transformer-P  ResNet152  Transformer
+141      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-TA     2  0.537931      ResNet152-Transformer-P  ResNet152  Transformer
+142      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-TA     3  0.705202      ResNet152-Transformer-P  ResNet152  Transformer
+143      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-TA     4  0.736842      ResNet152-Transformer-P  ResNet152  Transformer
+144      Evaluation-ResNet152_Transformer-P        P          P   F1-Score-TA     5  0.726496      ResNet152-Transformer-P  ResNet152  Transformer
+145      Evaluation-ResNet152_Transformer-P        P          P      F1-Score     1  0.486125      ResNet152-Transformer-P  ResNet152  Transformer
+146      Evaluation-ResNet152_Transformer-P        P          P      F1-Score     2  0.644247      ResNet152-Transformer-P  ResNet152  Transformer
+147      Evaluation-ResNet152_Transformer-P        P          P      F1-Score     3  0.583603      ResNet152-Transformer-P  ResNet152  Transformer
+148      Evaluation-ResNet152_Transformer-P        P          P      F1-Score     4  0.629757      ResNet152-Transformer-P  ResNet152  Transformer
+149      Evaluation-ResNet152_Transformer-P        P          P      F1-Score     5  0.591070      ResNet152-Transformer-P  ResNet152  Transformer
+150    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Idl     1  0.719697    ResNet152-Transformer-PIA  ResNet152  Transformer
+151    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Idl     2  0.754448    ResNet152-Transformer-PIA  ResNet152  Transformer
+152    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Idl     3  0.671756    ResNet152-Transformer-PIA  ResNet152  Transformer
+153    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Idl     4  0.585526    ResNet152-Transformer-PIA  ResNet152  Transformer
+154    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Idl     5  0.730375    ResNet152-Transformer-PIA  ResNet152  Transformer
+155    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Inc     1  0.240000    ResNet152-Transformer-PIA  ResNet152  Transformer
+156    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Inc     2  0.285714    ResNet152-Transformer-PIA  ResNet152  Transformer
+157    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Inc     3  0.117647    ResNet152-Transformer-PIA  ResNet152  Transformer
+158    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Inc     4  0.260870    ResNet152-Transformer-PIA  ResNet152  Transformer
+159    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Inc     5  0.400000    ResNet152-Transformer-PIA  ResNet152  Transformer
+160    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Vis     1  0.277228    ResNet152-Transformer-PIA  ResNet152  Transformer
+161    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Vis     2  0.387755    ResNet152-Transformer-PIA  ResNet152  Transformer
+162    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Vis     3  0.339623    ResNet152-Transformer-PIA  ResNet152  Transformer
+163    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Vis     4  0.226087    ResNet152-Transformer-PIA  ResNet152  Transformer
+164    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Vis     5  0.441860    ResNet152-Transformer-PIA  ResNet152  Transformer
+165    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Cap     1  0.710098    ResNet152-Transformer-PIA  ResNet152  Transformer
+166    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Cap     2  0.810811    ResNet152-Transformer-PIA  ResNet152  Transformer
+167    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Cap     3  0.607004    ResNet152-Transformer-PIA  ResNet152  Transformer
+168    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Cap     4  0.633333    ResNet152-Transformer-PIA  ResNet152  Transformer
+169    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Cap     5  0.840796    ResNet152-Transformer-PIA  ResNet152  Transformer
+170    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Hyd     1  0.437956    ResNet152-Transformer-PIA  ResNet152  Transformer
+171    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Hyd     2  0.550336    ResNet152-Transformer-PIA  ResNet152  Transformer
+172    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Hyd     3  0.617801    ResNet152-Transformer-PIA  ResNet152  Transformer
+173    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Hyd     4  0.586873    ResNet152-Transformer-PIA  ResNet152  Transformer
+174    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Hyd     5  0.579310    ResNet152-Transformer-PIA  ResNet152  Transformer
+175    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Pha     1  0.816879    ResNet152-Transformer-PIA  ResNet152  Transformer
+176    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Pha     2  0.941729    ResNet152-Transformer-PIA  ResNet152  Transformer
+177    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Pha     3  0.898451    ResNet152-Transformer-PIA  ResNet152  Transformer
+178    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Pha     4  0.909091    ResNet152-Transformer-PIA  ResNet152  Transformer
+179    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-Pha     5  0.883275    ResNet152-Transformer-PIA  ResNet152  Transformer
+180    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-IA     1  0.605042    ResNet152-Transformer-PIA  ResNet152  Transformer
+181    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-IA     2  0.858569    ResNet152-Transformer-PIA  ResNet152  Transformer
+182    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-IA     3  0.772467    ResNet152-Transformer-PIA  ResNet152  Transformer
+183    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-IA     4  0.805447    ResNet152-Transformer-PIA  ResNet152  Transformer
+184    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-IA     5  0.704062    ResNet152-Transformer-PIA  ResNet152  Transformer
+185    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-CP     1  0.442478    ResNet152-Transformer-PIA  ResNet152  Transformer
+186    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-CP     2  0.547368    ResNet152-Transformer-PIA  ResNet152  Transformer
+187    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-CP     3  0.273292    ResNet152-Transformer-PIA  ResNet152  Transformer
+188    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-CP     4  0.341463    ResNet152-Transformer-PIA  ResNet152  Transformer
+189    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-CP     5  0.250000    ResNet152-Transformer-PIA  ResNet152  Transformer
+190    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LI     1  0.444444    ResNet152-Transformer-PIA  ResNet152  Transformer
+191    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LI     2  0.549451    ResNet152-Transformer-PIA  ResNet152  Transformer
+192    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LI     3  0.757576    ResNet152-Transformer-PIA  ResNet152  Transformer
+193    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LI     4  0.642857    ResNet152-Transformer-PIA  ResNet152  Transformer
+194    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LI     5  0.551724    ResNet152-Transformer-PIA  ResNet152  Transformer
+195    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LP     1  0.177778    ResNet152-Transformer-PIA  ResNet152  Transformer
+196    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LP     2  0.488889    ResNet152-Transformer-PIA  ResNet152  Transformer
+197    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LP     3  0.260870    ResNet152-Transformer-PIA  ResNet152  Transformer
+198    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LP     4  0.566667    ResNet152-Transformer-PIA  ResNet152  Transformer
+199    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-LP     5  0.066667    ResNet152-Transformer-PIA  ResNet152  Transformer
+200    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-ACF     1  0.205128    ResNet152-Transformer-PIA  ResNet152  Transformer
+201    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-ACF     2  0.492308    ResNet152-Transformer-PIA  ResNet152  Transformer
+202    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-ACF     3  0.525641    ResNet152-Transformer-PIA  ResNet152  Transformer
+203    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-ACF     4  0.453125    ResNet152-Transformer-PIA  ResNet152  Transformer
+204    Evaluation-ResNet152_Transformer-PIA      PIA          P  F1-Score-ACF     5  0.510067    ResNet152-Transformer-PIA  ResNet152  Transformer
+205    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-VS     1  0.556150    ResNet152-Transformer-PIA  ResNet152  Transformer
+206    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-VS     2  0.839416    ResNet152-Transformer-PIA  ResNet152  Transformer
+207    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-VS     3  0.809917    ResNet152-Transformer-PIA  ResNet152  Transformer
+208    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-VS     4  0.876812    ResNet152-Transformer-PIA  ResNet152  Transformer
+209    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-VS     5  0.726027    ResNet152-Transformer-PIA  ResNet152  Transformer
+210    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-TA     1  0.670330    ResNet152-Transformer-PIA  ResNet152  Transformer
+211    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-TA     2  0.722513    ResNet152-Transformer-PIA  ResNet152  Transformer
+212    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-TA     3  0.653061    ResNet152-Transformer-PIA  ResNet152  Transformer
+213    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-TA     4  0.678733    ResNet152-Transformer-PIA  ResNet152  Transformer
+214    Evaluation-ResNet152_Transformer-PIA      PIA          P   F1-Score-TA     5  0.699507    ResNet152-Transformer-PIA  ResNet152  Transformer
+215    Evaluation-ResNet152_Transformer-PIA      PIA          P      F1-Score     1  0.484862    ResNet152-Transformer-PIA  ResNet152  Transformer
+216    Evaluation-ResNet152_Transformer-PIA      PIA          P      F1-Score     2  0.633024    ResNet152-Transformer-PIA  ResNet152  Transformer
+217    Evaluation-ResNet152_Transformer-PIA      PIA          P      F1-Score     3  0.561931    ResNet152-Transformer-PIA  ResNet152  Transformer
+218    Evaluation-ResNet152_Transformer-PIA      PIA          P      F1-Score     4  0.582068    ResNet152-Transformer-PIA  ResNet152  Transformer
+219    Evaluation-ResNet152_Transformer-PIA      PIA          P      F1-Score     5  0.567975    ResNet152-Transformer-PIA  ResNet152  Transformer
+220    Evaluation-ResNet152_Transformer-PIA      PIA         IA      F1-Score     1  0.574488    ResNet152-Transformer-PIA  ResNet152  Transformer
+221    Evaluation-ResNet152_Transformer-PIA      PIA         IA      F1-Score     2  0.819659    ResNet152-Transformer-PIA  ResNet152  Transformer
+222    Evaluation-ResNet152_Transformer-PIA      PIA         IA      F1-Score     3  0.783106    ResNet152-Transformer-PIA  ResNet152  Transformer
+223    Evaluation-ResNet152_Transformer-PIA      PIA         IA      F1-Score     4  0.839255    ResNet152-Transformer-PIA  ResNet152  Transformer
+224    Evaluation-ResNet152_Transformer-PIA      PIA         IA      F1-Score     5  0.778543    ResNet152-Transformer-PIA  ResNet152  Transformer
+
+Evaluation  Training  Metric      
+IA          IA        F1-Score        0.797412
+            IA+P      F1-Score        0.797412
+            PIA       F1-Score        0.759010
+P           IA+P      F1-Score        0.439546
+                      F1-Score-ACF    0.332033
+                      F1-Score-CP     0.194850
+                      F1-Score-Cap    0.673916
+                      F1-Score-Hyd    0.298863
+                      F1-Score-IA     0.704553
+                      F1-Score-Idl    0.440364
+                      F1-Score-Inc    0.198893
+                      F1-Score-LI     0.508548
+                      F1-Score-LP     0.159082
+                      F1-Score-Pha    0.885917
+                      F1-Score-TA     0.432275
+                      F1-Score-VS     0.721076
+                      F1-Score-Vis    0.163727
+            P         F1-Score        0.586960
+                      F1-Score-ACF    0.540988
+                      F1-Score-CP     0.492733
+                      F1-Score-Cap    0.735930
+                      F1-Score-Hyd    0.524958
+                      F1-Score-IA     0.749326
+                      F1-Score-Idl    0.687393
+                      F1-Score-Inc    0.258333
+                      F1-Score-LI     0.612771
+                      F1-Score-LP     0.415640
+                      F1-Score-Pha    0.879251
+                      F1-Score-TA     0.592275
+                      F1-Score-VS     0.805709
+                      F1-Score-Vis    0.335179
+            PIA       F1-Score        0.565972
+                      F1-Score-ACF    0.437254
+                      F1-Score-CP     0.370920
+                      F1-Score-Cap    0.720408
+                      F1-Score-Hyd    0.554455
+                      F1-Score-IA     0.749117
+                      F1-Score-Idl    0.692361
+                      F1-Score-Inc    0.260846
+                      F1-Score-LI     0.589210
+                      F1-Score-LP     0.312174
+                      F1-Score-Pha    0.889885
+                      F1-Score-TA     0.684829
+                      F1-Score-VS     0.761664
+                      F1-Score-Vis    0.334511

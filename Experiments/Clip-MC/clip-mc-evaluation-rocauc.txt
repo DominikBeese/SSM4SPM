@@ -1,0 +1,385 @@
+                                Experiment   Metric  File     Value                       Model             CNN          RNN
+0             Evaluation-DenseNet121_BiGRU  ROC-AUC     1  0.979931           DenseNet121-BiGRU     DenseNet121        BiGRU
+1             Evaluation-DenseNet121_BiGRU  ROC-AUC     2  0.973996           DenseNet121-BiGRU     DenseNet121        BiGRU
+2             Evaluation-DenseNet121_BiGRU  ROC-AUC     3  0.977415           DenseNet121-BiGRU     DenseNet121        BiGRU
+3             Evaluation-DenseNet121_BiGRU  ROC-AUC     4  0.980985           DenseNet121-BiGRU     DenseNet121        BiGRU
+4             Evaluation-DenseNet121_BiGRU  ROC-AUC     5  0.970445           DenseNet121-BiGRU     DenseNet121        BiGRU
+5            Evaluation-DenseNet121_BiLSTM  ROC-AUC     1  0.985213          DenseNet121-BiLSTM     DenseNet121       BiLSTM
+6            Evaluation-DenseNet121_BiLSTM  ROC-AUC     2  0.979672          DenseNet121-BiLSTM     DenseNet121       BiLSTM
+7            Evaluation-DenseNet121_BiLSTM  ROC-AUC     3  0.971128          DenseNet121-BiLSTM     DenseNet121       BiLSTM
+8            Evaluation-DenseNet121_BiLSTM  ROC-AUC     4  0.976764          DenseNet121-BiLSTM     DenseNet121       BiLSTM
+9            Evaluation-DenseNet121_BiLSTM  ROC-AUC     5  0.986157          DenseNet121-BiLSTM     DenseNet121       BiLSTM
+10              Evaluation-DenseNet121_GRU  ROC-AUC     1  0.984516             DenseNet121-GRU     DenseNet121          GRU
+11              Evaluation-DenseNet121_GRU  ROC-AUC     2  0.978533             DenseNet121-GRU     DenseNet121          GRU
+12              Evaluation-DenseNet121_GRU  ROC-AUC     3  0.977886             DenseNet121-GRU     DenseNet121          GRU
+13              Evaluation-DenseNet121_GRU  ROC-AUC     4  0.972354             DenseNet121-GRU     DenseNet121          GRU
+14              Evaluation-DenseNet121_GRU  ROC-AUC     5  0.978206             DenseNet121-GRU     DenseNet121          GRU
+15             Evaluation-DenseNet121_LSTM  ROC-AUC     1  0.978515            DenseNet121-LSTM     DenseNet121         LSTM
+16             Evaluation-DenseNet121_LSTM  ROC-AUC     2  0.972218            DenseNet121-LSTM     DenseNet121         LSTM
+17             Evaluation-DenseNet121_LSTM  ROC-AUC     3  0.974706            DenseNet121-LSTM     DenseNet121         LSTM
+18             Evaluation-DenseNet121_LSTM  ROC-AUC     4  0.969602            DenseNet121-LSTM     DenseNet121         LSTM
+19             Evaluation-DenseNet121_LSTM  ROC-AUC     5  0.982760            DenseNet121-LSTM     DenseNet121         LSTM
+20       Evaluation-DenseNet121_Mamba-best  ROC-AUC     1  0.975996      DenseNet121-Mamba-best     DenseNet121        Mamba
+21       Evaluation-DenseNet121_Mamba-best  ROC-AUC     2  0.978941      DenseNet121-Mamba-best     DenseNet121        Mamba
+22       Evaluation-DenseNet121_Mamba-best  ROC-AUC     3  0.968365      DenseNet121-Mamba-best     DenseNet121        Mamba
+23       Evaluation-DenseNet121_Mamba-best  ROC-AUC     4  0.964141      DenseNet121-Mamba-best     DenseNet121        Mamba
+24       Evaluation-DenseNet121_Mamba-best  ROC-AUC     5  0.972339      DenseNet121-Mamba-best     DenseNet121        Mamba
+25      Evaluation-DenseNet121_Transformer  ROC-AUC     1  0.980829     DenseNet121-Transformer     DenseNet121  Transformer
+26      Evaluation-DenseNet121_Transformer  ROC-AUC     2  0.980354     DenseNet121-Transformer     DenseNet121  Transformer
+27      Evaluation-DenseNet121_Transformer  ROC-AUC     3  0.969883     DenseNet121-Transformer     DenseNet121  Transformer
+28      Evaluation-DenseNet121_Transformer  ROC-AUC     4  0.970814     DenseNet121-Transformer     DenseNet121  Transformer
+29      Evaluation-DenseNet121_Transformer  ROC-AUC     5  0.979040     DenseNet121-Transformer     DenseNet121  Transformer
+30            Evaluation-DenseNet201_BiGRU  ROC-AUC     1  0.978521           DenseNet201-BiGRU     DenseNet201        BiGRU
+31            Evaluation-DenseNet201_BiGRU  ROC-AUC     2  0.980372           DenseNet201-BiGRU     DenseNet201        BiGRU
+32            Evaluation-DenseNet201_BiGRU  ROC-AUC     3  0.968230           DenseNet201-BiGRU     DenseNet201        BiGRU
+33            Evaluation-DenseNet201_BiGRU  ROC-AUC     4  0.972153           DenseNet201-BiGRU     DenseNet201        BiGRU
+34            Evaluation-DenseNet201_BiGRU  ROC-AUC     5  0.974897           DenseNet201-BiGRU     DenseNet201        BiGRU
+35           Evaluation-DenseNet201_BiLSTM  ROC-AUC     1  0.983995          DenseNet201-BiLSTM     DenseNet201       BiLSTM
+36           Evaluation-DenseNet201_BiLSTM  ROC-AUC     2  0.980133          DenseNet201-BiLSTM     DenseNet201       BiLSTM
+37           Evaluation-DenseNet201_BiLSTM  ROC-AUC     3  0.976020          DenseNet201-BiLSTM     DenseNet201       BiLSTM
+38           Evaluation-DenseNet201_BiLSTM  ROC-AUC     4  0.974134          DenseNet201-BiLSTM     DenseNet201       BiLSTM
+39           Evaluation-DenseNet201_BiLSTM  ROC-AUC     5  0.982227          DenseNet201-BiLSTM     DenseNet201       BiLSTM
+40              Evaluation-DenseNet201_GRU  ROC-AUC     1  0.983099             DenseNet201-GRU     DenseNet201          GRU
+41              Evaluation-DenseNet201_GRU  ROC-AUC     2  0.971563             DenseNet201-GRU     DenseNet201          GRU
+42              Evaluation-DenseNet201_GRU  ROC-AUC     3  0.971463             DenseNet201-GRU     DenseNet201          GRU
+43              Evaluation-DenseNet201_GRU  ROC-AUC     4  0.973973             DenseNet201-GRU     DenseNet201          GRU
+44              Evaluation-DenseNet201_GRU  ROC-AUC     5  0.976567             DenseNet201-GRU     DenseNet201          GRU
+45             Evaluation-DenseNet201_LSTM  ROC-AUC     1  0.979749            DenseNet201-LSTM     DenseNet201         LSTM
+46             Evaluation-DenseNet201_LSTM  ROC-AUC     2  0.978508            DenseNet201-LSTM     DenseNet201         LSTM
+47             Evaluation-DenseNet201_LSTM  ROC-AUC     3  0.974448            DenseNet201-LSTM     DenseNet201         LSTM
+48             Evaluation-DenseNet201_LSTM  ROC-AUC     4  0.965010            DenseNet201-LSTM     DenseNet201         LSTM
+49             Evaluation-DenseNet201_LSTM  ROC-AUC     5  0.974069            DenseNet201-LSTM     DenseNet201         LSTM
+50       Evaluation-DenseNet201_Mamba-best  ROC-AUC     1  0.978623      DenseNet201-Mamba-best     DenseNet201        Mamba
+51       Evaluation-DenseNet201_Mamba-best  ROC-AUC     2  0.975598      DenseNet201-Mamba-best     DenseNet201        Mamba
+52       Evaluation-DenseNet201_Mamba-best  ROC-AUC     3  0.965536      DenseNet201-Mamba-best     DenseNet201        Mamba
+53       Evaluation-DenseNet201_Mamba-best  ROC-AUC     4  0.969458      DenseNet201-Mamba-best     DenseNet201        Mamba
+54       Evaluation-DenseNet201_Mamba-best  ROC-AUC     5  0.984258      DenseNet201-Mamba-best     DenseNet201        Mamba
+55      Evaluation-DenseNet201_Transformer  ROC-AUC     1  0.973509     DenseNet201-Transformer     DenseNet201  Transformer
+56      Evaluation-DenseNet201_Transformer  ROC-AUC     2  0.977111     DenseNet201-Transformer     DenseNet201  Transformer
+57      Evaluation-DenseNet201_Transformer  ROC-AUC     3  0.967158     DenseNet201-Transformer     DenseNet201  Transformer
+58      Evaluation-DenseNet201_Transformer  ROC-AUC     4  0.970657     DenseNet201-Transformer     DenseNet201  Transformer
+59      Evaluation-DenseNet201_Transformer  ROC-AUC     5  0.979234     DenseNet201-Transformer     DenseNet201  Transformer
+60         Evaluation-EfficientNetB0_BiGRU  ROC-AUC     1  0.964915        EfficientNetB0-BiGRU  EfficientNetB0        BiGRU
+61         Evaluation-EfficientNetB0_BiGRU  ROC-AUC     2  0.961433        EfficientNetB0-BiGRU  EfficientNetB0        BiGRU
+62         Evaluation-EfficientNetB0_BiGRU  ROC-AUC     3  0.959476        EfficientNetB0-BiGRU  EfficientNetB0        BiGRU
+63         Evaluation-EfficientNetB0_BiGRU  ROC-AUC     4  0.961411        EfficientNetB0-BiGRU  EfficientNetB0        BiGRU
+64         Evaluation-EfficientNetB0_BiGRU  ROC-AUC     5  0.962646        EfficientNetB0-BiGRU  EfficientNetB0        BiGRU
+65        Evaluation-EfficientNetB0_BiLSTM  ROC-AUC     1  0.970414       EfficientNetB0-BiLSTM  EfficientNetB0       BiLSTM
+66        Evaluation-EfficientNetB0_BiLSTM  ROC-AUC     2  0.960950       EfficientNetB0-BiLSTM  EfficientNetB0       BiLSTM
+67        Evaluation-EfficientNetB0_BiLSTM  ROC-AUC     3  0.957450       EfficientNetB0-BiLSTM  EfficientNetB0       BiLSTM
+68        Evaluation-EfficientNetB0_BiLSTM  ROC-AUC     4  0.955247       EfficientNetB0-BiLSTM  EfficientNetB0       BiLSTM
+69        Evaluation-EfficientNetB0_BiLSTM  ROC-AUC     5  0.961894       EfficientNetB0-BiLSTM  EfficientNetB0       BiLSTM
+70           Evaluation-EfficientNetB0_GRU  ROC-AUC     1  0.960811          EfficientNetB0-GRU  EfficientNetB0          GRU
+71           Evaluation-EfficientNetB0_GRU  ROC-AUC     2  0.955712          EfficientNetB0-GRU  EfficientNetB0          GRU
+72           Evaluation-EfficientNetB0_GRU  ROC-AUC     3  0.957364          EfficientNetB0-GRU  EfficientNetB0          GRU
+73           Evaluation-EfficientNetB0_GRU  ROC-AUC     4  0.964439          EfficientNetB0-GRU  EfficientNetB0          GRU
+74           Evaluation-EfficientNetB0_GRU  ROC-AUC     5  0.961857          EfficientNetB0-GRU  EfficientNetB0          GRU
+75          Evaluation-EfficientNetB0_LSTM  ROC-AUC     1  0.964053         EfficientNetB0-LSTM  EfficientNetB0         LSTM
+76          Evaluation-EfficientNetB0_LSTM  ROC-AUC     2  0.945950         EfficientNetB0-LSTM  EfficientNetB0         LSTM
+77          Evaluation-EfficientNetB0_LSTM  ROC-AUC     3  0.949194         EfficientNetB0-LSTM  EfficientNetB0         LSTM
+78          Evaluation-EfficientNetB0_LSTM  ROC-AUC     4  0.963333         EfficientNetB0-LSTM  EfficientNetB0         LSTM
+79          Evaluation-EfficientNetB0_LSTM  ROC-AUC     5  0.956183         EfficientNetB0-LSTM  EfficientNetB0         LSTM
+80    Evaluation-EfficientNetB0_Mamba-best  ROC-AUC     1  0.971589   EfficientNetB0-Mamba-best  EfficientNetB0        Mamba
+81    Evaluation-EfficientNetB0_Mamba-best  ROC-AUC     2  0.964231   EfficientNetB0-Mamba-best  EfficientNetB0        Mamba
+82    Evaluation-EfficientNetB0_Mamba-best  ROC-AUC     3  0.953617   EfficientNetB0-Mamba-best  EfficientNetB0        Mamba
+83    Evaluation-EfficientNetB0_Mamba-best  ROC-AUC     4  0.959231   EfficientNetB0-Mamba-best  EfficientNetB0        Mamba
+84    Evaluation-EfficientNetB0_Mamba-best  ROC-AUC     5  0.966862   EfficientNetB0-Mamba-best  EfficientNetB0        Mamba
+85   Evaluation-EfficientNetB0_Transformer  ROC-AUC     1  0.956772  EfficientNetB0-Transformer  EfficientNetB0  Transformer
+86   Evaluation-EfficientNetB0_Transformer  ROC-AUC     2  0.955970  EfficientNetB0-Transformer  EfficientNetB0  Transformer
+87   Evaluation-EfficientNetB0_Transformer  ROC-AUC     3  0.950441  EfficientNetB0-Transformer  EfficientNetB0  Transformer
+88   Evaluation-EfficientNetB0_Transformer  ROC-AUC     4  0.960822  EfficientNetB0-Transformer  EfficientNetB0  Transformer
+89   Evaluation-EfficientNetB0_Transformer  ROC-AUC     5  0.957914  EfficientNetB0-Transformer  EfficientNetB0  Transformer
+90         Evaluation-EfficientNetB2_BiGRU  ROC-AUC     1  0.965606        EfficientNetB2-BiGRU  EfficientNetB2        BiGRU
+91         Evaluation-EfficientNetB2_BiGRU  ROC-AUC     2  0.968122        EfficientNetB2-BiGRU  EfficientNetB2        BiGRU
+92         Evaluation-EfficientNetB2_BiGRU  ROC-AUC     3  0.953092        EfficientNetB2-BiGRU  EfficientNetB2        BiGRU
+93         Evaluation-EfficientNetB2_BiGRU  ROC-AUC     4  0.962681        EfficientNetB2-BiGRU  EfficientNetB2        BiGRU
+94         Evaluation-EfficientNetB2_BiGRU  ROC-AUC     5  0.967391        EfficientNetB2-BiGRU  EfficientNetB2        BiGRU
+95        Evaluation-EfficientNetB2_BiLSTM  ROC-AUC     1  0.973893       EfficientNetB2-BiLSTM  EfficientNetB2       BiLSTM
+96        Evaluation-EfficientNetB2_BiLSTM  ROC-AUC     2  0.964813       EfficientNetB2-BiLSTM  EfficientNetB2       BiLSTM
+97        Evaluation-EfficientNetB2_BiLSTM  ROC-AUC     3  0.952701       EfficientNetB2-BiLSTM  EfficientNetB2       BiLSTM
+98        Evaluation-EfficientNetB2_BiLSTM  ROC-AUC     4  0.962015       EfficientNetB2-BiLSTM  EfficientNetB2       BiLSTM
+99        Evaluation-EfficientNetB2_BiLSTM  ROC-AUC     5  0.965623       EfficientNetB2-BiLSTM  EfficientNetB2       BiLSTM
+100          Evaluation-EfficientNetB2_GRU  ROC-AUC     1  0.969500          EfficientNetB2-GRU  EfficientNetB2          GRU
+101          Evaluation-EfficientNetB2_GRU  ROC-AUC     2  0.970098          EfficientNetB2-GRU  EfficientNetB2          GRU
+102          Evaluation-EfficientNetB2_GRU  ROC-AUC     3  0.953585          EfficientNetB2-GRU  EfficientNetB2          GRU
+103          Evaluation-EfficientNetB2_GRU  ROC-AUC     4  0.959943          EfficientNetB2-GRU  EfficientNetB2          GRU
+104          Evaluation-EfficientNetB2_GRU  ROC-AUC     5  0.966162          EfficientNetB2-GRU  EfficientNetB2          GRU
+105         Evaluation-EfficientNetB2_LSTM  ROC-AUC     1  0.959480         EfficientNetB2-LSTM  EfficientNetB2         LSTM
+106         Evaluation-EfficientNetB2_LSTM  ROC-AUC     2  0.966048         EfficientNetB2-LSTM  EfficientNetB2         LSTM
+107         Evaluation-EfficientNetB2_LSTM  ROC-AUC     3  0.943104         EfficientNetB2-LSTM  EfficientNetB2         LSTM
+108         Evaluation-EfficientNetB2_LSTM  ROC-AUC     4  0.958464         EfficientNetB2-LSTM  EfficientNetB2         LSTM
+109         Evaluation-EfficientNetB2_LSTM  ROC-AUC     5  0.965107         EfficientNetB2-LSTM  EfficientNetB2         LSTM
+110   Evaluation-EfficientNetB2_Mamba-best  ROC-AUC     1  0.965737   EfficientNetB2-Mamba-best  EfficientNetB2        Mamba
+111   Evaluation-EfficientNetB2_Mamba-best  ROC-AUC     2  0.965130   EfficientNetB2-Mamba-best  EfficientNetB2        Mamba
+112   Evaluation-EfficientNetB2_Mamba-best  ROC-AUC     3  0.947239   EfficientNetB2-Mamba-best  EfficientNetB2        Mamba
+113   Evaluation-EfficientNetB2_Mamba-best  ROC-AUC     4  0.957105   EfficientNetB2-Mamba-best  EfficientNetB2        Mamba
+114   Evaluation-EfficientNetB2_Mamba-best  ROC-AUC     5  0.960183   EfficientNetB2-Mamba-best  EfficientNetB2        Mamba
+115  Evaluation-EfficientNetB2_Transformer  ROC-AUC     1  0.963521  EfficientNetB2-Transformer  EfficientNetB2  Transformer
+116  Evaluation-EfficientNetB2_Transformer  ROC-AUC     2  0.961694  EfficientNetB2-Transformer  EfficientNetB2  Transformer
+117  Evaluation-EfficientNetB2_Transformer  ROC-AUC     3  0.945425  EfficientNetB2-Transformer  EfficientNetB2  Transformer
+118  Evaluation-EfficientNetB2_Transformer  ROC-AUC     4  0.962564  EfficientNetB2-Transformer  EfficientNetB2  Transformer
+119  Evaluation-EfficientNetB2_Transformer  ROC-AUC     5  0.959006  EfficientNetB2-Transformer  EfficientNetB2  Transformer
+120           Evaluation-InceptionV3_BiGRU  ROC-AUC     1  0.975935           InceptionV3-BiGRU     InceptionV3        BiGRU
+121           Evaluation-InceptionV3_BiGRU  ROC-AUC     2  0.978658           InceptionV3-BiGRU     InceptionV3        BiGRU
+122           Evaluation-InceptionV3_BiGRU  ROC-AUC     3  0.974911           InceptionV3-BiGRU     InceptionV3        BiGRU
+123           Evaluation-InceptionV3_BiGRU  ROC-AUC     4  0.971530           InceptionV3-BiGRU     InceptionV3        BiGRU
+124           Evaluation-InceptionV3_BiGRU  ROC-AUC     5  0.985781           InceptionV3-BiGRU     InceptionV3        BiGRU
+125          Evaluation-InceptionV3_BiLSTM  ROC-AUC     1  0.973967          InceptionV3-BiLSTM     InceptionV3       BiLSTM
+126          Evaluation-InceptionV3_BiLSTM  ROC-AUC     2  0.979112          InceptionV3-BiLSTM     InceptionV3       BiLSTM
+127          Evaluation-InceptionV3_BiLSTM  ROC-AUC     3  0.973358          InceptionV3-BiLSTM     InceptionV3       BiLSTM
+128          Evaluation-InceptionV3_BiLSTM  ROC-AUC     4  0.977491          InceptionV3-BiLSTM     InceptionV3       BiLSTM
+129          Evaluation-InceptionV3_BiLSTM  ROC-AUC     5  0.980148          InceptionV3-BiLSTM     InceptionV3       BiLSTM
+130             Evaluation-InceptionV3_GRU  ROC-AUC     1  0.978840             InceptionV3-GRU     InceptionV3          GRU
+131             Evaluation-InceptionV3_GRU  ROC-AUC     2  0.982063             InceptionV3-GRU     InceptionV3          GRU
+132             Evaluation-InceptionV3_GRU  ROC-AUC     3  0.983948             InceptionV3-GRU     InceptionV3          GRU
+133             Evaluation-InceptionV3_GRU  ROC-AUC     4  0.965986             InceptionV3-GRU     InceptionV3          GRU
+134             Evaluation-InceptionV3_GRU  ROC-AUC     5  0.977376             InceptionV3-GRU     InceptionV3          GRU
+135            Evaluation-InceptionV3_LSTM  ROC-AUC     1  0.977975            InceptionV3-LSTM     InceptionV3         LSTM
+136            Evaluation-InceptionV3_LSTM  ROC-AUC     2  0.974948            InceptionV3-LSTM     InceptionV3         LSTM
+137            Evaluation-InceptionV3_LSTM  ROC-AUC     3  0.974379            InceptionV3-LSTM     InceptionV3         LSTM
+138            Evaluation-InceptionV3_LSTM  ROC-AUC     4  0.966584            InceptionV3-LSTM     InceptionV3         LSTM
+139            Evaluation-InceptionV3_LSTM  ROC-AUC     5  0.969435            InceptionV3-LSTM     InceptionV3         LSTM
+140      Evaluation-InceptionV3_Mamba-best  ROC-AUC     1  0.972652      InceptionV3-Mamba-best     InceptionV3        Mamba
+141      Evaluation-InceptionV3_Mamba-best  ROC-AUC     2  0.976783      InceptionV3-Mamba-best     InceptionV3        Mamba
+142      Evaluation-InceptionV3_Mamba-best  ROC-AUC     3  0.973418      InceptionV3-Mamba-best     InceptionV3        Mamba
+143      Evaluation-InceptionV3_Mamba-best  ROC-AUC     4  0.970411      InceptionV3-Mamba-best     InceptionV3        Mamba
+144      Evaluation-InceptionV3_Mamba-best  ROC-AUC     5  0.972654      InceptionV3-Mamba-best     InceptionV3        Mamba
+145     Evaluation-InceptionV3_Transformer  ROC-AUC     1  0.978789     InceptionV3-Transformer     InceptionV3  Transformer
+146     Evaluation-InceptionV3_Transformer  ROC-AUC     2  0.969872     InceptionV3-Transformer     InceptionV3  Transformer
+147     Evaluation-InceptionV3_Transformer  ROC-AUC     3  0.969457     InceptionV3-Transformer     InceptionV3  Transformer
+148     Evaluation-InceptionV3_Transformer  ROC-AUC     4  0.977641     InceptionV3-Transformer     InceptionV3  Transformer
+149     Evaluation-InceptionV3_Transformer  ROC-AUC     5  0.972227     InceptionV3-Transformer     InceptionV3  Transformer
+150             Evaluation-MobileNet_BiGRU  ROC-AUC     1  0.980933             MobileNet-BiGRU       MobileNet        BiGRU
+151             Evaluation-MobileNet_BiGRU  ROC-AUC     2  0.977602             MobileNet-BiGRU       MobileNet        BiGRU
+152             Evaluation-MobileNet_BiGRU  ROC-AUC     3  0.964765             MobileNet-BiGRU       MobileNet        BiGRU
+153             Evaluation-MobileNet_BiGRU  ROC-AUC     4  0.965132             MobileNet-BiGRU       MobileNet        BiGRU
+154             Evaluation-MobileNet_BiGRU  ROC-AUC     5  0.966473             MobileNet-BiGRU       MobileNet        BiGRU
+155            Evaluation-MobileNet_BiLSTM  ROC-AUC     1  0.980837            MobileNet-BiLSTM       MobileNet       BiLSTM
+156            Evaluation-MobileNet_BiLSTM  ROC-AUC     2  0.976961            MobileNet-BiLSTM       MobileNet       BiLSTM
+157            Evaluation-MobileNet_BiLSTM  ROC-AUC     3  0.964188            MobileNet-BiLSTM       MobileNet       BiLSTM
+158            Evaluation-MobileNet_BiLSTM  ROC-AUC     4  0.970862            MobileNet-BiLSTM       MobileNet       BiLSTM
+159            Evaluation-MobileNet_BiLSTM  ROC-AUC     5  0.975598            MobileNet-BiLSTM       MobileNet       BiLSTM
+160               Evaluation-MobileNet_GRU  ROC-AUC     1  0.977284               MobileNet-GRU       MobileNet          GRU
+161               Evaluation-MobileNet_GRU  ROC-AUC     2  0.975151               MobileNet-GRU       MobileNet          GRU
+162               Evaluation-MobileNet_GRU  ROC-AUC     3  0.953898               MobileNet-GRU       MobileNet          GRU
+163               Evaluation-MobileNet_GRU  ROC-AUC     4  0.969104               MobileNet-GRU       MobileNet          GRU
+164               Evaluation-MobileNet_GRU  ROC-AUC     5  0.973255               MobileNet-GRU       MobileNet          GRU
+165              Evaluation-MobileNet_LSTM  ROC-AUC     1  0.977899              MobileNet-LSTM       MobileNet         LSTM
+166              Evaluation-MobileNet_LSTM  ROC-AUC     2  0.973852              MobileNet-LSTM       MobileNet         LSTM
+167              Evaluation-MobileNet_LSTM  ROC-AUC     3  0.964922              MobileNet-LSTM       MobileNet         LSTM
+168              Evaluation-MobileNet_LSTM  ROC-AUC     4  0.957457              MobileNet-LSTM       MobileNet         LSTM
+169              Evaluation-MobileNet_LSTM  ROC-AUC     5  0.969606              MobileNet-LSTM       MobileNet         LSTM
+170        Evaluation-MobileNet_Mamba-best  ROC-AUC     1  0.974433        MobileNet-Mamba-best       MobileNet        Mamba
+171        Evaluation-MobileNet_Mamba-best  ROC-AUC     2  0.979950        MobileNet-Mamba-best       MobileNet        Mamba
+172        Evaluation-MobileNet_Mamba-best  ROC-AUC     3  0.966270        MobileNet-Mamba-best       MobileNet        Mamba
+173        Evaluation-MobileNet_Mamba-best  ROC-AUC     4  0.969900        MobileNet-Mamba-best       MobileNet        Mamba
+174        Evaluation-MobileNet_Mamba-best  ROC-AUC     5  0.976327        MobileNet-Mamba-best       MobileNet        Mamba
+175       Evaluation-MobileNet_Transformer  ROC-AUC     1  0.979322       MobileNet-Transformer       MobileNet  Transformer
+176       Evaluation-MobileNet_Transformer  ROC-AUC     2  0.974562       MobileNet-Transformer       MobileNet  Transformer
+177       Evaluation-MobileNet_Transformer  ROC-AUC     3  0.961795       MobileNet-Transformer       MobileNet  Transformer
+178       Evaluation-MobileNet_Transformer  ROC-AUC     4  0.971880       MobileNet-Transformer       MobileNet  Transformer
+179       Evaluation-MobileNet_Transformer  ROC-AUC     5  0.975430       MobileNet-Transformer       MobileNet  Transformer
+180             Evaluation-ResNet152_BiGRU  ROC-AUC     1  0.973406             ResNet152-BiGRU       ResNet152        BiGRU
+181             Evaluation-ResNet152_BiGRU  ROC-AUC     2  0.985685             ResNet152-BiGRU       ResNet152        BiGRU
+182             Evaluation-ResNet152_BiGRU  ROC-AUC     3  0.972247             ResNet152-BiGRU       ResNet152        BiGRU
+183             Evaluation-ResNet152_BiGRU  ROC-AUC     4  0.984166             ResNet152-BiGRU       ResNet152        BiGRU
+184             Evaluation-ResNet152_BiGRU  ROC-AUC     5  0.980865             ResNet152-BiGRU       ResNet152        BiGRU
+185            Evaluation-ResNet152_BiLSTM  ROC-AUC     1  0.985225            ResNet152-BiLSTM       ResNet152       BiLSTM
+186            Evaluation-ResNet152_BiLSTM  ROC-AUC     2  0.985516            ResNet152-BiLSTM       ResNet152       BiLSTM
+187            Evaluation-ResNet152_BiLSTM  ROC-AUC     3  0.978832            ResNet152-BiLSTM       ResNet152       BiLSTM
+188            Evaluation-ResNet152_BiLSTM  ROC-AUC     4  0.973791            ResNet152-BiLSTM       ResNet152       BiLSTM
+189            Evaluation-ResNet152_BiLSTM  ROC-AUC     5  0.981806            ResNet152-BiLSTM       ResNet152       BiLSTM
+190               Evaluation-ResNet152_GRU  ROC-AUC     1  0.982670               ResNet152-GRU       ResNet152          GRU
+191               Evaluation-ResNet152_GRU  ROC-AUC     2  0.981611               ResNet152-GRU       ResNet152          GRU
+192               Evaluation-ResNet152_GRU  ROC-AUC     3  0.978978               ResNet152-GRU       ResNet152          GRU
+193               Evaluation-ResNet152_GRU  ROC-AUC     4  0.979515               ResNet152-GRU       ResNet152          GRU
+194               Evaluation-ResNet152_GRU  ROC-AUC     5  0.975220               ResNet152-GRU       ResNet152          GRU
+195              Evaluation-ResNet152_LSTM  ROC-AUC     1  0.982214              ResNet152-LSTM       ResNet152         LSTM
+196              Evaluation-ResNet152_LSTM  ROC-AUC     2  0.981440              ResNet152-LSTM       ResNet152         LSTM
+197              Evaluation-ResNet152_LSTM  ROC-AUC     3  0.976188              ResNet152-LSTM       ResNet152         LSTM
+198              Evaluation-ResNet152_LSTM  ROC-AUC     4  0.969858              ResNet152-LSTM       ResNet152         LSTM
+199              Evaluation-ResNet152_LSTM  ROC-AUC     5  0.974886              ResNet152-LSTM       ResNet152         LSTM
+200        Evaluation-ResNet152_Mamba-best  ROC-AUC     1  0.976023        ResNet152-Mamba-best       ResNet152        Mamba
+201        Evaluation-ResNet152_Mamba-best  ROC-AUC     2  0.972627        ResNet152-Mamba-best       ResNet152        Mamba
+202        Evaluation-ResNet152_Mamba-best  ROC-AUC     3  0.959458        ResNet152-Mamba-best       ResNet152        Mamba
+203        Evaluation-ResNet152_Mamba-best  ROC-AUC     4  0.981685        ResNet152-Mamba-best       ResNet152        Mamba
+204        Evaluation-ResNet152_Mamba-best  ROC-AUC     5  0.980784        ResNet152-Mamba-best       ResNet152        Mamba
+205       Evaluation-ResNet152_Transformer  ROC-AUC     1  0.981990       ResNet152-Transformer       ResNet152  Transformer
+206       Evaluation-ResNet152_Transformer  ROC-AUC     2  0.983882       ResNet152-Transformer       ResNet152  Transformer
+207       Evaluation-ResNet152_Transformer  ROC-AUC     3  0.976560       ResNet152-Transformer       ResNet152  Transformer
+208       Evaluation-ResNet152_Transformer  ROC-AUC     4  0.981214       ResNet152-Transformer       ResNet152  Transformer
+209       Evaluation-ResNet152_Transformer  ROC-AUC     5  0.981695       ResNet152-Transformer       ResNet152  Transformer
+210              Evaluation-ResNet50_BiGRU  ROC-AUC     1  0.985297              ResNet50-BiGRU        ResNet50        BiGRU
+211              Evaluation-ResNet50_BiGRU  ROC-AUC     2  0.978973              ResNet50-BiGRU        ResNet50        BiGRU
+212              Evaluation-ResNet50_BiGRU  ROC-AUC     3  0.969146              ResNet50-BiGRU        ResNet50        BiGRU
+213              Evaluation-ResNet50_BiGRU  ROC-AUC     4  0.963725              ResNet50-BiGRU        ResNet50        BiGRU
+214              Evaluation-ResNet50_BiGRU  ROC-AUC     5  0.979439              ResNet50-BiGRU        ResNet50        BiGRU
+215             Evaluation-ResNet50_BiLSTM  ROC-AUC     1  0.980052             ResNet50-BiLSTM        ResNet50       BiLSTM
+216             Evaluation-ResNet50_BiLSTM  ROC-AUC     2  0.976226             ResNet50-BiLSTM        ResNet50       BiLSTM
+217             Evaluation-ResNet50_BiLSTM  ROC-AUC     3  0.973003             ResNet50-BiLSTM        ResNet50       BiLSTM
+218             Evaluation-ResNet50_BiLSTM  ROC-AUC     4  0.972229             ResNet50-BiLSTM        ResNet50       BiLSTM
+219             Evaluation-ResNet50_BiLSTM  ROC-AUC     5  0.974089             ResNet50-BiLSTM        ResNet50       BiLSTM
+220                Evaluation-ResNet50_GRU  ROC-AUC     1  0.976824                ResNet50-GRU        ResNet50          GRU
+221                Evaluation-ResNet50_GRU  ROC-AUC     2  0.975183                ResNet50-GRU        ResNet50          GRU
+222                Evaluation-ResNet50_GRU  ROC-AUC     3  0.970147                ResNet50-GRU        ResNet50          GRU
+223                Evaluation-ResNet50_GRU  ROC-AUC     4  0.974768                ResNet50-GRU        ResNet50          GRU
+224                Evaluation-ResNet50_GRU  ROC-AUC     5  0.971802                ResNet50-GRU        ResNet50          GRU
+225               Evaluation-ResNet50_LSTM  ROC-AUC     1  0.979520               ResNet50-LSTM        ResNet50         LSTM
+226               Evaluation-ResNet50_LSTM  ROC-AUC     2  0.979968               ResNet50-LSTM        ResNet50         LSTM
+227               Evaluation-ResNet50_LSTM  ROC-AUC     3  0.950606               ResNet50-LSTM        ResNet50         LSTM
+228               Evaluation-ResNet50_LSTM  ROC-AUC     4  0.968235               ResNet50-LSTM        ResNet50         LSTM
+229               Evaluation-ResNet50_LSTM  ROC-AUC     5  0.972940               ResNet50-LSTM        ResNet50         LSTM
+230         Evaluation-ResNet50_Mamba-best  ROC-AUC     1  0.965486         ResNet50-Mamba-best        ResNet50        Mamba
+231         Evaluation-ResNet50_Mamba-best  ROC-AUC     2  0.963857         ResNet50-Mamba-best        ResNet50        Mamba
+232         Evaluation-ResNet50_Mamba-best  ROC-AUC     3  0.954956         ResNet50-Mamba-best        ResNet50        Mamba
+233         Evaluation-ResNet50_Mamba-best  ROC-AUC     4  0.965976         ResNet50-Mamba-best        ResNet50        Mamba
+234         Evaluation-ResNet50_Mamba-best  ROC-AUC     5  0.967368         ResNet50-Mamba-best        ResNet50        Mamba
+235        Evaluation-ResNet50_Transformer  ROC-AUC     1  0.980757        ResNet50-Transformer        ResNet50  Transformer
+236        Evaluation-ResNet50_Transformer  ROC-AUC     2  0.979243        ResNet50-Transformer        ResNet50  Transformer
+237        Evaluation-ResNet50_Transformer  ROC-AUC     3  0.973866        ResNet50-Transformer        ResNet50  Transformer
+238        Evaluation-ResNet50_Transformer  ROC-AUC     4  0.977877        ResNet50-Transformer        ResNet50  Transformer
+239        Evaluation-ResNet50_Transformer  ROC-AUC     5  0.980260        ResNet50-Transformer        ResNet50  Transformer
+240                 Evaluation-VGG16_BiGRU  ROC-AUC     1  0.969811                 VGG16-BiGRU           VGG16        BiGRU
+241                 Evaluation-VGG16_BiGRU  ROC-AUC     2  0.964167                 VGG16-BiGRU           VGG16        BiGRU
+242                 Evaluation-VGG16_BiGRU  ROC-AUC     3  0.957041                 VGG16-BiGRU           VGG16        BiGRU
+243                 Evaluation-VGG16_BiGRU  ROC-AUC     4  0.960636                 VGG16-BiGRU           VGG16        BiGRU
+244                 Evaluation-VGG16_BiGRU  ROC-AUC     5  0.965165                 VGG16-BiGRU           VGG16        BiGRU
+245                Evaluation-VGG16_BiLSTM  ROC-AUC     1  0.968629                VGG16-BiLSTM           VGG16       BiLSTM
+246                Evaluation-VGG16_BiLSTM  ROC-AUC     2  0.971967                VGG16-BiLSTM           VGG16       BiLSTM
+247                Evaluation-VGG16_BiLSTM  ROC-AUC     3  0.960346                VGG16-BiLSTM           VGG16       BiLSTM
+248                Evaluation-VGG16_BiLSTM  ROC-AUC     4  0.972049                VGG16-BiLSTM           VGG16       BiLSTM
+249                Evaluation-VGG16_BiLSTM  ROC-AUC     5  0.969008                VGG16-BiLSTM           VGG16       BiLSTM
+250                   Evaluation-VGG16_GRU  ROC-AUC     1  0.978096                   VGG16-GRU           VGG16          GRU
+251                   Evaluation-VGG16_GRU  ROC-AUC     2  0.976477                   VGG16-GRU           VGG16          GRU
+252                   Evaluation-VGG16_GRU  ROC-AUC     3  0.952048                   VGG16-GRU           VGG16          GRU
+253                   Evaluation-VGG16_GRU  ROC-AUC     4  0.955037                   VGG16-GRU           VGG16          GRU
+254                   Evaluation-VGG16_GRU  ROC-AUC     5  0.971714                   VGG16-GRU           VGG16          GRU
+255                  Evaluation-VGG16_LSTM  ROC-AUC     1  0.972818                  VGG16-LSTM           VGG16         LSTM
+256                  Evaluation-VGG16_LSTM  ROC-AUC     2  0.968606                  VGG16-LSTM           VGG16         LSTM
+257                  Evaluation-VGG16_LSTM  ROC-AUC     3  0.952156                  VGG16-LSTM           VGG16         LSTM
+258                  Evaluation-VGG16_LSTM  ROC-AUC     4  0.968345                  VGG16-LSTM           VGG16         LSTM
+259                  Evaluation-VGG16_LSTM  ROC-AUC     5  0.972376                  VGG16-LSTM           VGG16         LSTM
+260            Evaluation-VGG16_Mamba-best  ROC-AUC     1  0.949605            VGG16-Mamba-best           VGG16        Mamba
+261            Evaluation-VGG16_Mamba-best  ROC-AUC     2  0.937066            VGG16-Mamba-best           VGG16        Mamba
+262            Evaluation-VGG16_Mamba-best  ROC-AUC     3  0.937963            VGG16-Mamba-best           VGG16        Mamba
+263            Evaluation-VGG16_Mamba-best  ROC-AUC     4  0.951632            VGG16-Mamba-best           VGG16        Mamba
+264            Evaluation-VGG16_Mamba-best  ROC-AUC     5  0.950218            VGG16-Mamba-best           VGG16        Mamba
+265           Evaluation-VGG16_Transformer  ROC-AUC     1  0.958646           VGG16-Transformer           VGG16  Transformer
+266           Evaluation-VGG16_Transformer  ROC-AUC     2  0.972748           VGG16-Transformer           VGG16  Transformer
+267           Evaluation-VGG16_Transformer  ROC-AUC     3  0.946751           VGG16-Transformer           VGG16  Transformer
+268           Evaluation-VGG16_Transformer  ROC-AUC     4  0.967366           VGG16-Transformer           VGG16  Transformer
+269           Evaluation-VGG16_Transformer  ROC-AUC     5  0.966095           VGG16-Transformer           VGG16  Transformer
+270                 Evaluation-VGG19_BiGRU  ROC-AUC     1  0.973713                 VGG19-BiGRU           VGG19        BiGRU
+271                 Evaluation-VGG19_BiGRU  ROC-AUC     2  0.979633                 VGG19-BiGRU           VGG19        BiGRU
+272                 Evaluation-VGG19_BiGRU  ROC-AUC     3  0.947387                 VGG19-BiGRU           VGG19        BiGRU
+273                 Evaluation-VGG19_BiGRU  ROC-AUC     4  0.954673                 VGG19-BiGRU           VGG19        BiGRU
+274                 Evaluation-VGG19_BiGRU  ROC-AUC     5  0.968106                 VGG19-BiGRU           VGG19        BiGRU
+275                Evaluation-VGG19_BiLSTM  ROC-AUC     1  0.975019                VGG19-BiLSTM           VGG19       BiLSTM
+276                Evaluation-VGG19_BiLSTM  ROC-AUC     2  0.978161                VGG19-BiLSTM           VGG19       BiLSTM
+277                Evaluation-VGG19_BiLSTM  ROC-AUC     3  0.957837                VGG19-BiLSTM           VGG19       BiLSTM
+278                Evaluation-VGG19_BiLSTM  ROC-AUC     4  0.971856                VGG19-BiLSTM           VGG19       BiLSTM
+279                Evaluation-VGG19_BiLSTM  ROC-AUC     5  0.964711                VGG19-BiLSTM           VGG19       BiLSTM
+280                   Evaluation-VGG19_GRU  ROC-AUC     1  0.973173                   VGG19-GRU           VGG19          GRU
+281                   Evaluation-VGG19_GRU  ROC-AUC     2  0.978725                   VGG19-GRU           VGG19          GRU
+282                   Evaluation-VGG19_GRU  ROC-AUC     3  0.941871                   VGG19-GRU           VGG19          GRU
+283                   Evaluation-VGG19_GRU  ROC-AUC     4  0.968531                   VGG19-GRU           VGG19          GRU
+284                   Evaluation-VGG19_GRU  ROC-AUC     5  0.976683                   VGG19-GRU           VGG19          GRU
+285                  Evaluation-VGG19_LSTM  ROC-AUC     1  0.968638                  VGG19-LSTM           VGG19         LSTM
+286                  Evaluation-VGG19_LSTM  ROC-AUC     2  0.964430                  VGG19-LSTM           VGG19         LSTM
+287                  Evaluation-VGG19_LSTM  ROC-AUC     3  0.958364                  VGG19-LSTM           VGG19         LSTM
+288                  Evaluation-VGG19_LSTM  ROC-AUC     4  0.966777                  VGG19-LSTM           VGG19         LSTM
+289                  Evaluation-VGG19_LSTM  ROC-AUC     5  0.977578                  VGG19-LSTM           VGG19         LSTM
+290            Evaluation-VGG19_Mamba-best  ROC-AUC     1  0.962305            VGG19-Mamba-best           VGG19        Mamba
+291            Evaluation-VGG19_Mamba-best  ROC-AUC     2  0.954284            VGG19-Mamba-best           VGG19        Mamba
+292            Evaluation-VGG19_Mamba-best  ROC-AUC     3  0.948543            VGG19-Mamba-best           VGG19        Mamba
+293            Evaluation-VGG19_Mamba-best  ROC-AUC     4  0.950568            VGG19-Mamba-best           VGG19        Mamba
+294            Evaluation-VGG19_Mamba-best  ROC-AUC     5  0.939131            VGG19-Mamba-best           VGG19        Mamba
+295           Evaluation-VGG19_Transformer  ROC-AUC     1  0.968425           VGG19-Transformer           VGG19  Transformer
+296           Evaluation-VGG19_Transformer  ROC-AUC     2  0.974377           VGG19-Transformer           VGG19  Transformer
+297           Evaluation-VGG19_Transformer  ROC-AUC     3  0.947109           VGG19-Transformer           VGG19  Transformer
+298           Evaluation-VGG19_Transformer  ROC-AUC     4  0.952715           VGG19-Transformer           VGG19  Transformer
+299           Evaluation-VGG19_Transformer  ROC-AUC     5  0.975070           VGG19-Transformer           VGG19  Transformer
+
+Metric
+ROC-AUC    0.969687
+
+ResNet152 -> [97.86678818448993] [ AVG = 97.86678818448993 ]
+DenseNet121 -> [97.63901648472905] [ AVG = 97.63901648472905 ]
+DenseNet201 -> [97.53423618607202] [ AVG = 97.53423618607202 ]
+InceptionV3 -> [97.52109894414664] [ AVG = 97.52109894414664 ]
+ResNet50 -> [97.27272668870232] [ AVG = 97.27272668870232 ]
+MobileNet -> [97.15216170253473] [ AVG = 97.15216170253473 ]
+VGG19 -> [96.3946433661532] [ AVG = 96.3946433661532 ]
+VGG16 -> [96.21526560011725] [ AVG = 96.21526560011725 ]
+EfficientNetB2 -> [96.11677899247927] [ AVG = 96.11677899247927 ]
+EfficientNetB0 -> [95.97394182681707] [ AVG = 95.97394182681707 ]
+
+
+BiLSTM -> [97.28663081130463] [ AVG = 97.28663081130463 ]
+GRU -> [97.1272221636111] [ AVG = 97.1272221636111 ]
+BiGRU -> [97.07743927923062] [ AVG = 97.07743927923062 ]
+Transformer -> [96.96067382506459] [ AVG = 96.96067382506459 ]
+LSTM -> [96.86700138422225] [ AVG = 96.86700138422225 ]
+Mamba -> [96.49302732231172] [ AVG = 96.49302732231172 ]
+
+
+ResNet152-Transformer -> [ AVG = 0.9810681467468008 ]
+ResNet152-BiLSTM -> [ AVG = 0.981033992963513 ]
+DenseNet121-BiLSTM -> [ AVG = 0.9797868402667159 ]
+ResNet152-GRU -> [ AVG = 0.9795986624167332 ]
+DenseNet201-BiLSTM -> [ AVG = 0.9793016854458845 ]
+ResNet152-BiGRU -> [ AVG = 0.9792738973538491 ]
+ResNet50-Transformer -> [ AVG = 0.9784005000066942 ]
+DenseNet121-GRU -> [ AVG = 0.9782989708143701 ]
+InceptionV3-GRU -> [ AVG = 0.9776427454338175 ]
+InceptionV3-BiGRU -> [ AVG = 0.9773631308626702 ]
+ResNet152-LSTM -> [ AVG = 0.9769173160923348 ]
+InceptionV3-BiLSTM -> [ AVG = 0.9768152346150808 ]
+DenseNet121-BiGRU -> [ AVG = 0.9765544418513474 ]
+DenseNet121-Transformer -> [ AVG = 0.9761838903154517 ]
+DenseNet121-LSTM -> [ AVG = 0.9755602555007131 ]
+DenseNet201-GRU -> [ AVG = 0.9753331990913081 ]
+ResNet50-BiGRU -> [ AVG = 0.9753161049312122 ]
+ResNet50-BiLSTM -> [ AVG = 0.9751198723605112 ]
+DenseNet201-BiGRU -> [ AVG = 0.9748344266699878 ]
+DenseNet201-Mamba-best -> [ AVG = 0.97469459997934 ]
+DenseNet201-LSTM -> [ AVG = 0.9743565811983717 ]
+ResNet152-Mamba-best -> [ AVG = 0.9741152754961652 ]
+ResNet50-GRU -> [ AVG = 0.9737447598335646 ]
+MobileNet-BiLSTM -> [ AVG = 0.9736890373874697 ]
+InceptionV3-Transformer -> [ AVG = 0.9735972889747042 ]
+DenseNet201-Transformer -> [ AVG = 0.9735336787794283 ]
+MobileNet-Mamba-best -> [ AVG = 0.9733761482289633 ]
+InceptionV3-Mamba-best -> [ AVG = 0.9731834993547397 ]
+InceptionV3-LSTM -> [ AVG = 0.9726640374077858 ]
+MobileNet-Transformer -> [ AVG = 0.9725977155970156 ]
+DenseNet121-Mamba-best -> [ AVG = 0.9719565903351455 ]
+MobileNet-BiGRU -> [ AVG = 0.9709808765636284 ]
+ResNet50-LSTM -> [ AVG = 0.9702538968070324 ]
+MobileNet-GRU -> [ AVG = 0.9697384197491722 ]
+VGG19-BiLSTM -> [ AVG = 0.9695168020626674 ]
+MobileNet-LSTM -> [ AVG = 0.9687475046258353 ]
+VGG16-BiLSTM -> [ AVG = 0.9683998274791081 ]
+VGG19-GRU -> [ AVG = 0.9677967928371984 ]
+VGG19-LSTM -> [ AVG = 0.9671573589742322 ]
+VGG16-LSTM -> [ AVG = 0.9668601705816403 ]
+VGG16-GRU -> [ AVG = 0.9666741641334952 ]
+VGG19-BiGRU -> [ AVG = 0.9647023258173621 ]
+EfficientNetB2-GRU -> [ AVG = 0.9638577916122735 ]
+EfficientNetB2-BiLSTM -> [ AVG = 0.9638089113940458 ]
+VGG19-Transformer -> [ AVG = 0.9635391405570151 ]
+ResNet50-Mamba-best -> [ AVG = 0.9635284673831237 ]
+EfficientNetB2-BiGRU -> [ AVG = 0.963378436281717 ]
+VGG16-BiGRU -> [ AVG = 0.9633638678557226 ]
+EfficientNetB0-Mamba-best -> [ AVG = 0.9631062015827272 ]
+VGG16-Transformer -> [ AVG = 0.9623211758538337 ]
+EfficientNetB0-BiGRU -> [ AVG = 0.9619764197355642 ]
+EfficientNetB0-BiLSTM -> [ AVG = 0.961190877155466 ]
+EfficientNetB0-GRU -> [ AVG = 0.9600367104391765 ]
+EfficientNetB2-Mamba-best -> [ AVG = 0.9590790380470147 ]
+EfficientNetB2-Transformer -> [ AVG = 0.9584420272375003 ]
+EfficientNetB2-LSTM -> [ AVG = 0.9584405349762048 ]
+EfficientNetB0-Transformer -> [ AVG = 0.9563838184380147 ]
+EfficientNetB0-LSTM -> [ AVG = 0.9557424822580748 ]
+VGG19-Mamba-best -> [ AVG = 0.9509661817207178 ]
+VGG16-Mamba-best -> [ AVG = 0.9452967301032349 ]

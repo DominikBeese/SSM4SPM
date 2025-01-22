@@ -1,0 +1,426 @@
+[
+ {
+  "caseId": 709,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 712,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 713,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 714,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 716,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 717,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 726,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 730,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 742,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 769,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 800,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 848,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 854,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 3201,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 3459,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 3884,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 4687,
+  "irregularity": null
+ },
+ {
+  "caseId": 4693,
+  "irregularity": null
+ },
+ {
+  "caseId": 4695,
+  "irregularity": null
+ },
+ {
+  "caseId": 4697,
+  "irregularity": null
+ },
+ {
+  "caseId": 4709,
+  "irregularity": null
+ },
+ {
+  "caseId": 4750,
+  "irregularity": null
+ },
+ {
+  "caseId": 4811,
+  "irregularity": null
+ },
+ {
+  "caseId": 4816,
+  "irregularity": null
+ },
+ {
+  "caseId": 4852,
+  "irregularity": null
+ },
+ {
+  "caseId": 4859,
+  "irregularity": null
+ },
+ {
+  "caseId": 4863,
+  "irregularity": null
+ },
+ {
+  "caseId": 4864,
+  "irregularity": null
+ },
+ {
+  "caseId": 4874,
+  "irregularity": null
+ },
+ {
+  "caseId": 4888,
+  "irregularity": null
+ },
+ {
+  "caseId": 4899,
+  "irregularity": null
+ },
+ {
+  "caseId": 4906,
+  "irregularity": null
+ },
+ {
+  "caseId": 4923,
+  "irregularity": null
+ },
+ {
+  "caseId": 4924,
+  "irregularity": null
+ },
+ {
+  "caseId": 4927,
+  "irregularity": null
+ },
+ {
+  "caseId": 4939,
+  "irregularity": null
+ },
+ {
+  "caseId": 4999,
+  "irregularity": null
+ },
+ {
+  "caseId": 5004,
+  "irregularity": null
+ },
+ {
+  "caseId": 5006,
+  "irregularity": null
+ },
+ {
+  "caseId": 5011,
+  "irregularity": null
+ },
+ {
+  "caseId": 5013,
+  "irregularity": null
+ },
+ {
+  "caseId": 5014,
+  "irregularity": null
+ },
+ {
+  "caseId": 5015,
+  "irregularity": null
+ },
+ {
+  "caseId": 5016,
+  "irregularity": null
+ },
+ {
+  "caseId": 5017,
+  "irregularity": null
+ },
+ {
+  "caseId": 5032,
+  "irregularity": null
+ },
+ {
+  "caseId": 5051,
+  "irregularity": null
+ },
+ {
+  "caseId": 5057,
+  "irregularity": null
+ },
+ {
+  "caseId": 5058,
+  "irregularity": null
+ },
+ {
+  "caseId": 5063,
+  "irregularity": null
+ },
+ {
+  "caseId": 5072,
+  "irregularity": null
+ },
+ {
+  "caseId": 5104,
+  "irregularity": null
+ },
+ {
+  "caseId": 5180,
+  "irregularity": null
+ },
+ {
+  "caseId": 5261,
+  "irregularity": null
+ },
+ {
+  "caseId": 5299,
+  "irregularity": null
+ },
+ {
+  "caseId": 5300,
+  "irregularity": null
+ },
+ {
+  "caseId": 5301,
+  "irregularity": null
+ },
+ {
+  "caseId": 5303,
+  "irregularity": null
+ },
+ {
+  "caseId": 5304,
+  "irregularity": null
+ },
+ {
+  "caseId": 5305,
+  "irregularity": null
+ },
+ {
+  "caseId": 5309,
+  "irregularity": null
+ },
+ {
+  "caseId": 5311,
+  "irregularity": null
+ },
+ {
+  "caseId": 5314,
+  "irregularity": null
+ },
+ {
+  "caseId": 5315,
+  "irregularity": null
+ },
+ {
+  "caseId": 5316,
+  "irregularity": null
+ },
+ {
+  "caseId": 5317,
+  "irregularity": null
+ },
+ {
+  "caseId": 5319,
+  "irregularity": null
+ },
+ {
+  "caseId": 5325,
+  "irregularity": null
+ },
+ {
+  "caseId": 5329,
+  "irregularity": null
+ },
+ {
+  "caseId": 5331,
+  "irregularity": null
+ },
+ {
+  "caseId": 5334,
+  "irregularity": null
+ },
+ {
+  "caseId": 5335,
+  "irregularity": null
+ },
+ {
+  "caseId": 5340,
+  "irregularity": null
+ },
+ {
+  "caseId": 5353,
+  "irregularity": null
+ },
+ {
+  "caseId": 5357,
+  "irregularity": null
+ },
+ {
+  "caseId": 5419,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 5693,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 7380,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 7764,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 7868,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 8039,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 8041,
+  "irregularity": "IOL Rotation"
+ },
+ {
+  "caseId": 8114,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8124,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8138,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8147,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8150,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8157,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8167,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8171,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8175,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8182,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8185,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8197,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8200,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8223,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8228,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8255,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8293,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8297,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8302,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8316,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8347,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8349,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8417,
+  "irregularity": "Pupil Contraction"
+ },
+ {
+  "caseId": 8441,
+  "irregularity": "Pupil Contraction"
+ }
+]

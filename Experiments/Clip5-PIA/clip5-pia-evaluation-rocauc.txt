@@ -1,0 +1,39 @@
+                                Experiment Training Evaluation   Metric  File     Value                        Model        CNN          RNN
+0      Evaluation-ResNet152_Transformer-IA       IA         IA  ROC-AUC     1  0.956402     ResNet152-Transformer-IA  ResNet152  Transformer
+1      Evaluation-ResNet152_Transformer-IA     IA+P         IA  ROC-AUC     1  0.956402     ResNet152-Transformer-IA  ResNet152  Transformer
+2      Evaluation-ResNet152_Transformer-IA       IA         IA  ROC-AUC     2  0.950076     ResNet152-Transformer-IA  ResNet152  Transformer
+3      Evaluation-ResNet152_Transformer-IA     IA+P         IA  ROC-AUC     2  0.950076     ResNet152-Transformer-IA  ResNet152  Transformer
+4      Evaluation-ResNet152_Transformer-IA       IA         IA  ROC-AUC     3  0.962477     ResNet152-Transformer-IA  ResNet152  Transformer
+5      Evaluation-ResNet152_Transformer-IA     IA+P         IA  ROC-AUC     3  0.962477     ResNet152-Transformer-IA  ResNet152  Transformer
+6      Evaluation-ResNet152_Transformer-IA       IA         IA  ROC-AUC     4  0.963744     ResNet152-Transformer-IA  ResNet152  Transformer
+7      Evaluation-ResNet152_Transformer-IA     IA+P         IA  ROC-AUC     4  0.963744     ResNet152-Transformer-IA  ResNet152  Transformer
+8      Evaluation-ResNet152_Transformer-IA       IA         IA  ROC-AUC     5  0.964797     ResNet152-Transformer-IA  ResNet152  Transformer
+9      Evaluation-ResNet152_Transformer-IA     IA+P         IA  ROC-AUC     5  0.964797     ResNet152-Transformer-IA  ResNet152  Transformer
+10  Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  ROC-AUC     1  0.881092  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+11  Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  ROC-AUC     2  0.912604  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+12  Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  ROC-AUC     3  0.917348  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+13  Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  ROC-AUC     4  0.881145  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+14  Evaluation-ResNet152_Transformer-IAP-P     IA+P          P  ROC-AUC     5  0.876733  ResNet152-Transformer-IAP-P  ResNet152  Transformer
+15      Evaluation-ResNet152_Transformer-P        P          P  ROC-AUC     1  0.911782      ResNet152-Transformer-P  ResNet152  Transformer
+16      Evaluation-ResNet152_Transformer-P        P          P  ROC-AUC     2  0.955565      ResNet152-Transformer-P  ResNet152  Transformer
+17      Evaluation-ResNet152_Transformer-P        P          P  ROC-AUC     3  0.950320      ResNet152-Transformer-P  ResNet152  Transformer
+18      Evaluation-ResNet152_Transformer-P        P          P  ROC-AUC     4  0.959575      ResNet152-Transformer-P  ResNet152  Transformer
+19      Evaluation-ResNet152_Transformer-P        P          P  ROC-AUC     5  0.944509      ResNet152-Transformer-P  ResNet152  Transformer
+20    Evaluation-ResNet152_Transformer-PIA      PIA          P  ROC-AUC     1  0.913292    ResNet152-Transformer-PIA  ResNet152  Transformer
+21    Evaluation-ResNet152_Transformer-PIA      PIA          P  ROC-AUC     2  0.961135    ResNet152-Transformer-PIA  ResNet152  Transformer
+22    Evaluation-ResNet152_Transformer-PIA      PIA          P  ROC-AUC     3  0.948258    ResNet152-Transformer-PIA  ResNet152  Transformer
+23    Evaluation-ResNet152_Transformer-PIA      PIA          P  ROC-AUC     4  0.932781    ResNet152-Transformer-PIA  ResNet152  Transformer
+24    Evaluation-ResNet152_Transformer-PIA      PIA          P  ROC-AUC     5  0.939929    ResNet152-Transformer-PIA  ResNet152  Transformer
+25    Evaluation-ResNet152_Transformer-PIA      PIA         IA  ROC-AUC     1  0.874963    ResNet152-Transformer-PIA  ResNet152  Transformer
+26    Evaluation-ResNet152_Transformer-PIA      PIA         IA  ROC-AUC     2  0.967782    ResNet152-Transformer-PIA  ResNet152  Transformer
+27    Evaluation-ResNet152_Transformer-PIA      PIA         IA  ROC-AUC     3  0.961357    ResNet152-Transformer-PIA  ResNet152  Transformer
+28    Evaluation-ResNet152_Transformer-PIA      PIA         IA  ROC-AUC     4  0.974583    ResNet152-Transformer-PIA  ResNet152  Transformer
+29    Evaluation-ResNet152_Transformer-PIA      PIA         IA  ROC-AUC     5  0.961808    ResNet152-Transformer-PIA  ResNet152  Transformer
+
+Evaluation  Training  Metric 
+IA          IA        ROC-AUC    0.959499
+            IA+P      ROC-AUC    0.959499
+            PIA       ROC-AUC    0.948099
+P           IA+P      ROC-AUC    0.893784
+            P         ROC-AUC    0.944350
+            PIA       ROC-AUC    0.939079

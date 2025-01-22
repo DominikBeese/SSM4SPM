@@ -1,0 +1,866 @@
+[
+ {
+  "caseId": 709,
+  "frames": 14023,
+  "length": 467.43333333333334,
+  "irregularities": true
+ },
+ {
+  "caseId": 712,
+  "frames": 22879,
+  "length": 762.6333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 713,
+  "frames": 13782,
+  "length": 459.4,
+  "irregularities": true
+ },
+ {
+  "caseId": 714,
+  "frames": 8558,
+  "length": 285.26666666666665,
+  "irregularities": true
+ },
+ {
+  "caseId": 716,
+  "frames": 7216,
+  "length": 240.53333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 717,
+  "frames": 12796,
+  "length": 426.53333333333336,
+  "irregularities": true
+ },
+ {
+  "caseId": 726,
+  "frames": 19574,
+  "length": 652.4666666666667,
+  "irregularities": true
+ },
+ {
+  "caseId": 730,
+  "frames": 30472,
+  "length": 1015.7333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 742,
+  "frames": 18941,
+  "length": 631.3666666666667,
+  "irregularities": true
+ },
+ {
+  "caseId": 769,
+  "frames": 12922,
+  "length": 430.73333333333335,
+  "irregularities": true
+ },
+ {
+  "caseId": 800,
+  "frames": 10398,
+  "length": 346.6,
+  "irregularities": true
+ },
+ {
+  "caseId": 848,
+  "frames": 25115,
+  "length": 837.1666666666666,
+  "irregularities": true
+ },
+ {
+  "caseId": 854,
+  "frames": 32239,
+  "length": 1074.6333333333334,
+  "irregularities": true
+ },
+ {
+  "caseId": 3201,
+  "frames": 13058,
+  "length": 435.26666666666665,
+  "irregularities": true
+ },
+ {
+  "caseId": 3459,
+  "frames": 7002,
+  "length": 233.4,
+  "irregularities": true
+ },
+ {
+  "caseId": 3884,
+  "frames": 6139,
+  "length": 204.63333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 4687,
+  "physician": "PU",
+  "date": "2021-05-10 10:55:00",
+  "frames": 8699,
+  "length": 289.96666666666664,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4693,
+  "physician": "Sa",
+  "date": "2021-05-10 12:04:00",
+  "frames": 7848,
+  "length": 261.6,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4695,
+  "physician": "Sa",
+  "date": "2021-05-10 12:33:00",
+  "frames": 10075,
+  "length": 335.8333333333333,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4697,
+  "physician": "Pu",
+  "date": "2021-05-10 12:55:00",
+  "frames": 7235,
+  "length": 241.16666666666666,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4709,
+  "physician": "Ba",
+  "date": "2021-05-11 11:13:00",
+  "frames": 14883,
+  "length": 496.1,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4750,
+  "physician": "Chef",
+  "date": "2021-05-17 08:53:00",
+  "frames": 10276,
+  "length": 342.53333333333336,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4811,
+  "physician": "Ba",
+  "date": "2021-05-19 12:46:00",
+  "frames": 12435,
+  "length": 414.5,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4816,
+  "physician": "Ba",
+  "date": "2021-05-19 13:49:00",
+  "frames": 10424,
+  "length": 347.46666666666664,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4852,
+  "physician": "wi",
+  "date": "2021-05-25 08:28:00",
+  "frames": 17552,
+  "length": 585.0666666666667,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4859,
+  "physician": "Wi",
+  "date": "2021-05-25 10:52:00",
+  "frames": 18362,
+  "length": 612.0666666666667,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4863,
+  "physician": "Wi",
+  "date": "2021-05-25 12:14:00",
+  "frames": 13290,
+  "length": 443.0,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4864,
+  "physician": "Wi",
+  "date": "2021-05-25 12:29:00",
+  "frames": 16704,
+  "length": 556.8,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4874,
+  "physician": "BA",
+  "date": "2021-05-25 13:02:00",
+  "frames": 9526,
+  "length": 317.53333333333336,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4888,
+  "physician": "PU",
+  "date": "2021-05-26 11:30:00",
+  "frames": 8602,
+  "length": 286.73333333333335,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4899,
+  "physician": "Sto",
+  "date": "2021-05-27 08:58:00",
+  "frames": 13895,
+  "length": 463.1666666666667,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4906,
+  "physician": "Sto",
+  "date": "2021-05-27 11:19:00",
+  "frames": 11827,
+  "length": 394.23333333333335,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4923,
+  "physician": "WI",
+  "date": "2021-05-28 10:18:00",
+  "frames": 18613,
+  "length": 620.4333333333333,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4924,
+  "physician": "WI",
+  "date": "2021-05-28 10:37:00",
+  "frames": 17074,
+  "length": 569.1333333333333,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4927,
+  "physician": "WI",
+  "date": "2021-05-28 12:07:00",
+  "frames": 19780,
+  "length": 659.3333333333334,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4939,
+  "physician": "Sa",
+  "date": "2021-05-31 09:50:00",
+  "frames": 9051,
+  "length": 301.7,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 4999,
+  "physician": "GL",
+  "date": "2021-06-07 08:06:00",
+  "frames": 10897,
+  "length": 363.23333333333335,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5004,
+  "physician": "GL",
+  "date": "2021-06-07 09:09:00",
+  "frames": 10599,
+  "length": 353.3,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5006,
+  "physician": "GL",
+  "date": "2021-06-07 09:35:00",
+  "frames": 10761,
+  "length": 358.7,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5011,
+  "physician": "GL",
+  "date": "2021-06-07 10:45:00",
+  "frames": 10675,
+  "length": 355.8333333333333,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5013,
+  "physician": "GL",
+  "date": "2021-06-07 11:12:00",
+  "frames": 10160,
+  "length": 338.6666666666667,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5014,
+  "physician": "GL",
+  "date": "2021-06-07 11:24:00",
+  "frames": 11826,
+  "length": 394.2,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5015,
+  "physician": "GL",
+  "date": "2021-06-07 11:40:00",
+  "frames": 10035,
+  "length": 334.5,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5016,
+  "physician": "GL",
+  "date": "2021-06-07 11:54:00",
+  "frames": 10964,
+  "length": 365.46666666666664,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5017,
+  "physician": "PU",
+  "date": "2021-06-07 12:11:00",
+  "frames": 10181,
+  "length": 339.3666666666667,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5032,
+  "physician": "Pu",
+  "date": "2021-06-08 11:28:00",
+  "frames": 9096,
+  "length": 303.2,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5051,
+  "physician": "BA",
+  "date": "2021-06-10 09:30:00",
+  "frames": 8549,
+  "length": 284.96666666666664,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5057,
+  "physician": "BA",
+  "date": "2021-06-10 10:57:00",
+  "frames": 10566,
+  "length": 352.2,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5058,
+  "physician": "BA",
+  "date": "2021-06-10 11:10:00",
+  "frames": 11878,
+  "length": 395.93333333333334,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5063,
+  "physician": "BA",
+  "date": "2021-06-10 12:24:00",
+  "frames": 11117,
+  "length": 370.56666666666666,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5072,
+  "physician": "Ba",
+  "date": "2021-06-14 09:39:00",
+  "frames": 9868,
+  "length": 328.93333333333334,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5104,
+  "physician": "Ra",
+  "date": "2021-06-16 12:18:00",
+  "frames": 28651,
+  "length": 955.0333333333333,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5180,
+  "frames": 14143,
+  "length": 471.43333333333334,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5261,
+  "physician": "PU",
+  "date": "2021-07-06 11:18:00",
+  "frames": 11221,
+  "length": 374.03333333333336,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5299,
+  "frames": 10285,
+  "length": 342.8333333333333,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5300,
+  "physician": "Ba",
+  "date": "2021-07-12 08:48:00",
+  "frames": 9214,
+  "length": 307.1333333333333,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5301,
+  "physician": "Ba",
+  "date": "2021-07-12 09:01:00",
+  "frames": 7910,
+  "length": 263.6666666666667,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5303,
+  "physician": "Ba",
+  "date": "2021-07-12 09:28:00",
+  "frames": 7996,
+  "length": 266.53333333333336,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5304,
+  "physician": "Ba",
+  "date": "2021-07-12 09:39:00",
+  "frames": 7748,
+  "length": 258.26666666666665,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5305,
+  "physician": "Ba",
+  "date": "2021-07-12 09:50:00",
+  "frames": 10930,
+  "length": 364.3333333333333,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5309,
+  "physician": "Ba",
+  "date": "2021-07-12 10:51:00",
+  "frames": 10075,
+  "length": 335.8333333333333,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5311,
+  "physician": "Ba",
+  "date": "2021-07-12 11:20:00",
+  "frames": 11962,
+  "length": 398.73333333333335,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5314,
+  "physician": "Ba",
+  "date": "2021-07-12 11:59:00",
+  "frames": 10239,
+  "length": 341.3,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5315,
+  "physician": "Ba",
+  "date": "2021-07-12 12:11:00",
+  "frames": 11096,
+  "length": 369.8666666666667,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5316,
+  "physician": "Ba",
+  "date": "2021-07-12 12:24:00",
+  "frames": 10239,
+  "length": 341.3,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5317,
+  "physician": "Ba ",
+  "date": "2021-07-12 12:39:00",
+  "frames": 9058,
+  "length": 301.93333333333334,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5319,
+  "physician": "St",
+  "date": "2021-07-13 08:58:00",
+  "frames": 16534,
+  "length": 551.1333333333333,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5325,
+  "frames": 14129,
+  "length": 470.96666666666664,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5329,
+  "physician": "GL",
+  "date": "2021-07-14 09:08:00",
+  "frames": 11235,
+  "length": 374.5,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5331,
+  "physician": "GL",
+  "date": "2021-07-14 09:33:00",
+  "frames": 11258,
+  "length": 375.26666666666665,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5334,
+  "physician": "GL",
+  "date": "2021-07-14 10:12:00",
+  "frames": 11686,
+  "length": 389.53333333333336,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5335,
+  "physician": "GL",
+  "date": "2021-07-14 10:26:00",
+  "frames": 11014,
+  "length": 367.1333333333333,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5340,
+  "physician": "GL",
+  "date": "2021-07-14 11:45:00",
+  "frames": 10820,
+  "length": 360.6666666666667,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5353,
+  "physician": "GL",
+  "date": "2021-07-16 08:29:00",
+  "frames": 9543,
+  "length": 318.1,
+  "phases": true,
+  "instruments": true,
+  "anatomies": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5357,
+  "physician": "Gl",
+  "date": "2021-07-16 11:18:00",
+  "frames": 12982,
+  "length": 432.73333333333335,
+  "phases": true,
+  "irregularities": true
+ },
+ {
+  "caseId": 5419,
+  "frames": 8199,
+  "length": 273.3,
+  "irregularities": true
+ },
+ {
+  "caseId": 5693,
+  "frames": 15800,
+  "length": 526.6666666666666,
+  "irregularities": true
+ },
+ {
+  "caseId": 7380,
+  "frames": 7825,
+  "length": 260.8333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 7764,
+  "frames": 10916,
+  "length": 363.8666666666667,
+  "irregularities": true
+ },
+ {
+  "caseId": 7868,
+  "frames": 13473,
+  "length": 449.1,
+  "irregularities": true
+ },
+ {
+  "caseId": 8039,
+  "frames": 10282,
+  "length": 342.73333333333335,
+  "irregularities": true
+ },
+ {
+  "caseId": 8041,
+  "frames": 16416,
+  "length": 547.2,
+  "irregularities": true
+ },
+ {
+  "caseId": 8114,
+  "frames": 11858,
+  "length": 395.26666666666665,
+  "irregularities": true
+ },
+ {
+  "caseId": 8124,
+  "frames": 9831,
+  "length": 327.7,
+  "irregularities": true
+ },
+ {
+  "caseId": 8138,
+  "frames": 13626,
+  "length": 454.2,
+  "irregularities": true
+ },
+ {
+  "caseId": 8147,
+  "frames": 10916,
+  "length": 363.8666666666667,
+  "irregularities": true
+ },
+ {
+  "caseId": 8150,
+  "frames": 13647,
+  "length": 454.9,
+  "irregularities": true
+ },
+ {
+  "caseId": 8157,
+  "frames": 18516,
+  "length": 617.2,
+  "irregularities": true
+ },
+ {
+  "caseId": 8167,
+  "frames": 10326,
+  "length": 344.2,
+  "irregularities": true
+ },
+ {
+  "caseId": 8171,
+  "frames": 25234,
+  "length": 841.1333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 8175,
+  "frames": 14841,
+  "length": 494.7,
+  "irregularities": true
+ },
+ {
+  "caseId": 8182,
+  "frames": 10709,
+  "length": 356.96666666666664,
+  "irregularities": true
+ },
+ {
+  "caseId": 8185,
+  "frames": 12581,
+  "length": 419.3666666666667,
+  "irregularities": true
+ },
+ {
+  "caseId": 8197,
+  "frames": 9132,
+  "length": 304.4,
+  "irregularities": true
+ },
+ {
+  "caseId": 8200,
+  "frames": 11542,
+  "length": 384.73333333333335,
+  "irregularities": true
+ },
+ {
+  "caseId": 8223,
+  "frames": 13623,
+  "length": 454.1,
+  "irregularities": true
+ },
+ {
+  "caseId": 8228,
+  "frames": 18631,
+  "length": 621.0333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 8255,
+  "frames": 10675,
+  "length": 355.8333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 8293,
+  "frames": 8650,
+  "length": 288.3333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 8297,
+  "frames": 8118,
+  "length": 270.6,
+  "irregularities": true
+ },
+ {
+  "caseId": 8302,
+  "frames": 8644,
+  "length": 288.1333333333333,
+  "irregularities": true
+ },
+ {
+  "caseId": 8316,
+  "frames": 17802,
+  "length": 593.4,
+  "irregularities": true
+ },
+ {
+  "caseId": 8347,
+  "frames": 88930,
+  "length": 2964.3333333333335,
+  "irregularities": true
+ },
+ {
+  "caseId": 8349,
+  "frames": 12543,
+  "length": 418.1,
+  "irregularities": true
+ },
+ {
+  "caseId": 8417,
+  "frames": 16352,
+  "length": 545.0666666666667,
+  "irregularities": true
+ },
+ {
+  "caseId": 8441,
+  "frames": 12899,
+  "length": 429.96666666666664,
+  "irregularities": true
+ }
+]

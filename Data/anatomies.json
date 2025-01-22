@@ -1,0 +1,839 @@
+[
+ {
+  "caseId": 5013,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10159,
+  "startSec": 0.0,
+  "endSec": 338.6333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10159,
+  "startSec": 0.0,
+  "endSec": 338.6333333333333
+ },
+ {
+  "caseId": 5013,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8162,
+  "end": 10159,
+  "startSec": 272.06666666666666,
+  "endSec": 338.6333333333333
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 11825,
+  "startSec": 0.0,
+  "endSec": 394.1666666666667
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 11825,
+  "startSec": 0.0,
+  "endSec": 394.1666666666667
+ },
+ {
+  "caseId": 5014,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 9812,
+  "end": 11825,
+  "startSec": 327.06666666666666,
+  "endSec": 394.1666666666667
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10034,
+  "startSec": 0.0,
+  "endSec": 334.46666666666664
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10034,
+  "startSec": 0.0,
+  "endSec": 334.46666666666664
+ },
+ {
+  "caseId": 5015,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 7262,
+  "end": 10034,
+  "startSec": 242.06666666666666,
+  "endSec": 334.46666666666664
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10963,
+  "startSec": 0.0,
+  "endSec": 365.43333333333334
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10963,
+  "startSec": 0.0,
+  "endSec": 365.43333333333334
+ },
+ {
+  "caseId": 5016,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 7862,
+  "end": 10963,
+  "startSec": 262.06666666666666,
+  "endSec": 365.43333333333334
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10180,
+  "startSec": 0.0,
+  "endSec": 339.3333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10180,
+  "startSec": 0.0,
+  "endSec": 339.3333333333333
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8162,
+  "end": 9661,
+  "startSec": 272.06666666666666,
+  "endSec": 322.03333333333336
+ },
+ {
+  "caseId": 5017,
+  "phaseId": 4,
+  "anatomy": "Intraocular Lens",
+  "start": 9812,
+  "end": 10180,
+  "startSec": 327.06666666666666,
+  "endSec": 339.3333333333333
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 9095,
+  "startSec": 0.0,
+  "endSec": 303.1666666666667
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 9095,
+  "startSec": 0.0,
+  "endSec": 303.1666666666667
+ },
+ {
+  "caseId": 5032,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 6662,
+  "end": 9095,
+  "startSec": 222.06666666666666,
+  "endSec": 303.1666666666667
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 8548,
+  "startSec": 0.0,
+  "endSec": 284.93333333333334
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 8548,
+  "startSec": 0.0,
+  "endSec": 284.93333333333334
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 6362,
+  "end": 6511,
+  "startSec": 212.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5051,
+  "phaseId": 4,
+  "anatomy": "Intraocular Lens",
+  "start": 6662,
+  "end": 8548,
+  "startSec": 222.06666666666666,
+  "endSec": 284.93333333333334
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10565,
+  "startSec": 0.0,
+  "endSec": 352.1666666666667
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10565,
+  "startSec": 0.0,
+  "endSec": 352.1666666666667
+ },
+ {
+  "caseId": 5057,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8012,
+  "end": 10565,
+  "startSec": 267.06666666666666,
+  "endSec": 352.1666666666667
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 11877,
+  "startSec": 0.0,
+  "endSec": 395.9
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 11877,
+  "startSec": 0.0,
+  "endSec": 395.9
+ },
+ {
+  "caseId": 5058,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8012,
+  "end": 11877,
+  "startSec": 267.06666666666666,
+  "endSec": 395.9
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 11116,
+  "startSec": 0.0,
+  "endSec": 370.53333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 11116,
+  "startSec": 0.0,
+  "endSec": 370.53333333333336
+ },
+ {
+  "caseId": 5063,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 7562,
+  "end": 11116,
+  "startSec": 252.06666666666666,
+  "endSec": 370.53333333333336
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 9867,
+  "startSec": 0.0,
+  "endSec": 328.9
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 9867,
+  "startSec": 0.0,
+  "endSec": 328.9
+ },
+ {
+  "caseId": 5072,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8462,
+  "end": 9867,
+  "startSec": 282.06666666666666,
+  "endSec": 328.9
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 28650,
+  "startSec": 0.0,
+  "endSec": 955.0
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 28650,
+  "startSec": 0.0,
+  "endSec": 955.0
+ },
+ {
+  "caseId": 5104,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 24512,
+  "end": 28650,
+  "startSec": 817.0666666666667,
+  "endSec": 955.0
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 14142,
+  "startSec": 0.0,
+  "endSec": 471.4
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 14142,
+  "startSec": 0.0,
+  "endSec": 471.4
+ },
+ {
+  "caseId": 5180,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 10262,
+  "end": 14142,
+  "startSec": 342.06666666666666,
+  "endSec": 471.4
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10284,
+  "startSec": 0.0,
+  "endSec": 342.8
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10284,
+  "startSec": 0.0,
+  "endSec": 342.8
+ },
+ {
+  "caseId": 5299,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8012,
+  "end": 10284,
+  "startSec": 267.06666666666666,
+  "endSec": 342.8
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 9213,
+  "startSec": 0.0,
+  "endSec": 307.1
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 9213,
+  "startSec": 0.0,
+  "endSec": 307.1
+ },
+ {
+  "caseId": 5300,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 6962,
+  "end": 9213,
+  "startSec": 232.06666666666666,
+  "endSec": 307.1
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 7909,
+  "startSec": 0.0,
+  "endSec": 263.6333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 7909,
+  "startSec": 0.0,
+  "endSec": 263.6333333333333
+ },
+ {
+  "caseId": 5301,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 5912,
+  "end": 7909,
+  "startSec": 197.06666666666666,
+  "endSec": 263.6333333333333
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 7995,
+  "startSec": 0.0,
+  "endSec": 266.5
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 7995,
+  "startSec": 0.0,
+  "endSec": 266.5
+ },
+ {
+  "caseId": 5303,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 5912,
+  "end": 7995,
+  "startSec": 197.06666666666666,
+  "endSec": 266.5
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 7747,
+  "startSec": 0.0,
+  "endSec": 258.23333333333335
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 7747,
+  "startSec": 0.0,
+  "endSec": 258.23333333333335
+ },
+ {
+  "caseId": 5304,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 5762,
+  "end": 7747,
+  "startSec": 192.06666666666666,
+  "endSec": 258.23333333333335
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10929,
+  "startSec": 0.0,
+  "endSec": 364.3
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10929,
+  "startSec": 0.0,
+  "endSec": 364.3
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 5762,
+  "end": 6511,
+  "startSec": 192.06666666666666,
+  "endSec": 217.03333333333333
+ },
+ {
+  "caseId": 5305,
+  "phaseId": 4,
+  "anatomy": "Intraocular Lens",
+  "start": 6662,
+  "end": 10929,
+  "startSec": 222.06666666666666,
+  "endSec": 364.3
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10074,
+  "startSec": 0.0,
+  "endSec": 335.8
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10074,
+  "startSec": 0.0,
+  "endSec": 335.8
+ },
+ {
+  "caseId": 5309,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 7262,
+  "end": 10074,
+  "startSec": 242.06666666666666,
+  "endSec": 335.8
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 11095,
+  "startSec": 0.0,
+  "endSec": 369.8333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 11095,
+  "startSec": 0.0,
+  "endSec": 369.8333333333333
+ },
+ {
+  "caseId": 5315,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8012,
+  "end": 11095,
+  "startSec": 267.06666666666666,
+  "endSec": 369.8333333333333
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10238,
+  "startSec": 0.0,
+  "endSec": 341.26666666666665
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10238,
+  "startSec": 0.0,
+  "endSec": 341.26666666666665
+ },
+ {
+  "caseId": 5316,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 7262,
+  "end": 10238,
+  "startSec": 242.06666666666666,
+  "endSec": 341.26666666666665
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 9057,
+  "startSec": 0.0,
+  "endSec": 301.9
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 9057,
+  "startSec": 0.0,
+  "endSec": 301.9
+ },
+ {
+  "caseId": 5317,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 6212,
+  "end": 9057,
+  "startSec": 207.06666666666666,
+  "endSec": 301.9
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 16533,
+  "startSec": 0.0,
+  "endSec": 551.1
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 16533,
+  "startSec": 0.0,
+  "endSec": 551.1
+ },
+ {
+  "caseId": 5319,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 12812,
+  "end": 16533,
+  "startSec": 427.06666666666666,
+  "endSec": 551.1
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 14128,
+  "startSec": 0.0,
+  "endSec": 470.93333333333334
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 14128,
+  "startSec": 0.0,
+  "endSec": 470.93333333333334
+ },
+ {
+  "caseId": 5325,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 10412,
+  "end": 14128,
+  "startSec": 347.06666666666666,
+  "endSec": 470.93333333333334
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 11234,
+  "startSec": 0.0,
+  "endSec": 374.46666666666664
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 11234,
+  "startSec": 0.0,
+  "endSec": 374.46666666666664
+ },
+ {
+  "caseId": 5329,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8762,
+  "end": 11234,
+  "startSec": 292.06666666666666,
+  "endSec": 374.46666666666664
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 11685,
+  "startSec": 0.0,
+  "endSec": 389.5
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 11685,
+  "startSec": 0.0,
+  "endSec": 389.5
+ },
+ {
+  "caseId": 5334,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8762,
+  "end": 11685,
+  "startSec": 292.06666666666666,
+  "endSec": 389.5
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 11013,
+  "startSec": 0.0,
+  "endSec": 367.1
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 11013,
+  "startSec": 0.0,
+  "endSec": 367.1
+ },
+ {
+  "caseId": 5335,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 8312,
+  "end": 11013,
+  "startSec": 277.06666666666666,
+  "endSec": 367.1
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 10819,
+  "startSec": 0.0,
+  "endSec": 360.6333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 10819,
+  "startSec": 0.0,
+  "endSec": 360.6333333333333
+ },
+ {
+  "caseId": 5340,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 7862,
+  "end": 10819,
+  "startSec": 262.06666666666666,
+  "endSec": 360.6333333333333
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 1,
+  "anatomy": "Iris",
+  "start": 0,
+  "end": 9542,
+  "startSec": 0.0,
+  "endSec": 318.06666666666666
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 2,
+  "anatomy": "Pupil",
+  "start": 0,
+  "end": 9542,
+  "startSec": 0.0,
+  "endSec": 318.06666666666666
+ },
+ {
+  "caseId": 5353,
+  "phaseId": 3,
+  "anatomy": "Intraocular Lens",
+  "start": 6962,
+  "end": 9542,
+  "startSec": 232.06666666666666,
+  "endSec": 318.06666666666666
+ }
+]

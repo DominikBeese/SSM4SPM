@@ -1,0 +1,34 @@
+                          Experiment   Metric  File     Value                  Model        CNN          RNN
+0         Evaluation-ResNet152_BiGRU  ROC-AUC     1  0.947877        ResNet152-BiGRU  ResNet152        BiGRU
+1         Evaluation-ResNet152_BiGRU  ROC-AUC     2  0.943156        ResNet152-BiGRU  ResNet152        BiGRU
+2         Evaluation-ResNet152_BiGRU  ROC-AUC     3  0.967142        ResNet152-BiGRU  ResNet152        BiGRU
+3         Evaluation-ResNet152_BiGRU  ROC-AUC     4  0.953461        ResNet152-BiGRU  ResNet152        BiGRU
+4         Evaluation-ResNet152_BiGRU  ROC-AUC     5  0.953669        ResNet152-BiGRU  ResNet152        BiGRU
+5        Evaluation-ResNet152_BiLSTM  ROC-AUC     1  0.954077       ResNet152-BiLSTM  ResNet152       BiLSTM
+6        Evaluation-ResNet152_BiLSTM  ROC-AUC     2  0.950753       ResNet152-BiLSTM  ResNet152       BiLSTM
+7        Evaluation-ResNet152_BiLSTM  ROC-AUC     3  0.956788       ResNet152-BiLSTM  ResNet152       BiLSTM
+8        Evaluation-ResNet152_BiLSTM  ROC-AUC     4  0.931751       ResNet152-BiLSTM  ResNet152       BiLSTM
+9        Evaluation-ResNet152_BiLSTM  ROC-AUC     5  0.960758       ResNet152-BiLSTM  ResNet152       BiLSTM
+10          Evaluation-ResNet152_GRU  ROC-AUC     1  0.937626          ResNet152-GRU  ResNet152          GRU
+11          Evaluation-ResNet152_GRU  ROC-AUC     2  0.956118          ResNet152-GRU  ResNet152          GRU
+12          Evaluation-ResNet152_GRU  ROC-AUC     3  0.961184          ResNet152-GRU  ResNet152          GRU
+13          Evaluation-ResNet152_GRU  ROC-AUC     4  0.937817          ResNet152-GRU  ResNet152          GRU
+14          Evaluation-ResNet152_GRU  ROC-AUC     5  0.971692          ResNet152-GRU  ResNet152          GRU
+15         Evaluation-ResNet152_LSTM  ROC-AUC     1  0.934978         ResNet152-LSTM  ResNet152         LSTM
+16         Evaluation-ResNet152_LSTM  ROC-AUC     2  0.954903         ResNet152-LSTM  ResNet152         LSTM
+17         Evaluation-ResNet152_LSTM  ROC-AUC     3  0.938774         ResNet152-LSTM  ResNet152         LSTM
+18         Evaluation-ResNet152_LSTM  ROC-AUC     4  0.936518         ResNet152-LSTM  ResNet152         LSTM
+19         Evaluation-ResNet152_LSTM  ROC-AUC     5  0.953811         ResNet152-LSTM  ResNet152         LSTM
+20   Evaluation-ResNet152_Mamba-best  ROC-AUC     1  0.945163   ResNet152-Mamba-best  ResNet152        Mamba
+21   Evaluation-ResNet152_Mamba-best  ROC-AUC     2  0.943892   ResNet152-Mamba-best  ResNet152        Mamba
+22   Evaluation-ResNet152_Mamba-best  ROC-AUC     3  0.944026   ResNet152-Mamba-best  ResNet152        Mamba
+23   Evaluation-ResNet152_Mamba-best  ROC-AUC     4  0.921304   ResNet152-Mamba-best  ResNet152        Mamba
+24   Evaluation-ResNet152_Mamba-best  ROC-AUC     5  0.957855   ResNet152-Mamba-best  ResNet152        Mamba
+25  Evaluation-ResNet152_Transformer  ROC-AUC     1  0.944636  ResNet152-Transformer  ResNet152  Transformer
+26  Evaluation-ResNet152_Transformer  ROC-AUC     2  0.964405  ResNet152-Transformer  ResNet152  Transformer
+27  Evaluation-ResNet152_Transformer  ROC-AUC     3  0.963957  ResNet152-Transformer  ResNet152  Transformer
+28  Evaluation-ResNet152_Transformer  ROC-AUC     4  0.939934  ResNet152-Transformer  ResNet152  Transformer
+29  Evaluation-ResNet152_Transformer  ROC-AUC     5  0.966442  ResNet152-Transformer  ResNet152  Transformer
+
+Metric
+ROC-AUC    0.949816

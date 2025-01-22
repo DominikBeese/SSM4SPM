@@ -1,0 +1,34 @@
+                                    Experiment   Metric  File     Value                            Model        CNN          RNN
+0         Evaluation-ResNet152_BiGRU-finetuned  ROC-AUC     1  0.799835        ResNet152-BiGRU-finetuned  ResNet152        BiGRU
+1         Evaluation-ResNet152_BiGRU-finetuned  ROC-AUC     2  0.746836        ResNet152-BiGRU-finetuned  ResNet152        BiGRU
+2         Evaluation-ResNet152_BiGRU-finetuned  ROC-AUC     3  0.712545        ResNet152-BiGRU-finetuned  ResNet152        BiGRU
+3         Evaluation-ResNet152_BiGRU-finetuned  ROC-AUC     4  0.802703        ResNet152-BiGRU-finetuned  ResNet152        BiGRU
+4         Evaluation-ResNet152_BiGRU-finetuned  ROC-AUC     5  0.799166        ResNet152-BiGRU-finetuned  ResNet152        BiGRU
+5        Evaluation-ResNet152_BiLSTM-finetuned  ROC-AUC     1  0.803990       ResNet152-BiLSTM-finetuned  ResNet152       BiLSTM
+6        Evaluation-ResNet152_BiLSTM-finetuned  ROC-AUC     2  0.805194       ResNet152-BiLSTM-finetuned  ResNet152       BiLSTM
+7        Evaluation-ResNet152_BiLSTM-finetuned  ROC-AUC     3  0.707232       ResNet152-BiLSTM-finetuned  ResNet152       BiLSTM
+8        Evaluation-ResNet152_BiLSTM-finetuned  ROC-AUC     4  0.775140       ResNet152-BiLSTM-finetuned  ResNet152       BiLSTM
+9        Evaluation-ResNet152_BiLSTM-finetuned  ROC-AUC     5  0.799352       ResNet152-BiLSTM-finetuned  ResNet152       BiLSTM
+10          Evaluation-ResNet152_GRU-finetuned  ROC-AUC     1  0.780574          ResNet152-GRU-finetuned  ResNet152          GRU
+11          Evaluation-ResNet152_GRU-finetuned  ROC-AUC     2  0.759401          ResNet152-GRU-finetuned  ResNet152          GRU
+12          Evaluation-ResNet152_GRU-finetuned  ROC-AUC     3  0.739996          ResNet152-GRU-finetuned  ResNet152          GRU
+13          Evaluation-ResNet152_GRU-finetuned  ROC-AUC     4  0.814817          ResNet152-GRU-finetuned  ResNet152          GRU
+14          Evaluation-ResNet152_GRU-finetuned  ROC-AUC     5  0.779506          ResNet152-GRU-finetuned  ResNet152          GRU
+15         Evaluation-ResNet152_LSTM-finetuned  ROC-AUC     1  0.836945         ResNet152-LSTM-finetuned  ResNet152         LSTM
+16         Evaluation-ResNet152_LSTM-finetuned  ROC-AUC     2  0.779212         ResNet152-LSTM-finetuned  ResNet152         LSTM
+17         Evaluation-ResNet152_LSTM-finetuned  ROC-AUC     3  0.775731         ResNet152-LSTM-finetuned  ResNet152         LSTM
+18         Evaluation-ResNet152_LSTM-finetuned  ROC-AUC     4  0.748042         ResNet152-LSTM-finetuned  ResNet152         LSTM
+19         Evaluation-ResNet152_LSTM-finetuned  ROC-AUC     5  0.772296         ResNet152-LSTM-finetuned  ResNet152         LSTM
+20        Evaluation-ResNet152_Mamba-finetuned  ROC-AUC     1  0.708987        ResNet152-Mamba-finetuned  ResNet152        Mamba
+21        Evaluation-ResNet152_Mamba-finetuned  ROC-AUC     2  0.691330        ResNet152-Mamba-finetuned  ResNet152        Mamba
+22        Evaluation-ResNet152_Mamba-finetuned  ROC-AUC     3  0.587291        ResNet152-Mamba-finetuned  ResNet152        Mamba
+23        Evaluation-ResNet152_Mamba-finetuned  ROC-AUC     4  0.704238        ResNet152-Mamba-finetuned  ResNet152        Mamba
+24        Evaluation-ResNet152_Mamba-finetuned  ROC-AUC     5  0.778817        ResNet152-Mamba-finetuned  ResNet152        Mamba
+25  Evaluation-ResNet152_Transformer-finetuned  ROC-AUC     1  0.713566  ResNet152-Transformer-finetuned  ResNet152  Transformer
+26  Evaluation-ResNet152_Transformer-finetuned  ROC-AUC     2  0.777197  ResNet152-Transformer-finetuned  ResNet152  Transformer
+27  Evaluation-ResNet152_Transformer-finetuned  ROC-AUC     3  0.714743  ResNet152-Transformer-finetuned  ResNet152  Transformer
+28  Evaluation-ResNet152_Transformer-finetuned  ROC-AUC     4  0.760533  ResNet152-Transformer-finetuned  ResNet152  Transformer
+29  Evaluation-ResNet152_Transformer-finetuned  ROC-AUC     5  0.830987  ResNet152-Transformer-finetuned  ResNet152  Transformer
+
+Metric
+ROC-AUC    0.760207
